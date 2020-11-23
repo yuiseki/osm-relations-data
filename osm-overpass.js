@@ -224,10 +224,14 @@ const getAllCityData = async (country_osm_id) => {
   const allCountry = require(basedir_en+level_2_object_filename);
   const country_osm_id = allCountry[countryName];
 
-  const country_geojson = await osmGeoJson.get(country_osm_id);
-  const country_geojson_string = JSON.stringify(country_geojson, null, 2);
   const countryGeojsonPath = basedir+country_osm_id+'/'+level_2_geojson_filename;
-  await fs.writeFile(countryGeojsonPath, country_geojson_string, 'utf-8');
+  try {
+    await fs.stat(countryGeojsonPath);
+  } catch (error) {
+    const country_geojson = await osmGeoJson.get(country_osm_id);
+    const country_geojson_string = JSON.stringify(country_geojson, null, 2);
+    await fs.writeFile(countryGeojsonPath, country_geojson_string, 'utf-8');
+  }
 
   //await getAllStateData(countryName, country_osm_id);
   //await getAllCityData(country_osm_id);
@@ -243,5 +247,17 @@ const getAllCityData = async (country_osm_id) => {
     await fs.writeFile(geojsonPath, state_geojson_string, 'utf-8');
   }
   */
+
+  const allState = require(basedir+country_osm_id+'/'+level_4_object_filename);
+  for (const state_osm_id in allState) {
+    const allCities = require(basedir+country_osm_id+'/'+state_osm_id+'/'+level_7_object_filename);
+    for (const city_osm_id in allCities) {
+      const city_geojson = await osmGeoJson.get(city_osm_id);
+      const city_geojson_string = JSON.stringify(city_geojson, null, 2);
+      console.log(city_geojson);
+      const geojsonPath = basedir+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'.geojson';
+      await fs.writeFile(geojsonPath, city_geojson_string, 'utf-8');
+    }
+  }
 
 })();

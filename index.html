@@ -1,20 +1,33 @@
 <head>
   <title>geonlp-json demo</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-  integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-  crossorigin=""/>
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-   crossorigin=""></script>
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
   <style type="text/css">
     body {
       margin: 0;
       padding: 0;
     }
+    #name-input {
+      font-size: 1.5em;
+      width: 24%;
+    }
+    #suggests-wrap {
+      background-color: white;
+      position: absolute;
+      z-index: 10;
+      width: 24%;
+      height: 80%;
+      overflow: scroll;
+    }
     #map {
       position: relative;
       z-index: 1;
-      width: 100%;
+      margin-left: 24%;
+      width: 74%;
       height: 80%;
     }
   </style>
@@ -23,6 +36,12 @@
 
 <h1>osm-relations-data demo</h1>
 <h3><a href="https://github.com/yuiseki/osm-relations-data">https://github.com/yuiseki/osm-relations-data</a></h3>
+
+<input id="name-input" type="text" disabled />
+<div id="suggests-wrap">
+  <ul id="suggests-list">
+  </ul>
+</div>
 
 <div id="map"></div>
 </body>
@@ -39,17 +58,65 @@
   L.control.zoom({
     position:'topright'
   }).addTo(map);
-  var markerLayer = L.layerGroup().addTo(map);
+  let overlayLayer = L.layerGroup().addTo(map);
 
-  const japanStatesRes = await fetch('./data/osm/382313/level_4_object.json');
-  const japanStates = await japanStatesRes.json();
-  for (const key in japanStates) {
-    const state = japanStates[key];
-    const res = await fetch('./data/osm/382313/'+key+'/index.geojson');
-    const geojsonFeature = await res.json();
-    L.geoJSON(geojsonFeature).addTo(map);
-  }
+  const level4objres = await fetch('./data/osm_ja/382313/level_4_object.json');
+  const level4obj = await level4objres.json();
+  const level7objres = await fetch('./data/osm_ja/382313/level_7_object.json');
+  const level7obj = await level7objres.json();
+  const locationObject = Object.assign(level4obj, level7obj);
 
+  const level4namesres = await fetch('./data/osm_ja/382313/level_4_names.json');
+  const level4names = await level4namesres.json();
+  const level7namesres = await fetch('./data/osm_ja/382313/level_7_names.json');
+  const level7names = await level7namesres.json();
+  const names = level4names.concat(level7names);
 
+  const show = async (fullname) => {
+    overlayLayer.clearLayers();
+    let state_id;
+    let city_id;
+    if(fullname.indexOf(' ') > 0){
+      const state_name = fullname.split(' ')[0];
+      state_id = level4obj[state_name];
+      city_id = level7obj[fullname];
+    }else{
+      state_id = level4obj[fullname];
+    }
+    let geoJSONPath = './data/osm/382313/'+state_id+'/index.geojson';
+    if(city_id){
+      geoJSONPath = './data/osm/382313/'+state_id+'/'+city_id+'.geojson'
+    }
+    var geoJSONRes = await fetch(geoJSONPath);
+    var geoJSON = await geoJSONRes.json();
+    var showGeoJSON = L.geoJSON(geoJSON);
+    console.log(showGeoJSON);
+    overlayLayer.addLayer(showGeoJSON);
+    map.fitBounds(showGeoJSON.getBounds());
+  };
+
+  // 入力欄の初期化
+  var suggestsList = document.getElementById('suggests-list');
+  var nameInputOnChange = (event) => {
+    var inputText = event.target.value;
+    if(inputText.length < 1){
+      return;
+    }
+    var contains = names.filter((name) => {return name.includes(inputText)});
+    if(contains.length > 0){
+      suggestsList.innerHTML = '';
+      contains.forEach(async (name) => {
+        var li = document.createElement('li');
+        li.textContent = name;
+        li.onclick = (e) => {
+          show(e.target.innerHTML);
+        }
+        suggestsList.appendChild(li);
+      })
+    }
+  };
+  var nameInput = document.getElementById('name-input');
+  nameInput.disabled = false;
+  nameInput.addEventListener('input', nameInputOnChange);
 })();
 </script>
