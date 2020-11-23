@@ -1,8 +1,7 @@
-const { count } = require('console');
 const fetch = require('node-fetch');
 const fs = require('fs').promises;
 
-const basedir = './data/osm/'
+const basedir = './data/osm/';
 const basedir_en = './data/osm_en/';
 const basedir_ja = './data/osm_ja/';
 const level_2_names_filename = 'level_2_names.json';
@@ -19,7 +18,7 @@ const fetchOSMRelations = (data, prefix = null) => {
     console.log('');
     const params = {
       data: data
-    }
+    };
     const query = new URLSearchParams(params);
     const res = await fetch('https://overpass-api.de/api/interpreter?'+query);
     const json = await res.json();
@@ -46,17 +45,17 @@ const fetchOSMRelations = (data, prefix = null) => {
         fullnameJa = results[idx]['tags']['name'];
       }
       if(prefix && prefix.ja){
-        fullnameEn = prefix.ja + ' ' + fullnameEn;
+        fullnameJa = prefix.ja + ' ' + fullnameJa;
       }
       OSMRelationsJa[fullnameJa] = results[idx].id;
       OSMRelations[results[idx].id] = {
         en: fullnameEn,
         ja: fullnameJa,
-      }
+      };
     }
     resolve({ OSMRelations, OSMRelationsEn, OSMRelationsJa })
   });
-}
+};
 
 const getAllCountryData = async () => {
   const overpass_query_level_2 = `
@@ -79,7 +78,7 @@ const getAllCountryData = async () => {
   const OSMRelationsJaNamesString = JSON.stringify(Object.keys(OSMRelationsJa), null, 2);
   await fs.writeFile(basedir_ja+level_2_object_filename, OSMRelationsJaString, 'utf-8');
   await fs.writeFile(basedir_ja+level_2_object_filename, OSMRelationsJaNamesString, 'utf-8');
-}
+};
 
 const getAllStateData = async (country_name_en, country_osm_id) => {
   const overpass_query_level_4 = `
@@ -99,7 +98,7 @@ const getAllStateData = async (country_name_en, country_osm_id) => {
   } catch (error) {
     await fs.mkdir(OSMRelationsDir);
   }
-  await fs.writeFile(basedir+level_2_object_filename, OSMRelationsString, 'utf-8');
+  await fs.writeFile(OSMRelationsDir+level_4_object_filename, OSMRelationsString, 'utf-8');
 
   // write out key as name:en
   const OSMRelationsEnString = JSON.stringify(OSMRelationsEn, null, 2);
@@ -124,62 +123,99 @@ const getAllStateData = async (country_name_en, country_osm_id) => {
   }
   await fs.writeFile(OSMRelationsJaDir+level_4_object_filename, OSMRelationsJaString, 'utf-8');
   await fs.writeFile(OSMRelationsJaDir+level_4_names_filename, OSMRelationsJaNamesString, 'utf-8');
-}
+};
 
-const getAllCityData = async (country_id) => {
-  const allStateJa = require('./data/osm_ja/'+country_id+'/'+level_4_object_filename);
+const getAllCityData = async (country_osm_id) => {
+  const allState = require('./data/osm/'+country_osm_id+'/'+level_4_object_filename);
+  let level_7_obj = {};
   let level_7_names_en = [];
-  for (const key in allStateJa) {
-    const state_id = allStateJa[key];
+  let level_7_obj_en = {};
+  let level_7_names_ja = [];
+  let level_7_obj_ja = {};
+  for (const key in allState) {
+    const state_osm_id = key;
+    const state_name_en = allState[key].en;
+    const state_name_ja = allState[key].ja;
     const overpass_query_level_7 = `
       [out:json][timeout:25];
-      relation(${state_id});
+      relation(${state_osm_id});
       map_to_area;
       relation(area)["admin_level"="7"]["type"="boundary"]["boundary"="administrative"]["name"];
       out tags;
       out skel qt;
     `;
     prefix = {
-      en: key,
-      ja: key
+      en: state_name_en,
+      ja: state_name_ja
+    };
+    const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOSMRelations(overpass_query_level_7, prefix);
+
+    // write out key as relation id
+    level_7_obj = Object.assign(level_7_obj, OSMRelations);
+    const OSMRelationsString = JSON.stringify(OSMRelations, null, 2);
+    const OSMRelationsDir = basedir+country_osm_id+'/'+state_osm_id+'/';
+    try {
+      await fs.stat(OSMRelationsDir);
+    } catch (error) {
+      await fs.mkdir(OSMRelationsDir);
     }
-    const { OSMRelationsEn, OSMRelationsJa } = await fetchOSMRelations(overpass_query_level_7, prefix);
-    const OSMRelationsPath = basedir+country_id+'/'+state_id+'/level_7_ja.json';
-    await fs.writeFile(OSMRelationsPath, OSMRelationsString, 'utf-8');
-    const OSMRelationsJaString = JSON.stringify(OSMRelationsJa, null, 2);
-    level_7_names_en = "";
-    const OSMRelationsJaNamesString = JSON.stringify(Object.keys(OSMRelationsJa), null, 2);
+    await fs.writeFile(OSMRelationsDir+level_7_object_filename, OSMRelationsString, 'utf-8');
+
+    // write out key as name:en
     const OSMRelationsEnString = JSON.stringify(OSMRelationsEn, null, 2);
+    level_7_obj_en = Object.assign(level_7_obj_en, OSMRelationsEn);
     const OSMRelationsEnNamesString = JSON.stringify(Object.keys(OSMRelationsEn), null, 2);
-    const OSMRelationsFileName = 'level_7.json'
-    const OSMRelationsNamesFileName = 'level_7_names.json'
-    const OSMRelationsEnDir = basedir+'osm_en/'+country_id+'/'+state_id+'/';
+    level_7_names_en = level_7_names_en.concat(Object.keys(OSMRelationsEn));
+    const OSMRelationsEnDir = basedir_en+country_osm_id+'/'+state_osm_id+'/';
     try {
       await fs.stat(OSMRelationsEnDir);
     } catch (error) {
       await fs.mkdir(OSMRelationsEnDir);
     }
-    const OSMRelationsJaDir = basedir+'osm_ja/'+country_id+'/'+state_id+'/';
+    await fs.writeFile(OSMRelationsEnDir+level_7_object_filename, OSMRelationsEnString, 'utf-8');
+    await fs.writeFile(OSMRelationsEnDir+level_7_names_filename, OSMRelationsEnNamesString, 'utf-8');
+
+    // write out key as name:ja
+    const OSMRelationsJaString = JSON.stringify(OSMRelationsJa, null, 2);
+    level_7_obj_ja = Object.assign(level_7_obj_ja, OSMRelationsJa);
+    const OSMRelationsJaNamesString = JSON.stringify(Object.keys(OSMRelationsJa), null, 2);
+    level_7_names_ja = level_7_names_ja.concat(Object.keys(OSMRelationsJa));
+    const OSMRelationsJaDir = basedir_ja+country_osm_id+'/'+state_osm_id+'/';
     try {
       await fs.stat(OSMRelationsJaDir);
     } catch (error) {
       await fs.mkdir(OSMRelationsJaDir);
     }
-    await fs.writeFile(OSMRelationsEnDir+OSMRelationsFileName, OSMRelationsEnString, 'utf-8');
-    await fs.writeFile(OSMRelationsEnDir+OSMRelationsNamesFileName, OSMRelationsEnNamesString, 'utf-8');
-    await fs.writeFile(OSMRelationsJaDir+OSMRelationsFileName, OSMRelationsJaString, 'utf-8');
-    await fs.writeFile(OSMRelationsJaDir+OSMRelationsNamesFileName, OSMRelationsJaNamesString, 'utf-8');
+    await fs.writeFile(OSMRelationsJaDir+level_7_object_filename, OSMRelationsJaString, 'utf-8');
+    await fs.writeFile(OSMRelationsJaDir+level_7_names_filename, OSMRelationsJaNamesString, 'utf-8');
   }
-  const OSMRelationsNamesFileName = 'level_7_names.json'
-    await fs.writeFile(OSMRelationsJaDir+OSMRelationsNamesFileName, OSMRelationsJaNamesString, 'utf-8');
-}
+  // 国レベルの都道府県+市区町村 オブジェクト
+  const level_7_obj_string = JSON.stringify(level_7_obj, null, 2);
+  await fs.writeFile(basedir+country_osm_id+'/'+level_7_names_filename, level_7_obj_string, 'utf-8');
+
+  // 国レベルの都道府県+市区町村 英語オブジェクト
+  const level_7_obj_en_string = JSON.stringify(level_7_obj_en, null, 2);
+  await fs.writeFile(basedir_en+country_osm_id+'/'+level_7_object_filename, level_7_obj_en_string, 'utf-8');
+
+  // 国レベルの都道府県+市区町村 日本語オブジェクト
+  const level_7_obj_ja_string = JSON.stringify(level_7_obj_ja, null, 2);
+  await fs.writeFile(basedir_ja+country_osm_id+'/'+level_7_object_filename, level_7_obj_ja_string, 'utf-8');
+
+  // 国レベルの都道府県+市区町村 英語配列
+  const level_7_names_en_string = JSON.stringify(level_7_names_en, null, 2);
+  await fs.writeFile(basedir_en+country_osm_id+'/'+level_7_names_filename, level_7_names_en_string, 'utf-8');
+
+  // 国レベルの都道府県+市区町村 日本語配列
+  const level_7_names_ja_string = JSON.stringify(level_7_names_ja, null, 2);
+  await fs.writeFile(basedir_ja+country_osm_id+'/'+level_7_names_filename, level_7_names_ja_string, 'utf-8');
+};
 
 (async() => {
-  await getAllCountryData();
+  //await getAllCountryData();
   const allCountry = require(basedir_en+level_2_object_filename);
-  const country_id = allCountry['Japan'];
-  await getAllStateData('Japan', country_id)
-  //await getAllCityData(country_id)
+  const country_osm_id = allCountry['Japan'];
+  //await getAllStateData('Japan', country_osm_id);
+  await getAllCityData(country_osm_id);
 
 
 })();

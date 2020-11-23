@@ -1,186 +1,874 @@
 {
-  "341906": {
-    "en": "Osaka Prefecture",
-    "ja": "大阪府"
+  "9407": {
+    "en": "Andorra",
+    "ja": "アンドラ"
   },
-  "356911": {
-    "en": "Oita Prefecture",
-    "ja": "大分県"
+  "14296": {
+    "en": "Slovakia",
+    "ja": "スロバキア"
   },
-  "356912": {
-    "en": "Hyogo Prefecture",
-    "ja": "兵庫県"
+  "16239": {
+    "en": "Austria",
+    "ja": "オーストリア"
   },
-  "357112": {
-    "en": "Fukui Prefecture",
-    "ja": "福井県"
+  "21335": {
+    "en": "Hungary",
+    "ja": "ハンガリー"
   },
-  "357800": {
-    "en": "Shiga Prefecture",
-    "ja": "滋賀県"
+  "28699": {
+    "en": "Georgia",
+    "ja": "グルジア"
   },
-  "358631": {
-    "en": "Nara Prefecture",
-    "ja": "奈良県"
+  "36989": {
+    "en": "Vatican City",
+    "ja": "バチカン"
   },
-  "760746": {
-    "en": "Gifu Prefecture",
-    "ja": "岐阜県"
+  "49715": {
+    "en": "Poland",
+    "ja": "ポーランド"
   },
-  "812190": {
-    "en": "Mie Prefecture",
-    "ja": "三重県"
+  "49898": {
+    "en": "Cambodia",
+    "ja": "カンボジア"
   },
-  "908959": {
-    "en": "Wakayama Prefecture",
-    "ja": "和歌山県"
+  "49903": {
+    "en": "Laos",
+    "ja": "ラオス"
   },
-  "1543125": {
-    "en": "Tokyo",
-    "ja": "東京都"
+  "49915": {
+    "en": "Vietnam",
+    "ja": "ベトナム"
   },
-  "1553735": {
-    "en": "Fukuoka Prefecture",
-    "ja": "福岡県"
+  "50046": {
+    "en": "Denmark",
+    "ja": "デンマーク"
   },
-  "1800608": {
-    "en": "Fukushima Prefecture",
-    "ja": "福島県"
+  "50371": {
+    "en": "Myanmar",
+    "ja": "ミャンマー"
   },
-  "1800742": {
-    "en": "Tochigi Prefecture",
-    "ja": "栃木県"
+  "51477": {
+    "en": "Germany",
+    "ja": "ドイツ"
   },
-  "1834655": {
-    "en": "Aomori Prefecture",
-    "ja": "青森県"
+  "51684": {
+    "en": "Czechia",
+    "ja": "チェコ"
   },
-  "1842150": {
-    "en": "Saga Prefecture",
-    "ja": "佐賀県"
+  "51701": {
+    "en": "Switzerland",
+    "ja": "スイス"
   },
-  "1842151": {
-    "en": "Nagasaki Prefecture",
-    "ja": "長崎県"
+  "52411": {
+    "en": "Belgium",
+    "ja": "ベルギー"
   },
-  "1842184": {
-    "en": "Miyazaki Prefecture",
-    "ja": "宮崎県"
+  "52822": {
+    "en": "Sweden",
+    "ja": "スウェーデン"
   },
-  "1842185": {
-    "en": "Kumamoto Prefecture",
-    "ja": "熊本県"
+  "52939": {
+    "en": "Faroe Islands",
+    "ja": "フェロー諸島"
   },
-  "1842186": {
-    "en": "Kagoshima Prefecture",
-    "ja": "鹿児島県"
+  "53292": {
+    "en": "Albania",
+    "ja": "アルバニア"
   },
-  "1851649": {
-    "en": "Gunma Prefecture",
-    "ja": "群馬県"
+  "53293": {
+    "en": "North Macedonia",
+    "ja": "北マケドニア"
   },
-  "2137477": {
-    "en": "Kyoto Prefecture",
-    "ja": "京都府"
+  "53296": {
+    "en": "Montenegro",
+    "ja": "モンテネグロ"
   },
-  "2679957": {
-    "en": "Chiba Prefecture",
-    "ja": "千葉県"
+  "54224": {
+    "en": "Finland",
+    "ja": "フィンランド"
   },
-  "2682940": {
-    "en": "Ibaraki Prefecture",
-    "ja": "茨城県"
+  "54624": {
+    "en": "San Marino",
+    "ja": "San Marino"
   },
-  "2689487": {
-    "en": "Kanagawa Prefecture",
-    "ja": "神奈川県"
+  "58974": {
+    "en": "Moldova",
+    "ja": "モルドバ"
   },
-  "3218753": {
-    "en": "Hiroshima Prefecture",
-    "ja": "広島県"
+  "59065": {
+    "en": "Belarus",
+    "ja": "ベラルーシ"
   },
-  "3285636": {
-    "en": "Tottori Prefecture",
-    "ja": "鳥取県"
+  "59470": {
+    "en": "Brazil",
+    "ja": "ブラジル"
   },
-  "3346137": {
-    "en": "Shimane Prefecture",
-    "ja": "島根県"
+  "60189": {
+    "en": "Russia",
+    "ja": "ロシア"
   },
-  "3559887": {
-    "en": "Niigata Prefecture",
-    "ja": "新潟県"
+  "60199": {
+    "en": "Ukraine",
+    "ja": "ウクライナ"
   },
-  "3560284": {
-    "en": "Nagano Prefecture",
-    "ja": "長野県"
+  "62149": {
+    "en": "United Kingdom",
+    "ja": "イギリス"
   },
-  "3560336": {
-    "en": "Aichi Prefecture",
-    "ja": "愛知県"
+  "62269": {
+    "en": "Isle of Man",
+    "ja": "マン島"
   },
-  "3578391": {
-    "en": "Yamanashi Prefecture",
-    "ja": "山梨県"
+  "62273": {
+    "en": "Ireland",
+    "ja": "アイルランド"
   },
-  "3790801": {
-    "en": "Miyagi Prefecture",
-    "ja": "宮城県"
+  "72594": {
+    "en": "Latvia",
+    "ja": "ラトビア"
   },
-  "3790869": {
-    "en": "Yamagata Prefecture",
-    "ja": "山形県"
+  "72596": {
+    "en": "Lithuania",
+    "ja": "リトアニア"
   },
-  "3791413": {
-    "en": "Akita Prefecture",
-    "ja": "秋田県"
+  "79510": {
+    "en": "Estonia",
+    "ja": "エストニア"
   },
-  "3792412": {
-    "en": "Iwate Prefecture",
-    "ja": "岩手県"
+  "80500": {
+    "en": "Australia",
+    "ja": "オーストラリア"
   },
-  "3793529": {
-    "en": "Toyama Prefecture",
-    "ja": "富山県"
+  "87565": {
+    "en": "South Africa",
+    "ja": "南アフリカ"
   },
-  "3793581": {
-    "en": "Shizuoka Prefecture",
-    "ja": "静岡県"
+  "88210": {
+    "en": "Eswatini",
+    "ja": "スワジランド"
   },
-  "3794726": {
-    "en": "Ishikawa Prefecture",
-    "ja": "石川県"
+  "90689": {
+    "en": "Romania",
+    "ja": "ルーマニア"
   },
-  "3794962": {
-    "en": "Okayama Prefecture",
-    "ja": "岡山県"
+  "108089": {
+    "en": "Ecuador",
+    "ja": "エクアドル"
   },
-  "3795000": {
-    "en": "Tokushima Prefecture",
-    "ja": "徳島県"
+  "114686": {
+    "en": "Mexico",
+    "ja": "メキシコ"
   },
-  "3795031": {
-    "en": "Kochi Prefecture",
-    "ja": "高知県"
+  "120027": {
+    "en": "Colombia",
+    "ja": "コロンビア"
   },
-  "3795063": {
-    "en": "Ehime Prefecture",
-    "ja": "愛媛県"
+  "148838": {
+    "en": "United States",
+    "ja": "アメリカ合衆国"
   },
-  "3795064": {
-    "en": "Kagawa Prefecture",
-    "ja": "香川県"
+  "161033": {
+    "en": "Mongolia",
+    "ja": "モンゴル国"
   },
-  "3795635": {
-    "en": "Okinawa Prefecture",
-    "ja": "沖縄県"
+  "167454": {
+    "en": "Chile",
+    "ja": "チリ"
   },
-  "3795658": {
-    "en": "Hokkaido Prefecture",
-    "ja": "北海道"
+  "171496": {
+    "en": "Rwanda",
+    "ja": "ルワンダ"
   },
-  "4016543": {
-    "en": "Yamaguchi Prefecture",
-    "ja": "山口県"
+  "174737": {
+    "en": "Turkey",
+    "ja": "トルコ"
+  },
+  "178009": {
+    "en": "Kyrgyzstan",
+    "ja": "キルギス"
+  },
+  "184629": {
+    "en": "Bhutan",
+    "ja": "ブータン"
+  },
+  "184633": {
+    "en": "Nepal",
+    "ja": "ネパール"
+  },
+  "184640": {
+    "en": "Bangladesh",
+    "ja": "バングラデシュ"
+  },
+  "184818": {
+    "en": "Jordan",
+    "ja": "ヨルダン"
+  },
+  "184840": {
+    "en": "Syria",
+    "ja": "シリア"
+  },
+  "184843": {
+    "en": "Lebanon",
+    "ja": "レバノン"
+  },
+  "186382": {
+    "en": "Bulgaria",
+    "ja": "ブルガリア"
+  },
+  "192307": {
+    "en": "Greece",
+    "ja": "ギリシャ"
+  },
+  "192734": {
+    "en": "North Korea",
+    "ja": "朝鮮民主主義人民共和国"
+  },
+  "192756": {
+    "en": "Algeria",
+    "ja": "アルジェリア"
+  },
+  "192757": {
+    "en": "Tunisia",
+    "ja": "チュニジア"
+  },
+  "192758": {
+    "en": "Libya",
+    "ja": "リビア"
+  },
+  "192763": {
+    "en": "Mauritania",
+    "ja": "モーリタニア"
+  },
+  "192774": {
+    "en": "The Gambia",
+    "ja": "ガンビア"
+  },
+  "192775": {
+    "en": "Senegal",
+    "ja": "セネガル"
+  },
+  "192776": {
+    "en": "Guinea-Bissau",
+    "ja": "ギニアビサウ"
+  },
+  "192777": {
+    "en": "Sierra Leone",
+    "ja": "シエラレオネ"
+  },
+  "192778": {
+    "en": "Guinea",
+    "ja": "ギニア"
+  },
+  "192779": {
+    "en": "Côte d'Ivoire",
+    "ja": "コートジボワール"
+  },
+  "192780": {
+    "en": "Liberia",
+    "ja": "リベリア"
+  },
+  "192781": {
+    "en": "Ghana",
+    "ja": "ガーナ"
+  },
+  "192782": {
+    "en": "Togo",
+    "ja": "トーゴ"
+  },
+  "192783": {
+    "en": "Burkina Faso",
+    "ja": "ブルキナファソ"
+  },
+  "192784": {
+    "en": "Benin",
+    "ja": "ベナン"
+  },
+  "192785": {
+    "en": "Mali",
+    "ja": "マリ共和国"
+  },
+  "192786": {
+    "en": "Niger",
+    "ja": "ニジェール"
+  },
+  "192787": {
+    "en": "Nigeria",
+    "ja": "ナイジェリア"
+  },
+  "192789": {
+    "en": "Sudan",
+    "ja": "スーダン"
+  },
+  "192790": {
+    "en": "Central African Republic",
+    "ja": "中央アフリカ共和国"
+  },
+  "192791": {
+    "en": "Equatorial Guinea",
+    "ja": "赤道ギニア"
+  },
+  "192793": {
+    "en": "Gabon",
+    "ja": "ガボン"
+  },
+  "192794": {
+    "en": "Congo-Brazzaville",
+    "ja": "コンゴ共和国"
+  },
+  "192795": {
+    "en": "Democratic Republic of the Congo",
+    "ja": "コンゴ民主共和国"
+  },
+  "192796": {
+    "en": "Uganda",
+    "ja": "ウガンダ"
+  },
+  "192798": {
+    "en": "Kenya",
+    "ja": "ケニア"
+  },
+  "192799": {
+    "en": "Somalia",
+    "ja": "ソマリア"
+  },
+  "192800": {
+    "en": "Ethiopia",
+    "ja": "エチオピア"
+  },
+  "192801": {
+    "en": "Djibouti",
+    "ja": "ジブチ"
+  },
+  "192830": {
+    "en": "Cameroon",
+    "ja": "カメルーン"
+  },
+  "195266": {
+    "en": "Namibia",
+    "ja": "ナミビア"
+  },
+  "195267": {
+    "en": "Angola",
+    "ja": "アンゴラ"
+  },
+  "195269": {
+    "en": "Burundi",
+    "ja": "ブルンジ"
+  },
+  "195270": {
+    "en": "Tanzania",
+    "ja": "タンザニア"
+  },
+  "195271": {
+    "en": "Zambia",
+    "ja": "ザンビア"
+  },
+  "195272": {
+    "en": "Zimbabwe",
+    "ja": "ジンバブエ"
+  },
+  "195273": {
+    "en": "Mozambique",
+    "ja": "モザンビーク"
+  },
+  "195290": {
+    "en": "Malawi",
+    "ja": "マラウイ"
+  },
+  "196240": {
+    "en": "Uzbekistan",
+    "ja": "ウズベキスタン"
+  },
+  "214626": {
+    "en": "Tajikistan",
+    "ja": "タジキスタン"
+  },
+  "214665": {
+    "en": "Kazakhstan",
+    "ja": "カザフスタン"
+  },
+  "214885": {
+    "en": "Croatia",
+    "ja": "クロアチア"
+  },
+  "218657": {
+    "en": "Slovenia",
+    "ja": "スロベニア"
+  },
+  "223026": {
+    "en": "Turkmenistan",
+    "ja": "トルクメニスタン"
+  },
+  "252645": {
+    "en": "Bolivia",
+    "ja": "ボリビア"
+  },
+  "270009": {
+    "en": "Guernsey",
+    "ja": "ガーンジー"
+  },
+  "270056": {
+    "en": "China",
+    "ja": "中国"
+  },
+  "272644": {
+    "en": "Venezuela",
+    "ja": "ベネズエラ"
+  },
+  "285454": {
+    "en": "British Virgin Islands",
+    "ja": "British Virgin Islands"
+  },
+  "286393": {
+    "en": "Argentina",
+    "ja": "アルゼンチン"
+  },
+  "287072": {
+    "en": "Uruguay",
+    "ja": "ウルグアイ"
+  },
+  "287077": {
+    "en": "Paraguay",
+    "ja": "パラグアイ"
+  },
+  "287082": {
+    "en": "Suriname",
+    "ja": "スリナム"
+  },
+  "287083": {
+    "en": "Guyana",
+    "ja": "ガイアナ"
+  },
+  "287666": {
+    "en": "Nicaragua",
+    "ja": "ニカラグア"
+  },
+  "287667": {
+    "en": "Costa Rica",
+    "ja": "コスタリカ"
+  },
+  "287668": {
+    "en": "Panama",
+    "ja": "パナマ"
+  },
+  "287670": {
+    "en": "Honduras",
+    "ja": "ホンジュラス"
+  },
+  "287827": {
+    "en": "Belize",
+    "ja": "ベリーズ"
+  },
+  "288247": {
+    "en": "Peru",
+    "ja": "ペルー"
+  },
+  "295480": {
+    "en": "Portugal",
+    "ja": "ポルトガル"
+  },
+  "296961": {
+    "en": "Eritrea",
+    "ja": "エリトリア"
+  },
+  "299133": {
+    "en": "Iceland",
+    "ja": "アイスランド"
+  },
+  "303427": {
+    "en": "Afghanistan",
+    "ja": "アフガニスタン"
+  },
+  "304716": {
+    "en": "India",
+    "ja": "インド"
+  },
+  "304751": {
+    "en": "Indonesia",
+    "ja": "インドネシア"
+  },
+  "304934": {
+    "en": "Iraq",
+    "ja": "イラク"
+  },
+  "304938": {
+    "en": "Iran",
+    "ja": "イラン"
+  },
+  "305092": {
+    "en": "Yemen",
+    "ja": "イエメン"
+  },
+  "305095": {
+    "en": "Qatar",
+    "ja": "カタール"
+  },
+  "305099": {
+    "en": "Kuwait",
+    "ja": "クウェート"
+  },
+  "305138": {
+    "en": "Oman",
+    "ja": "オマーン"
+  },
+  "305142": {
+    "en": "East Timor",
+    "ja": "Timór Lorosa'e"
+  },
+  "307573": {
+    "en": "Pakistan",
+    "ja": "パキスタン"
+  },
+  "307584": {
+    "en": "Saudi Arabia",
+    "ja": "サウジアラビア"
+  },
+  "307756": {
+    "en": "South Korea",
+    "ja": "大韓民国"
+  },
+  "307763": {
+    "en": "United Arab Emirates",
+    "ja": "アラブ首長国連邦"
+  },
+  "307787": {
+    "en": "Cyprus",
+    "ja": "キプロス"
+  },
+  "307823": {
+    "en": "Dominica",
+    "ja": "Dominica"
+  },
+  "307828": {
+    "en": "Dominican Republic",
+    "ja": "ドミニカ共和国"
+  },
+  "307829": {
+    "en": "Haiti",
+    "ja": "ハイチ"
+  },
+  "307833": {
+    "en": "Cuba",
+    "ja": "キューバ"
+  },
+  "307866": {
+    "en": "Papua New Guinea",
+    "ja": "パプアニューギニア"
+  },
+  "364066": {
+    "en": "Armenia",
+    "ja": "アルメニア"
+  },
+  "364110": {
+    "en": "Azerbaijan",
+    "ja": "アゼルバイジャン"
+  },
+  "365307": {
+    "en": "Malta",
+    "ja": "マルタ"
+  },
+  "365331": {
+    "en": "Italy",
+    "ja": "イタリア"
+  },
+  "367988": {
+    "en": "Jersey",
+    "ja": "ジャージー"
+  },
+  "378734": {
+    "en": "Bahrain",
+    "ja": "バーレーン"
+  },
+  "382313": {
+    "en": "Japan",
+    "ja": "日本"
+  },
+  "443174": {
+    "en": "Philippines",
+    "ja": "フィリピン"
+  },
+  "447325": {
+    "en": "Madagascar",
+    "ja": "マダガスカル"
+  },
+  "449220": {
+    "en": "Taiwan",
+    "ja": "台湾"
+  },
+  "535774": {
+    "en": "Cape Verde",
+    "ja": "Cabo Verde"
+  },
+  "535790": {
+    "en": "Comoros",
+    "ja": "Comores Komori جزر القمر"
+  },
+  "535828": {
+    "en": "Mauritius",
+    "ja": "モーリシャス"
+  },
+  "535880": {
+    "en": "São Tomé and Príncipe",
+    "ja": "São Tomé e Príncipe"
+  },
+  "536765": {
+    "en": "Seychelles",
+    "ja": "セーシェル"
+  },
+  "536773": {
+    "en": "Maldives",
+    "ja": "ދިވެހިރާއްޖެ"
+  },
+  "536780": {
+    "en": "Singapore",
+    "ja": "シンガポール"
+  },
+  "536807": {
+    "en": "Sri Lanka",
+    "ja": "スリランカ"
+  },
+  "536899": {
+    "en": "Saint Kitts and Nevis",
+    "ja": "Saint Kitts and Nevis"
+  },
+  "536900": {
+    "en": "Antigua and Barbuda",
+    "ja": "アンティグア・バーブーダ"
+  },
+  "537257": {
+    "en": "Montserrat",
+    "ja": "モントセラト"
+  },
+  "547469": {
+    "en": "The Bahamas",
+    "ja": "バハマ"
+  },
+  "547479": {
+    "en": "Turks and Caicos Islands",
+    "ja": "Turks and Caicos Islands"
+  },
+  "547511": {
+    "en": "Barbados",
+    "ja": "バルバドス"
+  },
+  "550725": {
+    "en": "Saint Vincent and the Grenadines",
+    "ja": "Saint Vincent and the Grenadines"
+  },
+  "550727": {
+    "en": "Grenada",
+    "ja": "Grenada"
+  },
+  "550728": {
+    "en": "Saint Lucia",
+    "ja": "Saint Lucia"
+  },
+  "555017": {
+    "en": "Jamaica",
+    "ja": "Jamaica"
+  },
+  "555717": {
+    "en": "Trinidad and Tobago",
+    "ja": "Trinidad and Tobago"
+  },
+  "556706": {
+    "en": "New Zealand",
+    "ja": "ニュージーランド"
+  },
+  "571178": {
+    "en": "Kiribati",
+    "ja": "Kiribati"
+  },
+  "571747": {
+    "en": "Fiji",
+    "ja": "フィジー"
+  },
+  "571771": {
+    "en": "Marshall Islands",
+    "ja": "Ṃajeḷ"
+  },
+  "571802": {
+    "en": "Federated States of Micronesia",
+    "ja": "Micronesia"
+  },
+  "571804": {
+    "en": "Nauru",
+    "ja": "ナウル"
+  },
+  "571805": {
+    "en": "Palau",
+    "ja": "Belau"
+  },
+  "1124039": {
+    "en": "Monaco",
+    "ja": "モナコ"
+  },
+  "1155955": {
+    "en": "Liechtenstein",
+    "ja": "リヒテンシュタイン"
+  },
+  "1278736": {
+    "en": "Gibraltar",
+    "ja": "ジブラルタル"
+  },
+  "1311341": {
+    "en": "Spain",
+    "ja": "スペイン"
+  },
+  "1428125": {
+    "en": "Canada",
+    "ja": "カナダ"
+  },
+  "1473946": {
+    "en": "Israel",
+    "ja": "イスラエル"
+  },
+  "1473947": {
+    "en": "Egypt",
+    "ja": "エジプト"
+  },
+  "1520612": {
+    "en": "El Salvador",
+    "ja": "エルサルバドル"
+  },
+  "1521463": {
+    "en": "Guatemala",
+    "ja": "グアテマラ"
+  },
+  "1558556": {
+    "en": "Niue",
+    "ja": "ニウエ"
+  },
+  "1656678": {
+    "en": "South Sudan",
+    "ja": "南部スーダン"
+  },
+  "1741311": {
+    "en": "Serbia",
+    "ja": "セルビア"
+  },
+  "1857436": {
+    "en": "Solomon Islands",
+    "ja": "ソロモン諸島"
+  },
+  "1872673": {
+    "en": "Samoa",
+    "ja": "サモア"
+  },
+  "1889339": {
+    "en": "Botswana",
+    "ja": "ボツワナ"
+  },
+  "1964272": {
+    "en": "Saint Helena, Ascension and Tristan da Cunha",
+    "ja": "Saint Helena, Ascension and Tristan da Cunha"
+  },
+  "1983628": {
+    "en": "South Georgia and the South Sandwich Islands",
+    "ja": "サウスジョージア・サウスサンドウィッチ諸島"
+  },
+  "1993208": {
+    "en": "Bermuda",
+    "ja": "Bermuda"
+  },
+  "1993867": {
+    "en": "British Indian Ocean Territory",
+    "ja": "イギリス領インド洋地域"
+  },
+  "2067731": {
+    "en": "Thailand",
+    "ja": "タイ王国"
+  },
+  "2088990": {
+    "en": "Kosovo",
+    "ja": "コソボ"
+  },
+  "2093234": {
+    "en": "Lesotho",
+    "ja": "レソト"
+  },
+  "2103120": {
+    "en": "Brunei",
+    "ja": "ブルネイ"
+  },
+  "2108121": {
+    "en": "Malaysia",
+    "ja": "マレーシア"
+  },
+  "2171347": {
+    "en": "Luxembourg",
+    "ja": "ルクセンブルク"
+  },
+  "2177161": {
+    "en": "Anguilla",
+    "ja": "アンギラ"
+  },
+  "2177246": {
+    "en": "Vanuatu",
+    "ja": "バヌアツ"
+  },
+  "2177266": {
+    "en": "Tuvalu",
+    "ja": "ツバル"
+  },
+  "2184073": {
+    "en": "Greenland",
+    "ja": "グリーンランド"
+  },
+  "2184233": {
+    "en": "Cook Islands",
+    "ja": "クック諸島"
+  },
+  "2185366": {
+    "en": "Cayman Islands",
+    "ja": "ケイマン諸島"
+  },
+  "2185374": {
+    "en": "Falkland Islands",
+    "ja": "フォークランド諸島 (マルビナス諸島)"
+  },
+  "2185375": {
+    "en": "Pitcairn Islands",
+    "ja": "Pitcairn Islands"
+  },
+  "2186600": {
+    "en": "Tokelau",
+    "ja": "トケラウ"
+  },
+  "2186665": {
+    "en": "Tonga",
+    "ja": "トンガ"
+  },
+  "2202162": {
+    "en": "France",
+    "ja": "フランス"
+  },
+  "2323309": {
+    "en": "Netherlands",
+    "ja": "オランダ"
+  },
+  "2361304": {
+    "en": "Chad",
+    "ja": "チャド"
+  },
+  "2528142": {
+    "en": "Bosnia and Herzegovina",
+    "ja": "ボスニア・ヘルツェゴビナ"
+  },
+  "2978650": {
+    "en": "Norway",
+    "ja": "ノルウェー"
+  },
+  "3263728": {
+    "en": "British Sovereign Base Areas",
+    "ja": "British Sovereign Base Areas"
+  },
+  "3630439": {
+    "en": "Morocco",
+    "ja": "モロッコ"
+  },
+  "5441968": {
+    "en": "Sahrawi Arab Democratic Republic",
+    "ja": "الجمهورية العربية الصحراوية الديمقراطية"
   }
 }

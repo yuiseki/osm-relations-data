@@ -1,0 +1,718 @@
+{
+  "4053915": {
+    "en": "Hokkaido Prefecture Wakkanai",
+    "ja": "北海道 稚内市"
+  },
+  "4053917": {
+    "en": "Hokkaido Prefecture Toyotomi",
+    "ja": "北海道 豊富町"
+  },
+  "4053919": {
+    "en": "Hokkaido Prefecture Sarufutsu",
+    "ja": "北海道 猿払村"
+  },
+  "4053921": {
+    "en": "Hokkaido Prefecture Hamatonbetsu",
+    "ja": "北海道 浜頓別町"
+  },
+  "4055568": {
+    "en": "Hokkaido Prefecture Horonobe",
+    "ja": "北海道 幌延町"
+  },
+  "4055586": {
+    "en": "Hokkaido Prefecture Nakatonbetsu",
+    "ja": "北海道 中頓別町"
+  },
+  "4055603": {
+    "en": "Hokkaido Prefecture Nakagawa",
+    "ja": "北海道 中川町"
+  },
+  "4055611": {
+    "en": "Hokkaido Prefecture Teshio",
+    "ja": "北海道 天塩町"
+  },
+  "4055618": {
+    "en": "Hokkaido Prefecture Embetsu",
+    "ja": "北海道 遠別町"
+  },
+  "4055639": {
+    "en": "Hokkaido Prefecture Shosanbetsu",
+    "ja": "北海道 初山別村"
+  },
+  "4055643": {
+    "en": "Hokkaido Prefecture Horokanai",
+    "ja": "北海道 幌加内町"
+  },
+  "4055673": {
+    "en": "Hokkaido Prefecture Haboro",
+    "ja": "北海道 羽幌町"
+  },
+  "4055720": {
+    "en": "Hokkaido Prefecture Bifuka",
+    "ja": "北海道 美深町"
+  },
+  "4055731": {
+    "en": "Hokkaido Prefecture Otoineppu",
+    "ja": "北海道 音威子府村"
+  },
+  "4055769": {
+    "en": "Hokkaido Prefecture Esashi",
+    "ja": "北海道 枝幸町"
+  },
+  "4055790": {
+    "en": "Hokkaido Prefecture Oumu",
+    "ja": "北海道 雄武町"
+  },
+  "4055806": {
+    "en": "Hokkaido Prefecture Nayoro",
+    "ja": "北海道 名寄市"
+  },
+  "4055808": {
+    "en": "Hokkaido Prefecture Shibetsu",
+    "ja": "北海道 士別市"
+  },
+  "4055832": {
+    "en": "Hokkaido Prefecture Wassamu",
+    "ja": "北海道 和寒町"
+  },
+  "4055833": {
+    "en": "Hokkaido Prefecture Kembuchi",
+    "ja": "北海道 剣淵町"
+  },
+  "4055835": {
+    "en": "Hokkaido Prefecture Pippu",
+    "ja": "北海道 比布町"
+  },
+  "4055837": {
+    "en": "Hokkaido Prefecture Aibetsu",
+    "ja": "北海道 愛別町"
+  },
+  "4055838": {
+    "en": "Hokkaido Prefecture Kamikawa",
+    "ja": "北海道 上川町"
+  },
+  "4055974": {
+    "en": "Hokkaido Prefecture Shimokawa",
+    "ja": "北海道 下川町"
+  },
+  "4055992": {
+    "en": "Hokkaido Prefecture Nishiokoppe",
+    "ja": "北海道 西興部村"
+  },
+  "4055993": {
+    "en": "Hokkaido Prefecture Okoppe",
+    "ja": "北海道 興部町"
+  },
+  "4056009": {
+    "en": "Hokkaido Prefecture Takinoue",
+    "ja": "北海道 滝上町"
+  },
+  "4056026": {
+    "en": "Hokkaido Prefecture Mombetsu",
+    "ja": "北海道 紋別市"
+  },
+  "4056121": {
+    "en": "Hokkaido Prefecture Engaru",
+    "ja": "北海道 遠軽町"
+  },
+  "4056277": {
+    "en": "Hokkaido Prefecture Yubetsu",
+    "ja": "北海道 湧別町"
+  },
+  "4056344": {
+    "en": "Hokkaido Prefecture Saroma",
+    "ja": "北海道 佐呂間町"
+  },
+  "4056345": {
+    "en": "Hokkaido Prefecture Kitami",
+    "ja": "北海道 北見市"
+  },
+  "4060240": {
+    "en": "Hokkaido Prefecture Kamishihoro",
+    "ja": "北海道 上士幌町"
+  },
+  "4060243": {
+    "en": "Hokkaido Prefecture Tohma",
+    "ja": "北海道 当麻町"
+  },
+  "4060428": {
+    "en": "Hokkaido Prefecture Takasu",
+    "ja": "北海道 鷹栖町"
+  },
+  "4060429": {
+    "en": "Hokkaido Prefecture Asahikawa",
+    "ja": "北海道 旭川市"
+  },
+  "4061071": {
+    "en": "Hokkaido Prefecture Higashikawa",
+    "ja": "北海道 東川町"
+  },
+  "4062428": {
+    "en": "Hokkaido Prefecture Biei",
+    "ja": "北海道 美瑛町"
+  },
+  "4062430": {
+    "en": "Hokkaido Prefecture Shintoku",
+    "ja": "北海道 新得町"
+  },
+  "4062432": {
+    "en": "Hokkaido Prefecture Higashikagura",
+    "ja": "北海道 東神楽町"
+  },
+  "4064365": {
+    "en": "Hokkaido Prefecture Ashibetsu",
+    "ja": "北海道 芦別市"
+  },
+  "4064369": {
+    "en": "Hokkaido Prefecture Nakafurano",
+    "ja": "北海道 中富良野町"
+  },
+  "4064370": {
+    "en": "Hokkaido Prefecture Kamifurano",
+    "ja": "北海道 上富良野町"
+  },
+  "4064384": {
+    "en": "Hokkaido Prefecture Minamifurano",
+    "ja": "北海道 南富良野町"
+  },
+  "4064385": {
+    "en": "Hokkaido Prefecture Furano",
+    "ja": "北海道 富良野市"
+  },
+  "4066899": {
+    "en": "Hokkaido Prefecture Shimizu",
+    "ja": "北海道 清水町"
+  },
+  "4066900": {
+    "en": "Hokkaido Prefecture Shikaoi",
+    "ja": "北海道 鹿追町"
+  },
+  "4068767": {
+    "en": "Hokkaido Prefecture Hidaka",
+    "ja": "北海道 日高町"
+  },
+  "4068768": {
+    "en": "Hokkaido Prefecture Biratori",
+    "ja": "北海道 平取町"
+  },
+  "4068771": {
+    "en": "Hokkaido Prefecture Memuro",
+    "ja": "北海道 芽室町"
+  },
+  "4068799": {
+    "en": "Hokkaido Prefecture Oketo",
+    "ja": "北海道 置戸町"
+  },
+  "4069173": {
+    "en": "Hokkaido Prefecture Kunneppu",
+    "ja": "北海道 訓子府町"
+  },
+  "4069196": {
+    "en": "Hokkaido Prefecture Tsubetsu",
+    "ja": "北海道 津別町"
+  },
+  "4069197": {
+    "en": "Hokkaido Prefecture Bihoro",
+    "ja": "北海道 美幌町"
+  },
+  "4069201": {
+    "en": "Hokkaido Prefecture Ozora",
+    "ja": "北海道 大空町"
+  },
+  "4069203": {
+    "en": "Hokkaido Prefecture Abashiri",
+    "ja": "北海道 網走市"
+  },
+  "4069223": {
+    "en": "Hokkaido Prefecture Koshimizu",
+    "ja": "北海道 小清水町"
+  },
+  "4069247": {
+    "en": "Hokkaido Prefecture Rikubetsu",
+    "ja": "北海道 陸別町"
+  },
+  "4069253": {
+    "en": "Hokkaido Prefecture Ashoro",
+    "ja": "北海道 足寄町"
+  },
+  "4069256": {
+    "en": "Hokkaido Prefecture Tomamae",
+    "ja": "北海道 苫前町"
+  },
+  "4069269": {
+    "en": "Hokkaido Prefecture Obira",
+    "ja": "北海道 小平町"
+  },
+  "4069274": {
+    "en": "Hokkaido Prefecture Fukagawa",
+    "ja": "北海道 深川市"
+  },
+  "4069296": {
+    "en": "Hokkaido Prefecture Numata",
+    "ja": "北海道 沼田町"
+  },
+  "4069307": {
+    "en": "Hokkaido Prefecture Rumoi",
+    "ja": "北海道 留萌市"
+  },
+  "4069471": {
+    "en": "Hokkaido Prefecture Teshikaga",
+    "ja": "北海道 弟子屈町"
+  },
+  "4069477": {
+    "en": "Hokkaido Prefecture Kushiro",
+    "ja": "北海道 釧路市"
+  },
+  "4069563": {
+    "en": "Hokkaido Prefecture Kiyosato",
+    "ja": "北海道 清里町"
+  },
+  "4069565": {
+    "en": "Hokkaido Prefecture Shari",
+    "ja": "北海道 斜里町"
+  },
+  "4069571": {
+    "en": "Hokkaido Prefecture Nakashibetsu",
+    "ja": "北海道 中標津町"
+  },
+  "4069619": {
+    "en": "Hokkaido Prefecture Shibetsu",
+    "ja": "北海道 標津町"
+  },
+  "4069623": {
+    "en": "Hokkaido Prefecture Rausu",
+    "ja": "北海道 羅臼町"
+  },
+  "4069639": {
+    "en": "Hokkaido Prefecture Betsukai",
+    "ja": "北海道 別海町"
+  },
+  "4069643": {
+    "en": "Hokkaido Prefecture Shibecha",
+    "ja": "北海道 標茶町"
+  },
+  "4071241": {
+    "en": "Hokkaido Prefecture Akkeshi",
+    "ja": "北海道 厚岸町"
+  },
+  "4071248": {
+    "en": "Hokkaido Prefecture Hamanaka",
+    "ja": "北海道 浜中町"
+  },
+  "4071254": {
+    "en": "Hokkaido Prefecture Nemuro",
+    "ja": "北海道 根室市"
+  },
+  "4071274": {
+    "en": "Hokkaido Prefecture Kushiro",
+    "ja": "北海道 釧路町"
+  },
+  "4071277": {
+    "en": "Hokkaido Prefecture Tsurui",
+    "ja": "北海道 鶴居村"
+  },
+  "4071348": {
+    "en": "Hokkaido Prefecture Shiranuka",
+    "ja": "北海道 白糠町"
+  },
+  "4071434": {
+    "en": "Hokkaido Prefecture Honbetsu",
+    "ja": "北海道 本別町"
+  },
+  "4071438": {
+    "en": "Hokkaido Prefecture Urahoro",
+    "ja": "北海道 浦幌町"
+  },
+  "4071567": {
+    "en": "Hokkaido Prefecture Shihoro",
+    "ja": "北海道 士幌町"
+  },
+  "4073995": {
+    "en": "Hokkaido Prefecture Ikeda",
+    "ja": "北海道 池田町"
+  },
+  "4073996": {
+    "en": "Hokkaido Prefecture Toyokoro",
+    "ja": "北海道 豊頃町"
+  },
+  "4073998": {
+    "en": "Hokkaido Prefecture Otofuke",
+    "ja": "北海道 音更町"
+  },
+  "4073999": {
+    "en": "Hokkaido Prefecture Makubetsu",
+    "ja": "北海道 幕別町"
+  },
+  "4076558": {
+    "en": "Hokkaido Prefecture Taiki",
+    "ja": "北海道 大樹町"
+  },
+  "4076567": {
+    "en": "Hokkaido Prefecture Obihiro",
+    "ja": "北海道 帯広市"
+  },
+  "4078673": {
+    "en": "Hokkaido Prefecture Shimukappu",
+    "ja": "北海道 占冠村"
+  },
+  "4079192": {
+    "en": "Hokkaido Prefecture Nakasatsunai",
+    "ja": "北海道 中札内村"
+  },
+  "4079222": {
+    "en": "Hokkaido Prefecture Niikappu",
+    "ja": "北海道 新冠町"
+  },
+  "4079231": {
+    "en": "Hokkaido Prefecture Sarabetsu",
+    "ja": "北海道 更別村"
+  },
+  "4079264": {
+    "en": "Hokkaido Prefecture Shinhidaka",
+    "ja": "北海道 新ひだか町"
+  },
+  "4079272": {
+    "en": "Hokkaido Prefecture Hiroo",
+    "ja": "北海道 広尾町"
+  },
+  "4079314": {
+    "en": "Hokkaido Prefecture Urakawa",
+    "ja": "北海道 浦河町"
+  },
+  "4079321": {
+    "en": "Hokkaido Prefecture Samani",
+    "ja": "北海道 様似町"
+  },
+  "4080625": {
+    "en": "Hokkaido Prefecture Erimo",
+    "ja": "北海道 えりも町"
+  },
+  "4082945": {
+    "en": "Hokkaido Prefecture Mukawa",
+    "ja": "北海道 むかわ町"
+  },
+  "4082948": {
+    "en": "Hokkaido Prefecture Yubari",
+    "ja": "北海道 夕張市"
+  },
+  "4082950": {
+    "en": "Hokkaido Prefecture Atsuma",
+    "ja": "北海道 厚真町"
+  },
+  "4082954": {
+    "en": "Hokkaido Prefecture Yuni",
+    "ja": "北海道 由仁町"
+  },
+  "4085174": {
+    "en": "Hokkaido Prefecture Chippubetsu",
+    "ja": "北海道 秩父別町"
+  },
+  "4085178": {
+    "en": "Hokkaido Prefecture Hokuryu",
+    "ja": "北海道 北竜町"
+  },
+  "4085186": {
+    "en": "Hokkaido Prefecture Moseushi",
+    "ja": "北海道 妹背牛町"
+  },
+  "4085195": {
+    "en": "Hokkaido Prefecture Akabira",
+    "ja": "北海道 赤平市"
+  },
+  "4085203": {
+    "en": "Hokkaido Prefecture Takikawa",
+    "ja": "北海道 滝川市"
+  },
+  "4085212": {
+    "en": "Hokkaido Prefecture Utashinai",
+    "ja": "北海道 歌志内市"
+  },
+  "4085220": {
+    "en": "Hokkaido Prefecture Kamisunagawa",
+    "ja": "北海道 上砂川町"
+  },
+  "4085221": {
+    "en": "Hokkaido Prefecture Naie",
+    "ja": "北海道 奈井江町"
+  },
+  "4085224": {
+    "en": "Hokkaido Prefecture Bibai",
+    "ja": "北海道 美唄市"
+  },
+  "4085227": {
+    "en": "Hokkaido Prefecture Mikasa",
+    "ja": "北海道 三笠市"
+  },
+  "4085230": {
+    "en": "Hokkaido Prefecture Uryu",
+    "ja": "北海道 雨竜町"
+  },
+  "4085233": {
+    "en": "Hokkaido Prefecture Mashike",
+    "ja": "北海道 増毛町"
+  },
+  "4085235": {
+    "en": "Hokkaido Prefecture Shintotsukawa",
+    "ja": "北海道 新十津川町"
+  },
+  "4085256": {
+    "en": "Hokkaido Prefecture Sunagawa",
+    "ja": "北海道 砂川市"
+  },
+  "4085259": {
+    "en": "Hokkaido Prefecture Urausu",
+    "ja": "北海道 浦臼町"
+  },
+  "4085263": {
+    "en": "Hokkaido Prefecture Ishikari",
+    "ja": "北海道 石狩市"
+  },
+  "4085269": {
+    "en": "Hokkaido Prefecture Tobetsu",
+    "ja": "北海道 当別町"
+  },
+  "4085273": {
+    "en": "Hokkaido Prefecture Tsukigata",
+    "ja": "北海道 月形町"
+  },
+  "4085276": {
+    "en": "Hokkaido Prefecture Iwamizawa",
+    "ja": "北海道 岩見沢市"
+  },
+  "4085281": {
+    "en": "Hokkaido Prefecture Shinshinotsu",
+    "ja": "北海道 新篠津村"
+  },
+  "4085290": {
+    "en": "Hokkaido Prefecture Ebetsu",
+    "ja": "北海道 江別市"
+  },
+  "4085351": {
+    "en": "Hokkaido Prefecture Nanporo",
+    "ja": "北海道 南幌町"
+  },
+  "4085357": {
+    "en": "Hokkaido Prefecture Kuriyama",
+    "ja": "北海道 栗山町"
+  },
+  "4085360": {
+    "en": "Hokkaido Prefecture Naganuma",
+    "ja": "北海道 長沼町"
+  },
+  "4085696": {
+    "en": "Hokkaido Prefecture Abira",
+    "ja": "北海道 安平町"
+  },
+  "4085704": {
+    "en": "Hokkaido Prefecture Chitose",
+    "ja": "北海道 千歳市"
+  },
+  "4085725": {
+    "en": "Hokkaido Prefecture Tomakomai",
+    "ja": "北海道 苫小牧市"
+  },
+  "4085733": {
+    "en": "Hokkaido Prefecture Kitahiroshima",
+    "ja": "北海道 北広島市"
+  },
+  "4085739": {
+    "en": "Hokkaido Prefecture Eniwa",
+    "ja": "北海道 恵庭市"
+  },
+  "4085749": {
+    "en": "Hokkaido Prefecture Sapporo",
+    "ja": "北海道 札幌市"
+  },
+  "4085754": {
+    "en": "Hokkaido Prefecture Otaru",
+    "ja": "北海道 小樽市"
+  },
+  "4085799": {
+    "en": "Hokkaido Prefecture Date",
+    "ja": "北海道 伊達市"
+  },
+  "4085805": {
+    "en": "Hokkaido Prefecture Shiraoi",
+    "ja": "北海道 白老町"
+  },
+  "4085822": {
+    "en": "Hokkaido Prefecture Akaigawa",
+    "ja": "北海道 赤井川村"
+  },
+  "4085832": {
+    "en": "Hokkaido Prefecture Kyogoku",
+    "ja": "北海道 京極町"
+  },
+  "4085843": {
+    "en": "Hokkaido Prefecture Kimobetsu",
+    "ja": "北海道 喜茂別町"
+  },
+  "4085854": {
+    "en": "Hokkaido Prefecture Sobetsu",
+    "ja": "北海道 壮瞥町"
+  },
+  "4085858": {
+    "en": "Hokkaido Prefecture Noboribetsu",
+    "ja": "北海道 登別市"
+  },
+  "4085871": {
+    "en": "Hokkaido Prefecture Yoichi",
+    "ja": "北海道 余市町"
+  },
+  "4085873": {
+    "en": "Hokkaido Prefecture Niki",
+    "ja": "北海道 仁木町"
+  },
+  "4085877": {
+    "en": "Hokkaido Prefecture Furubira",
+    "ja": "北海道 古平町"
+  },
+  "4085887": {
+    "en": "Hokkaido Prefecture Kyowa",
+    "ja": "北海道 共和町"
+  },
+  "4085893": {
+    "en": "Hokkaido Prefecture Kutchan",
+    "ja": "北海道 倶知安町"
+  },
+  "4085903": {
+    "en": "Hokkaido Prefecture Makkari",
+    "ja": "北海道 真狩村"
+  },
+  "4085906": {
+    "en": "Hokkaido Prefecture Rusutsu",
+    "ja": "北海道 留寿都村"
+  },
+  "4087726": {
+    "en": "Hokkaido Prefecture Toyako",
+    "ja": "北海道 洞爺湖町"
+  },
+  "4087735": {
+    "en": "Hokkaido Prefecture Muroran",
+    "ja": "北海道 室蘭市"
+  },
+  "4087796": {
+    "en": "Hokkaido Prefecture Tomari",
+    "ja": "北海道 泊村"
+  },
+  "4087797": {
+    "en": "Hokkaido Prefecture Kamoenai",
+    "ja": "北海道 神恵内村"
+  },
+  "4087806": {
+    "en": "Hokkaido Prefecture Shakotan",
+    "ja": "北海道 積丹町"
+  },
+  "4087829": {
+    "en": "Hokkaido Prefecture Rankoshi",
+    "ja": "北海道 蘭越町"
+  },
+  "4087831": {
+    "en": "Hokkaido Prefecture Iwanai",
+    "ja": "北海道 岩内町"
+  },
+  "4087840": {
+    "en": "Hokkaido Prefecture Niseko",
+    "ja": "北海道 ニセコ町"
+  },
+  "4087848": {
+    "en": "Hokkaido Prefecture Toyoura",
+    "ja": "北海道 豊浦町"
+  },
+  "4087858": {
+    "en": "Hokkaido Prefecture Kuromatsunai",
+    "ja": "北海道 黒松内町"
+  },
+  "4087869": {
+    "en": "Hokkaido Prefecture Oshamambe",
+    "ja": "北海道 長万部町"
+  },
+  "4087874": {
+    "en": "Hokkaido Prefecture Suttu",
+    "ja": "北海道 寿都町"
+  },
+  "4087883": {
+    "en": "Hokkaido Prefecture Shimamaki",
+    "ja": "北海道 島牧村"
+  },
+  "4087901": {
+    "en": "Hokkaido Prefecture Imakane",
+    "ja": "北海道 今金町"
+  },
+  "4087905": {
+    "en": "Hokkaido Prefecture Yakumo",
+    "ja": "北海道 八雲町"
+  },
+  "4087999": {
+    "en": "Hokkaido Prefecture Setana",
+    "ja": "北海道 せたな町"
+  },
+  "4088007": {
+    "en": "Hokkaido Prefecture Mori",
+    "ja": "北海道 森町"
+  },
+  "4088010": {
+    "en": "Hokkaido Prefecture Assabu",
+    "ja": "北海道 厚沢部町"
+  },
+  "4088012": {
+    "en": "Hokkaido Prefecture Otobe",
+    "ja": "北海道 乙部町"
+  },
+  "4088013": {
+    "en": "Hokkaido Prefecture Hokuto",
+    "ja": "北海道 北斗市"
+  },
+  "4088016": {
+    "en": "Hokkaido Prefecture Nanae",
+    "ja": "北海道 七飯町"
+  },
+  "4088018": {
+    "en": "Hokkaido Prefecture Shikabe",
+    "ja": "北海道 鹿部町"
+  },
+  "4088019": {
+    "en": "Hokkaido Prefecture Hakodate",
+    "ja": "北海道 函館市"
+  },
+  "4088021": {
+    "en": "Hokkaido Prefecture Kikonai",
+    "ja": "北海道 木古内町"
+  },
+  "4088022": {
+    "en": "Hokkaido Prefecture Kaminokuni",
+    "ja": "北海道 上ノ国町"
+  },
+  "4088029": {
+    "en": "Hokkaido Prefecture Esashi",
+    "ja": "北海道 江差町"
+  },
+  "4088034": {
+    "en": "Hokkaido Prefecture Shiriuchi",
+    "ja": "北海道 知内町"
+  },
+  "4088038": {
+    "en": "Hokkaido Prefecture Fukushima",
+    "ja": "北海道 福島町"
+  },
+  "4088039": {
+    "en": "Hokkaido Prefecture Matsumae",
+    "ja": "北海道 松前町"
+  },
+  "4088074": {
+    "en": "Hokkaido Prefecture Okushiri",
+    "ja": "北海道 奥尻町"
+  },
+  "4088082": {
+    "en": "Hokkaido Prefecture Rishiri",
+    "ja": "北海道 利尻町"
+  },
+  "4088083": {
+    "en": "Hokkaido Prefecture Rishirifuji",
+    "ja": "北海道 利尻富士町"
+  },
+  "4088092": {
+    "en": "Hokkaido Prefecture Rebun",
+    "ja": "北海道 礼文町"
+  }
+}

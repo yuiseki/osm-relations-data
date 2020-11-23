@@ -1,0 +1,6714 @@
+{
+  "356889": {
+    "en": "Kyoto Prefecture Ine",
+    "ja": "京都府 伊根町"
+  },
+  "356892": {
+    "en": "Kyoto Prefecture Kyotango",
+    "ja": "京都府 京丹後市"
+  },
+  "356943": {
+    "en": "Kyoto Prefecture Miyazu",
+    "ja": "京都府 宮津市"
+  },
+  "356958": {
+    "en": "Kyoto Prefecture Yosano",
+    "ja": "京都府 与謝野町"
+  },
+  "356992": {
+    "en": "Kyoto Prefecture Fukuchiyama",
+    "ja": "京都府 福知山市"
+  },
+  "357245": {
+    "en": "Kyoto Prefecture Ayabe",
+    "ja": "京都府 綾部市"
+  },
+  "357246": {
+    "en": "Kyoto Prefecture Nantan",
+    "ja": "京都府 南丹市"
+  },
+  "357247": {
+    "en": "Kyoto Prefecture Kyotamba",
+    "ja": "京都府 京丹波町"
+  },
+  "357785": {
+    "en": "Kyoto Prefecture Kameoka",
+    "ja": "京都府 亀岡市"
+  },
+  "357786": {
+    "en": "Osaka Prefecture Nose",
+    "ja": "大阪府 能勢町"
+  },
+  "357789": {
+    "en": "Osaka Prefecture Toyono",
+    "ja": "大阪府 豊能町"
+  },
+  "357872": {
+    "en": "Osaka Prefecture Ibaraki",
+    "ja": "大阪府 茨木市"
+  },
+  "357873": {
+    "en": "Osaka Prefecture Takatsuki",
+    "ja": "大阪府 高槻市"
+  },
+  "357884": {
+    "en": "Osaka Prefecture Shimamoto",
+    "ja": "大阪府 島本町"
+  },
+  "358571": {
+    "en": "Kyoto Prefecture Nagaokakyo",
+    "ja": "京都府 長岡京市"
+  },
+  "358573": {
+    "en": "Kyoto Prefecture Oyamazaki",
+    "ja": "京都府 大山崎町"
+  },
+  "358574": {
+    "en": "Kyoto Prefecture Yawata",
+    "ja": "京都府 八幡市"
+  },
+  "358576": {
+    "en": "Kyoto Prefecture Muko",
+    "ja": "京都府 向日市"
+  },
+  "358602": {
+    "en": "Kyoto Prefecture Uji",
+    "ja": "京都府 宇治市"
+  },
+  "358603": {
+    "en": "Kyoto Prefecture Kumiyama",
+    "ja": "京都府 久御山町"
+  },
+  "358609": {
+    "en": "Osaka Prefecture Hirakata",
+    "ja": "大阪府 枚方市"
+  },
+  "358611": {
+    "en": "Kyoto Prefecture Joyo",
+    "ja": "京都府 城陽市"
+  },
+  "358613": {
+    "en": "Kyoto Prefecture Ujitawara",
+    "ja": "京都府 宇治田原町"
+  },
+  "358622": {
+    "en": "Kyoto Prefecture Ide",
+    "ja": "京都府 井手町"
+  },
+  "358623": {
+    "en": "Kyoto Prefecture Wazuka",
+    "ja": "京都府 和束町"
+  },
+  "358625": {
+    "en": "Kyoto Prefecture Kizugawa",
+    "ja": "京都府 木津川市"
+  },
+  "358626": {
+    "en": "Kyoto Prefecture Kasagi",
+    "ja": "京都府 笠置町"
+  },
+  "358627": {
+    "en": "Kyoto Prefecture Minamiyamashiro",
+    "ja": "京都府 南山城村"
+  },
+  "358647": {
+    "en": "Kyoto Prefecture Seika",
+    "ja": "京都府 精華町"
+  },
+  "358651": {
+    "en": "Kyoto Prefecture Kyotanabe",
+    "ja": "京都府 京田辺市"
+  },
+  "358662": {
+    "en": "Osaka Prefecture Minoh",
+    "ja": "大阪府 箕面市"
+  },
+  "358663": {
+    "en": "Osaka Prefecture Ikeda",
+    "ja": "大阪府 池田市"
+  },
+  "358672": {
+    "en": "Osaka Prefecture Toyonaka",
+    "ja": "大阪府 豊中市"
+  },
+  "358673": {
+    "en": "Osaka Prefecture Suita",
+    "ja": "大阪府 吹田市"
+  },
+  "358674": {
+    "en": "Osaka Prefecture Osaka",
+    "ja": "大阪府 大阪市"
+  },
+  "358685": {
+    "en": "Osaka Prefecture Moriguchi",
+    "ja": "大阪府 守口市"
+  },
+  "358686": {
+    "en": "Osaka Prefecture Settsu",
+    "ja": "大阪府 摂津市"
+  },
+  "358690": {
+    "en": "Osaka Prefecture Katano",
+    "ja": "大阪府 交野市"
+  },
+  "358691": {
+    "en": "Osaka Prefecture Neyagawa",
+    "ja": "大阪府 寝屋川市"
+  },
+  "358692": {
+    "en": "Osaka Prefecture Shijonawate",
+    "ja": "大阪府 四條畷市"
+  },
+  "358693": {
+    "en": "Osaka Prefecture Kadoma",
+    "ja": "大阪府 門真市"
+  },
+  "358694": {
+    "en": "Osaka Prefecture Daito",
+    "ja": "大阪府 大東市"
+  },
+  "358696": {
+    "en": "Osaka Prefecture Higashiosaka",
+    "ja": "大阪府 東大阪市"
+  },
+  "358711": {
+    "en": "Osaka Prefecture Yao",
+    "ja": "大阪府 八尾市"
+  },
+  "358752": {
+    "en": "Osaka Prefecture Matsubara",
+    "ja": "大阪府 松原市"
+  },
+  "358753": {
+    "en": "Osaka Prefecture Kashiwara",
+    "ja": "大阪府 柏原市"
+  },
+  "358754": {
+    "en": "Osaka Prefecture Fujiidera",
+    "ja": "大阪府 藤井寺市"
+  },
+  "358755": {
+    "en": "Osaka Prefecture Habikino",
+    "ja": "大阪府 羽曳野市"
+  },
+  "358759": {
+    "en": "Osaka Prefecture Sakai",
+    "ja": "大阪府 堺市"
+  },
+  "358768": {
+    "en": "Osaka Prefecture Osakasayama",
+    "ja": "大阪府 大阪狭山市"
+  },
+  "358769": {
+    "en": "Osaka Prefecture Tondabayashi",
+    "ja": "大阪府 富田林市"
+  },
+  "358774": {
+    "en": "Osaka Prefecture Taishi",
+    "ja": "大阪府 太子町"
+  },
+  "358776": {
+    "en": "Osaka Prefecture Kanan",
+    "ja": "大阪府 河南町"
+  },
+  "358785": {
+    "en": "Osaka Prefecture Chihaya-akasaka",
+    "ja": "大阪府 千早赤阪村"
+  },
+  "358786": {
+    "en": "Osaka Prefecture Kawachinagano",
+    "ja": "大阪府 河内長野市"
+  },
+  "358789": {
+    "en": "Osaka Prefecture Izumi",
+    "ja": "大阪府 和泉市"
+  },
+  "358794": {
+    "en": "Osaka Prefecture Takaishi",
+    "ja": "大阪府 高石市"
+  },
+  "358795": {
+    "en": "Osaka Prefecture Izumiotsu",
+    "ja": "大阪府 泉大津市"
+  },
+  "359195": {
+    "en": "Osaka Prefecture Kishiwada",
+    "ja": "大阪府 岸和田市"
+  },
+  "359218": {
+    "en": "Osaka Prefecture Kaizuka",
+    "ja": "大阪府 貝塚市"
+  },
+  "359219": {
+    "en": "Osaka Prefecture Kumatori",
+    "ja": "大阪府 熊取町"
+  },
+  "359221": {
+    "en": "Osaka Prefecture Izumisano",
+    "ja": "大阪府 泉佐野市"
+  },
+  "359250": {
+    "en": "Osaka Prefecture Tajiri",
+    "ja": "大阪府 田尻町"
+  },
+  "359251": {
+    "en": "Osaka Prefecture Sennan",
+    "ja": "大阪府 泉南市"
+  },
+  "359252": {
+    "en": "Osaka Prefecture Hannan",
+    "ja": "大阪府 阪南市"
+  },
+  "359253": {
+    "en": "Osaka Prefecture Misaki",
+    "ja": "大阪府 岬町"
+  },
+  "359259": {
+    "en": "Osaka Prefecture Tadaoka",
+    "ja": "大阪府 忠岡町"
+  },
+  "722196": {
+    "en": "Shiga Prefecture Otsu",
+    "ja": "滋賀県 大津市"
+  },
+  "722197": {
+    "en": "Shiga Prefecture Higashiomi",
+    "ja": "滋賀県 東近江市"
+  },
+  "722198": {
+    "en": "Shiga Prefecture Hikone",
+    "ja": "滋賀県 彦根市"
+  },
+  "722201": {
+    "en": "Shiga Prefecture Takashima",
+    "ja": "滋賀県 高島市"
+  },
+  "722202": {
+    "en": "Shiga Prefecture Omihachiman",
+    "ja": "滋賀県 近江八幡市"
+  },
+  "722220": {
+    "en": "Shiga Prefecture Nagahama",
+    "ja": "滋賀県 長浜市"
+  },
+  "722221": {
+    "en": "Shiga Prefecture Maibara",
+    "ja": "滋賀県 米原市"
+  },
+  "812080": {
+    "en": "Shiga Prefecture Taga",
+    "ja": "滋賀県 多賀町"
+  },
+  "812158": {
+    "en": "Shiga Prefecture Kora",
+    "ja": "滋賀県 甲良町"
+  },
+  "812218": {
+    "en": "Shiga Prefecture Aisho",
+    "ja": "滋賀県 愛荘町"
+  },
+  "812219": {
+    "en": "Shiga Prefecture Toyosato",
+    "ja": "滋賀県 豊郷町"
+  },
+  "812284": {
+    "en": "Shiga Prefecture Yasu",
+    "ja": "滋賀県 野洲市"
+  },
+  "812285": {
+    "en": "Shiga Prefecture Moriyama",
+    "ja": "滋賀県 守山市"
+  },
+  "812307": {
+    "en": "Shiga Prefecture Kusatsu",
+    "ja": "滋賀県 草津市"
+  },
+  "812311": {
+    "en": "Shiga Prefecture Ritto",
+    "ja": "滋賀県 栗東市"
+  },
+  "812344": {
+    "en": "Shiga Prefecture Konan",
+    "ja": "滋賀県 湖南市"
+  },
+  "812347": {
+    "en": "Shiga Prefecture Ryuo",
+    "ja": "滋賀県 竜王町"
+  },
+  "812376": {
+    "en": "Shiga Prefecture Koka",
+    "ja": "滋賀県 甲賀市"
+  },
+  "812415": {
+    "en": "Shiga Prefecture Hino",
+    "ja": "滋賀県 日野町"
+  },
+  "899029": {
+    "en": "Hyogo Prefecture Toyooka",
+    "ja": "兵庫県 豊岡市"
+  },
+  "899031": {
+    "en": "Hyogo Prefecture Asago",
+    "ja": "兵庫県 朝来市"
+  },
+  "899035": {
+    "en": "Hyogo Prefecture Kami",
+    "ja": "兵庫県 香美町"
+  },
+  "900073": {
+    "en": "Hyogo Prefecture Yabu",
+    "ja": "兵庫県 養父市"
+  },
+  "900077": {
+    "en": "Hyogo Prefecture Shin-onsen",
+    "ja": "兵庫県 新温泉町"
+  },
+  "900250": {
+    "en": "Hyogo Prefecture Taka",
+    "ja": "兵庫県 多可町"
+  },
+  "900251": {
+    "en": "Hyogo Prefecture Tamba",
+    "ja": "兵庫県 丹波市"
+  },
+  "900252": {
+    "en": "Hyogo Prefecture Shiso",
+    "ja": "兵庫県 宍粟市"
+  },
+  "900253": {
+    "en": "Hyogo Prefecture Sayo",
+    "ja": "兵庫県 佐用町"
+  },
+  "900257": {
+    "en": "Hyogo Prefecture Kamikawa",
+    "ja": "兵庫県 神河町"
+  },
+  "900262": {
+    "en": "Hyogo Prefecture Tamba-Sasayama",
+    "ja": "兵庫県 丹波篠山市"
+  },
+  "900265": {
+    "en": "Hyogo Prefecture Takarazuka",
+    "ja": "兵庫県 宝塚市"
+  },
+  "900266": {
+    "en": "Hyogo Prefecture Sanda",
+    "ja": "兵庫県 三田市"
+  },
+  "900267": {
+    "en": "Hyogo Prefecture Inagawa",
+    "ja": "兵庫県 猪名川町"
+  },
+  "900268": {
+    "en": "Hyogo Prefecture Nishiwaki",
+    "ja": "兵庫県 西脇市"
+  },
+  "900269": {
+    "en": "Hyogo Prefecture Himeji",
+    "ja": "兵庫県 姫路市"
+  },
+  "900270": {
+    "en": "Hyogo Prefecture Kamigori",
+    "ja": "兵庫県 上郡町"
+  },
+  "900272": {
+    "en": "Hyogo Prefecture Tatsuno",
+    "ja": "兵庫県 たつの市"
+  },
+  "900273": {
+    "en": "Hyogo Prefecture Aioi",
+    "ja": "兵庫県 相生市"
+  },
+  "900275": {
+    "en": "Hyogo Prefecture Fukusaki",
+    "ja": "兵庫県 福崎町"
+  },
+  "900277": {
+    "en": "Hyogo Prefecture Kasai",
+    "ja": "兵庫県 加西市"
+  },
+  "900278": {
+    "en": "Hyogo Prefecture Ichikawa",
+    "ja": "兵庫県 市川町"
+  },
+  "900308": {
+    "en": "Hyogo Prefecture Kato",
+    "ja": "兵庫県 加東市"
+  },
+  "900312": {
+    "en": "Hyogo Prefecture Nishinomiya",
+    "ja": "兵庫県 西宮市"
+  },
+  "900314": {
+    "en": "Hyogo Prefecture Kawanishi",
+    "ja": "兵庫県 川西市"
+  },
+  "900327": {
+    "en": "Hyogo Prefecture Ono",
+    "ja": "兵庫県 小野市"
+  },
+  "900328": {
+    "en": "Hyogo Prefecture Miki",
+    "ja": "兵庫県 三木市"
+  },
+  "900329": {
+    "en": "Hyogo Prefecture Kobe",
+    "ja": "兵庫県 神戸市"
+  },
+  "900331": {
+    "en": "Hyogo Prefecture Kakogawa",
+    "ja": "兵庫県 加古川市"
+  },
+  "900355": {
+    "en": "Hyogo Prefecture Taishi",
+    "ja": "兵庫県 太子町"
+  },
+  "900357": {
+    "en": "Hyogo Prefecture Ako",
+    "ja": "兵庫県 赤穂市"
+  },
+  "900517": {
+    "en": "Hyogo Prefecture Takasago",
+    "ja": "兵庫県 高砂市"
+  },
+  "900530": {
+    "en": "Hyogo Prefecture Akashi",
+    "ja": "兵庫県 明石市"
+  },
+  "900532": {
+    "en": "Hyogo Prefecture Harima",
+    "ja": "兵庫県 播磨町"
+  },
+  "900533": {
+    "en": "Hyogo Prefecture Inami",
+    "ja": "兵庫県 稲美町"
+  },
+  "901518": {
+    "en": "Hyogo Prefecture Ashiya",
+    "ja": "兵庫県 芦屋市"
+  },
+  "901520": {
+    "en": "Hyogo Prefecture Amagasaki",
+    "ja": "兵庫県 尼崎市"
+  },
+  "901525": {
+    "en": "Hyogo Prefecture Itami",
+    "ja": "兵庫県 伊丹市"
+  },
+  "901535": {
+    "en": "Hyogo Prefecture Awaji",
+    "ja": "兵庫県 淡路市"
+  },
+  "901536": {
+    "en": "Hyogo Prefecture Sumoto",
+    "ja": "兵庫県 洲本市"
+  },
+  "901543": {
+    "en": "Hyogo Prefecture Minamiawaji",
+    "ja": "兵庫県 南あわじ市"
+  },
+  "909077": {
+    "en": "Kagawa Prefecture Sakaide",
+    "ja": "香川県 坂出市"
+  },
+  "963763": {
+    "en": "Iwate Prefecture Iwate",
+    "ja": "岩手県 岩手町"
+  },
+  "963764": {
+    "en": "Iwate Prefecture Kamaishi",
+    "ja": "岩手県 釜石市"
+  },
+  "963765": {
+    "en": "Iwate Prefecture Ninohe",
+    "ja": "岩手県 二戸市"
+  },
+  "963766": {
+    "en": "Iwate Prefecture Fudai",
+    "ja": "岩手県 普代村"
+  },
+  "963768": {
+    "en": "Iwate Prefecture Sumita",
+    "ja": "岩手県 住田町"
+  },
+  "963769": {
+    "en": "Iwate Prefecture Shiwa",
+    "ja": "岩手県 紫波町"
+  },
+  "963770": {
+    "en": "Iwate Prefecture Yahaba",
+    "ja": "岩手県 矢巾町"
+  },
+  "963771": {
+    "en": "Iwate Prefecture Ichinohe",
+    "ja": "岩手県 一戸町"
+  },
+  "963772": {
+    "en": "Iwate Prefecture Otsuchi",
+    "ja": "岩手県 大槌町"
+  },
+  "963773": {
+    "en": "Iwate Prefecture Karumai",
+    "ja": "岩手県 軽米町"
+  },
+  "963774": {
+    "en": "Iwate Prefecture Noda",
+    "ja": "岩手県 野田村"
+  },
+  "963775": {
+    "en": "Iwate Prefecture Hiraizumi",
+    "ja": "岩手県 平泉町"
+  },
+  "963776": {
+    "en": "Iwate Prefecture Kanegasaki",
+    "ja": "岩手県 金ケ崎町"
+  },
+  "963777": {
+    "en": "Iwate Prefecture Takizawa",
+    "ja": "岩手県 滝沢市"
+  },
+  "963778": {
+    "en": "Iwate Prefecture Yamada",
+    "ja": "岩手県 山田町"
+  },
+  "963779": {
+    "en": "Iwate Prefecture 九戸村",
+    "ja": "岩手県 九戸村"
+  },
+  "963780": {
+    "en": "Iwate Prefecture Tanohara",
+    "ja": "岩手県 田野畑村"
+  },
+  "963781": {
+    "en": "Iwate Prefecture Hirono",
+    "ja": "岩手県 洋野町"
+  },
+  "963782": {
+    "en": "Iwate Prefecture Oshu",
+    "ja": "岩手県 奥州市"
+  },
+  "963783": {
+    "en": "Iwate Prefecture Nishiwaga",
+    "ja": "岩手県 西和賀町"
+  },
+  "963784": {
+    "en": "Iwate Prefecture Morioka",
+    "ja": "岩手県 盛岡市"
+  },
+  "963785": {
+    "en": "Iwate Prefecture Hachimantai",
+    "ja": "岩手県 八幡平市"
+  },
+  "963786": {
+    "en": "Iwate Prefecture Iwaizumi",
+    "ja": "岩手県 岩泉町"
+  },
+  "963787": {
+    "en": "Iwate Prefecture Kuji",
+    "ja": "岩手県 久慈市"
+  },
+  "963788": {
+    "en": "Iwate Prefecture Rikuzen-Takata",
+    "ja": "岩手県 陸前高田市"
+  },
+  "963789": {
+    "en": "Iwate Prefecture Kitakami",
+    "ja": "岩手県 北上市"
+  },
+  "963790": {
+    "en": "Iwate Prefecture Tono",
+    "ja": "岩手県 遠野市"
+  },
+  "963791": {
+    "en": "Iwate Prefecture Shizukuishi",
+    "ja": "岩手県 雫石町"
+  },
+  "963792": {
+    "en": "Iwate Prefecture Ofunato",
+    "ja": "岩手県 大船渡市"
+  },
+  "963793": {
+    "en": "Iwate Prefecture 葛巻町",
+    "ja": "岩手県 葛巻町"
+  },
+  "963794": {
+    "en": "Iwate Prefecture Miyako",
+    "ja": "岩手県 宮古市"
+  },
+  "963797": {
+    "en": "Iwate Prefecture Hanamaki",
+    "ja": "岩手県 花巻市"
+  },
+  "1309667": {
+    "en": "Kagawa Prefecture Zentsuji",
+    "ja": "香川県 善通寺市"
+  },
+  "1541375": {
+    "en": "Fukuoka Prefecture Fukutsu",
+    "ja": "福岡県 福津市"
+  },
+  "1543055": {
+    "en": "Tokyo Suginami",
+    "ja": "東京都 杉並区"
+  },
+  "1543056": {
+    "en": "Tokyo Nakano",
+    "ja": "東京都 中野区"
+  },
+  "1547364": {
+    "en": "Kyoto Prefecture Maizuru",
+    "ja": "京都府 舞鶴市"
+  },
+  "1551323": {
+    "en": "Fukuoka Prefecture Munakata",
+    "ja": "福岡県 宗像市"
+  },
+  "1553544": {
+    "en": "Fukuoka Prefecture Koga",
+    "ja": "福岡県 古賀市"
+  },
+  "1758858": {
+    "en": "Tokyo Shinjuku",
+    "ja": "東京都 新宿区"
+  },
+  "1758878": {
+    "en": "Tokyo Bunkyo",
+    "ja": "東京都 文京区"
+  },
+  "1758888": {
+    "en": "Tokyo Taito",
+    "ja": "東京都 台東区"
+  },
+  "1758891": {
+    "en": "Tokyo Sumida",
+    "ja": "東京都 墨田区"
+  },
+  "1758897": {
+    "en": "Tokyo Chuo",
+    "ja": "東京都 中央区"
+  },
+  "1758936": {
+    "en": "Tokyo Meguro",
+    "ja": "東京都 目黒区"
+  },
+  "1758947": {
+    "en": "Tokyo Ota",
+    "ja": "東京都 大田区"
+  },
+  "1759474": {
+    "en": "Tokyo Setagaya",
+    "ja": "東京都 世田谷区"
+  },
+  "1759475": {
+    "en": "Tokyo Komae",
+    "ja": "東京都 狛江市"
+  },
+  "1759477": {
+    "en": "Tokyo Shibuya",
+    "ja": "東京都 渋谷区"
+  },
+  "1759506": {
+    "en": "Tokyo Toshima",
+    "ja": "東京都 豊島区"
+  },
+  "1760038": {
+    "en": "Tokyo Kita",
+    "ja": "東京都 北区"
+  },
+  "1760078": {
+    "en": "Tokyo Itabashi",
+    "ja": "東京都 板橋区"
+  },
+  "1760119": {
+    "en": "Tokyo Nerima",
+    "ja": "東京都 練馬区"
+  },
+  "1760124": {
+    "en": "Tokyo Adachi",
+    "ja": "東京都 足立区"
+  },
+  "1761717": {
+    "en": "Tokyo Minato",
+    "ja": "東京都 港区"
+  },
+  "1761718": {
+    "en": "Tokyo Katsushika",
+    "ja": "東京都 葛飾区"
+  },
+  "1761742": {
+    "en": "Tokyo Chiyoda",
+    "ja": "東京都 千代田区"
+  },
+  "1761743": {
+    "en": "Tokyo Edogawa",
+    "ja": "東京都 江戸川区"
+  },
+  "1761771": {
+    "en": "Tokyo Tachikawa",
+    "ja": "東京都 立川市"
+  },
+  "1761804": {
+    "en": "Tokyo Musashino",
+    "ja": "東京都 武蔵野市"
+  },
+  "1761820": {
+    "en": "Tokyo Mitaka",
+    "ja": "東京都 三鷹市"
+  },
+  "1761834": {
+    "en": "Tokyo Ome",
+    "ja": "東京都 青梅市"
+  },
+  "1766003": {
+    "en": "Gunma Prefecture Ora",
+    "ja": "群馬県 邑楽町"
+  },
+  "1854450": {
+    "en": "Gunma Prefecture Meiwa",
+    "ja": "群馬県 明和町"
+  },
+  "1859867": {
+    "en": "Tochigi Prefecture Oyama",
+    "ja": "栃木県 小山市"
+  },
+  "1860241": {
+    "en": "Tochigi Prefecture Shimotsuke",
+    "ja": "栃木県 下野市"
+  },
+  "1860880": {
+    "en": "Gunma Prefecture Midori",
+    "ja": "群馬県 みどり市"
+  },
+  "1861888": {
+    "en": "Gunma Prefecture Kiryu",
+    "ja": "群馬県 桐生市"
+  },
+  "1865315": {
+    "en": "Gunma Prefecture Isesaki",
+    "ja": "群馬県 伊勢崎市"
+  },
+  "1867896": {
+    "en": "Gunma Prefecture Tamamura",
+    "ja": "群馬県 玉村町"
+  },
+  "1877091": {
+    "en": "Tochigi Prefecture Mooka",
+    "ja": "栃木県 真岡市"
+  },
+  "1895628": {
+    "en": "Tochigi Prefecture Kaminokawa",
+    "ja": "栃木県 上三川町"
+  },
+  "1902902": {
+    "en": "Tochigi Prefecture Takanezawa",
+    "ja": "栃木県 高根沢町"
+  },
+  "1919929": {
+    "en": "Wakayama Prefecture Wakayama",
+    "ja": "和歌山県 和歌山市"
+  },
+  "2198464": {
+    "en": "Nara Prefecture Koryo",
+    "ja": "奈良県 広陵町"
+  },
+  "2679896": {
+    "en": "Chiba Prefecture Isumi",
+    "ja": "千葉県 いすみ市"
+  },
+  "2679897": {
+    "en": "Chiba Prefecture Ichinomiya",
+    "ja": "千葉県 一宮町"
+  },
+  "2679898": {
+    "en": "Chiba Prefecture Kujukuri",
+    "ja": "千葉県 九十九里町"
+  },
+  "2679899": {
+    "en": "Chiba Prefecture Sakura",
+    "ja": "千葉県 佐倉市"
+  },
+  "2679900": {
+    "en": "Chiba Prefecture Yachiyo",
+    "ja": "千葉県 八千代市"
+  },
+  "2679901": {
+    "en": "Chiba Prefecture Yachimata",
+    "ja": "千葉県 八街市"
+  },
+  "2679902": {
+    "en": "Chiba Prefecture Katsuura",
+    "ja": "千葉県 勝浦市"
+  },
+  "2679903": {
+    "en": "Chiba Prefecture Sosa",
+    "ja": "千葉県 匝瑳市"
+  },
+  "2679904": {
+    "en": "Chiba Prefecture Minamiboso",
+    "ja": "千葉県 南房総市"
+  },
+  "2679905": {
+    "en": "Chiba Prefecture Inzai",
+    "ja": "千葉県 印西市"
+  },
+  "2679906": {
+    "en": "Chiba Prefecture Kimitsu",
+    "ja": "千葉県 君津市"
+  },
+  "2679907": {
+    "en": "Chiba Prefecture Yotsukaido",
+    "ja": "千葉県 四街道市"
+  },
+  "2679908": {
+    "en": "Chiba Prefecture Tako",
+    "ja": "千葉県 多古町"
+  },
+  "2679909": {
+    "en": "Chiba Prefecture Otaki",
+    "ja": "千葉県 大多喜町"
+  },
+  "2679910": {
+    "en": "Chiba Prefecture Oamishirasato",
+    "ja": "千葉県 大網白里市"
+  },
+  "2679911": {
+    "en": "Chiba Prefecture Futtsu",
+    "ja": "千葉県 富津市"
+  },
+  "2679912": {
+    "en": "Chiba Prefecture Tomisato",
+    "ja": "千葉県 富里市"
+  },
+  "2679913": {
+    "en": "Chiba Prefecture Sanmu",
+    "ja": "千葉県 山武市"
+  },
+  "2679914": {
+    "en": "Chiba Prefecture Ichihara",
+    "ja": "千葉県 市原市"
+  },
+  "2679915": {
+    "en": "Chiba Prefecture Ichikawa",
+    "ja": "千葉県 市川市"
+  },
+  "2679916": {
+    "en": "Chiba Prefecture Onjuku",
+    "ja": "千葉県 御宿町"
+  },
+  "2679917": {
+    "en": "Chiba Prefecture Narita",
+    "ja": "千葉県 成田市"
+  },
+  "2679918": {
+    "en": "Chiba Prefecture Abiko",
+    "ja": "千葉県 我孫子市"
+  },
+  "2679919": {
+    "en": "Chiba Prefecture Shozokumiteichi",
+    "ja": "千葉県 所属未定地"
+  },
+  "2679920": {
+    "en": "Chiba Prefecture Asahi",
+    "ja": "千葉県 旭市"
+  },
+  "2679921": {
+    "en": "Chiba Prefecture Kisarazu",
+    "ja": "千葉県 木更津市"
+  },
+  "2679922": {
+    "en": "Chiba Prefecture Toonosho",
+    "ja": "千葉県 東庄町"
+  },
+  "2679923": {
+    "en": "Chiba Prefecture Toogane",
+    "ja": "千葉県 東金市"
+  },
+  "2679924": {
+    "en": "Chiba Prefecture Matsudo",
+    "ja": "千葉県 松戸市"
+  },
+  "2679925": {
+    "en": "Chiba Prefecture Kashiwa",
+    "ja": "千葉県 柏市"
+  },
+  "2679926": {
+    "en": "Chiba Prefecture Sakae",
+    "ja": "千葉県 栄町"
+  },
+  "2679927": {
+    "en": "Chiba Prefecture Yokoshibahikari",
+    "ja": "千葉県 横芝光町"
+  },
+  "2679928": {
+    "en": "Chiba Prefecture Nagareyama",
+    "ja": "千葉県 流山市"
+  },
+  "2679929": {
+    "en": "Chiba Prefecture Urayasu",
+    "ja": "千葉県 浦安市"
+  },
+  "2679930": {
+    "en": "Chiba Prefecture Shiroi",
+    "ja": "千葉県 白井市"
+  },
+  "2679931": {
+    "en": "Chiba Prefecture Shirako",
+    "ja": "千葉県 白子町"
+  },
+  "2679932": {
+    "en": "Chiba Prefecture Mutsuzawa",
+    "ja": "千葉県 睦沢町"
+  },
+  "2679933": {
+    "en": "Chiba Prefecture Kozaki",
+    "ja": "千葉県 神崎町"
+  },
+  "2679934": {
+    "en": "Chiba Prefecture Narashino",
+    "ja": "千葉県 習志野市"
+  },
+  "2679935": {
+    "en": "Chiba Prefecture Funabashi",
+    "ja": "千葉県 船橋市"
+  },
+  "2679936": {
+    "en": "Chiba Prefecture Shibayama",
+    "ja": "千葉県 芝山町"
+  },
+  "2679937": {
+    "en": "Chiba Prefecture Mobara",
+    "ja": "千葉県 茂原市"
+  },
+  "2679938": {
+    "en": "Chiba Prefecture Sodegaura",
+    "ja": "千葉県 袖ケ浦市"
+  },
+  "2679939": {
+    "en": "Chiba Prefecture Shisui",
+    "ja": "千葉県 酒々井町"
+  },
+  "2679940": {
+    "en": "Chiba Prefecture Noda",
+    "ja": "千葉県 野田市"
+  },
+  "2679941": {
+    "en": "Chiba Prefecture Choshi",
+    "ja": "千葉県 銚子市"
+  },
+  "2679942": {
+    "en": "Chiba Prefecture Kyonan",
+    "ja": "千葉県 鋸南町"
+  },
+  "2679943": {
+    "en": "Chiba Prefecture Kamagaya",
+    "ja": "千葉県 鎌ケ谷市"
+  },
+  "2679944": {
+    "en": "Chiba Prefecture Chonan",
+    "ja": "千葉県 長南町"
+  },
+  "2679945": {
+    "en": "Chiba Prefecture Nagara",
+    "ja": "千葉県 長柄町"
+  },
+  "2679946": {
+    "en": "Chiba Prefecture Chosei",
+    "ja": "千葉県 長生村"
+  },
+  "2679947": {
+    "en": "Chiba Prefecture Tateyama",
+    "ja": "千葉県 館山市"
+  },
+  "2679948": {
+    "en": "Chiba Prefecture Katori",
+    "ja": "千葉県 香取市"
+  },
+  "2679949": {
+    "en": "Chiba Prefecture Kamogawa",
+    "ja": "千葉県 鴨川市"
+  },
+  "2679956": {
+    "en": "Chiba Prefecture Chiba",
+    "ja": "千葉県 千葉市"
+  },
+  "2682889": {
+    "en": "Ibaraki Prefecture Kasumigaura",
+    "ja": "茨城県 かすみがうら市"
+  },
+  "2682890": {
+    "en": "Ibaraki Prefecture Tsukubamirai",
+    "ja": "茨城県 つくばみらい市"
+  },
+  "2682891": {
+    "en": "Ibaraki Prefecture Tsukuba",
+    "ja": "茨城県 つくば市"
+  },
+  "2682892": {
+    "en": "Ibaraki Prefecture Hitachinaka",
+    "ja": "茨城県 ひたちなか市"
+  },
+  "2682893": {
+    "en": "Ibaraki Prefecture Shimotsuma",
+    "ja": "茨城県 下妻市"
+  },
+  "2682894": {
+    "en": "Ibaraki Prefecture Goka",
+    "ja": "茨城県 五霞町"
+  },
+  "2682895": {
+    "en": "Ibaraki Prefecture Yachiyo",
+    "ja": "茨城県 八千代町"
+  },
+  "2682896": {
+    "en": "Ibaraki Prefecture Tone",
+    "ja": "茨城県 利根町"
+  },
+  "2682897": {
+    "en": "Ibaraki Prefecture Kitaibaraki",
+    "ja": "茨城県 北茨城市"
+  },
+  "2682898": {
+    "en": "Ibaraki Prefecture Toride",
+    "ja": "茨城県 取手市"
+  },
+  "2682899": {
+    "en": "Ibaraki Prefecture Koga",
+    "ja": "茨城県 古河市"
+  },
+  "2682900": {
+    "en": "Ibaraki Prefecture Tsuchiura",
+    "ja": "茨城県 土浦市"
+  },
+  "2682901": {
+    "en": "Ibaraki Prefecture Bando",
+    "ja": "茨城県 坂東市"
+  },
+  "2682902": {
+    "en": "Ibaraki Prefecture Shirosato",
+    "ja": "茨城県 城里町"
+  },
+  "2682903": {
+    "en": "Ibaraki Prefecture Sakai",
+    "ja": "茨城県 境町"
+  },
+  "2682904": {
+    "en": "Ibaraki Prefecture Daigo",
+    "ja": "茨城県 大子町"
+  },
+  "2682905": {
+    "en": "Ibaraki Prefecture Oarai",
+    "ja": "茨城県 大洗町"
+  },
+  "2682906": {
+    "en": "Ibaraki Prefecture Moriya",
+    "ja": "茨城県 守谷市"
+  },
+  "2682907": {
+    "en": "Ibaraki Prefecture Omitama",
+    "ja": "茨城県 小美玉市"
+  },
+  "2682908": {
+    "en": "Ibaraki Prefecture Joso",
+    "ja": "茨城県 常総市"
+  },
+  "2682909": {
+    "en": "Ibaraki Prefecture Hitachiomiya",
+    "ja": "茨城県 常陸大宮市"
+  },
+  "2682910": {
+    "en": "Ibaraki Prefecture Hitachiota",
+    "ja": "茨城県 常陸太田市"
+  },
+  "2682911": {
+    "en": "Ibaraki Prefecture Hitachi",
+    "ja": "茨城県 日立市"
+  },
+  "2682912": {
+    "en": "Ibaraki Prefecture Tokai",
+    "ja": "茨城県 東海村"
+  },
+  "2682913": {
+    "en": "Ibaraki Prefecture Sakuragawa",
+    "ja": "茨城県 桜川市"
+  },
+  "2682914": {
+    "en": "Ibaraki Prefecture Mito",
+    "ja": "茨城県 水戸市"
+  },
+  "2682915": {
+    "en": "Ibaraki Prefecture Kawachi",
+    "ja": "茨城県 河内町"
+  },
+  "2682916": {
+    "en": "Ibaraki Prefecture Itako",
+    "ja": "茨城県 潮来市"
+  },
+  "2682917": {
+    "en": "Ibaraki Prefecture Ushiku",
+    "ja": "茨城県 牛久市"
+  },
+  "2682918": {
+    "en": "Ibaraki Prefecture Ishioka",
+    "ja": "茨城県 石岡市"
+  },
+  "2682919": {
+    "en": "Ibaraki Prefecture Kamisu",
+    "ja": "茨城県 神栖市"
+  },
+  "2682920": {
+    "en": "Ibaraki Prefecture Inashiki",
+    "ja": "茨城県 稲敷市"
+  },
+  "2682921": {
+    "en": "Ibaraki Prefecture Kasama",
+    "ja": "茨城県 笠間市"
+  },
+  "2682922": {
+    "en": "Ibaraki Prefecture Chikusei",
+    "ja": "茨城県 筑西市"
+  },
+  "2682923": {
+    "en": "Ibaraki Prefecture Yuki",
+    "ja": "茨城県 結城市"
+  },
+  "2682924": {
+    "en": "Ibaraki Prefecture Miho",
+    "ja": "茨城県 美浦村"
+  },
+  "2682925": {
+    "en": "Ibaraki Prefecture Ibaraki",
+    "ja": "茨城県 茨城町"
+  },
+  "2682926": {
+    "en": "Ibaraki Prefecture Namekata",
+    "ja": "茨城県 行方市"
+  },
+  "2682927": {
+    "en": "Ibaraki Prefecture Naka",
+    "ja": "茨城県 那珂市"
+  },
+  "2682928": {
+    "en": "Ibaraki Prefecture Hokota",
+    "ja": "茨城県 鉾田市"
+  },
+  "2682929": {
+    "en": "Ibaraki Prefecture Ami",
+    "ja": "茨城県 阿見町"
+  },
+  "2682930": {
+    "en": "Ibaraki Prefecture Takahagi",
+    "ja": "茨城県 高萩市"
+  },
+  "2682931": {
+    "en": "Ibaraki Prefecture Kashima",
+    "ja": "茨城県 鹿嶋市"
+  },
+  "2682932": {
+    "en": "Ibaraki Prefecture Ryugasaki",
+    "ja": "茨城県 龍ケ崎市"
+  },
+  "2689408": {
+    "en": "Kanagawa Prefecture Miura",
+    "ja": "神奈川県 三浦市"
+  },
+  "2689410": {
+    "en": "Kanagawa Prefecture Nakai",
+    "ja": "神奈川県 中井町"
+  },
+  "2689413": {
+    "en": "Kanagawa Prefecture Ninomiya",
+    "ja": "神奈川県 二宮町"
+  },
+  "2689419": {
+    "en": "Kanagawa Prefecture Isehara",
+    "ja": "神奈川県 伊勢原市"
+  },
+  "2689421": {
+    "en": "Kanagawa Prefecture Minamiashigara",
+    "ja": "神奈川県 南足柄市"
+  },
+  "2689422": {
+    "en": "Kanagawa Prefecture Atsugi",
+    "ja": "神奈川県 厚木市"
+  },
+  "2689423": {
+    "en": "Kanagawa Prefecture Oi",
+    "ja": "神奈川県 大井町"
+  },
+  "2689424": {
+    "en": "Kanagawa Prefecture Yamato",
+    "ja": "神奈川県 大和市"
+  },
+  "2689425": {
+    "en": "Kanagawa Prefecture Oiso",
+    "ja": "神奈川県 大磯町"
+  },
+  "2689426": {
+    "en": "Kanagawa Prefecture Samukawa",
+    "ja": "神奈川県 寒川町"
+  },
+  "2689427": {
+    "en": "Kanagawa Prefecture Odawara",
+    "ja": "神奈川県 小田原市"
+  },
+  "2689428": {
+    "en": "Kanagawa Prefecture Yamakita",
+    "ja": "神奈川県 山北町"
+  },
+  "2689429": {
+    "en": "Kanagawa Prefecture Hiratsuka",
+    "ja": "神奈川県 平塚市"
+  },
+  "2689430": {
+    "en": "Kanagawa Prefecture Zama",
+    "ja": "神奈川県 座間市"
+  },
+  "2689431": {
+    "en": "Kanagawa Prefecture Aikawa",
+    "ja": "神奈川県 愛川町"
+  },
+  "2689432": {
+    "en": "Kanagawa Prefecture Matsuda",
+    "ja": "神奈川県 松田町"
+  },
+  "2689433": {
+    "en": "Kanagawa Prefecture Yokosuka",
+    "ja": "神奈川県 横須賀市"
+  },
+  "2689434": {
+    "en": "Kanagawa Prefecture Ebina",
+    "ja": "神奈川県 海老名市"
+  },
+  "2689435": {
+    "en": "Kanagawa Prefecture Kiyokawa",
+    "ja": "神奈川県 清川村"
+  },
+  "2689436": {
+    "en": "Kanagawa Prefecture Yugawara",
+    "ja": "神奈川県 湯河原町"
+  },
+  "2689437": {
+    "en": "Kanagawa Prefecture Manazuru",
+    "ja": "神奈川県 真鶴町"
+  },
+  "2689438": {
+    "en": "Kanagawa Prefecture Hadano",
+    "ja": "神奈川県 秦野市"
+  },
+  "2689439": {
+    "en": "Kanagawa Prefecture Hakone",
+    "ja": "神奈川県 箱根町"
+  },
+  "2689440": {
+    "en": "Kanagawa Prefecture Ayase",
+    "ja": "神奈川県 綾瀬市"
+  },
+  "2689441": {
+    "en": "Kanagawa Prefecture Chigasaki",
+    "ja": "神奈川県 茅ヶ崎市"
+  },
+  "2689442": {
+    "en": "Kanagawa Prefecture Hayama",
+    "ja": "神奈川県 葉山町"
+  },
+  "2689443": {
+    "en": "Kanagawa Prefecture Fujisawa",
+    "ja": "神奈川県 藤沢市"
+  },
+  "2689444": {
+    "en": "Kanagawa Prefecture Zushi",
+    "ja": "神奈川県 逗子市"
+  },
+  "2689445": {
+    "en": "Kanagawa Prefecture Kamakura",
+    "ja": "神奈川県 鎌倉市"
+  },
+  "2689446": {
+    "en": "Kanagawa Prefecture Kaisei",
+    "ja": "神奈川県 開成町"
+  },
+  "2689476": {
+    "en": "Kanagawa Prefecture Kawasaki",
+    "ja": "神奈川県 川崎市"
+  },
+  "2689481": {
+    "en": "Kanagawa Prefecture Sagamihara",
+    "ja": "神奈川県 相模原市"
+  },
+  "2689482": {
+    "en": "Kanagawa Prefecture Yokohama",
+    "ja": "神奈川県 横浜市"
+  },
+  "3222883": {
+    "en": "Nara Prefecture Ando",
+    "ja": "奈良県 安堵町"
+  },
+  "3223883": {
+    "en": "Nara Prefecture Kawanishi",
+    "ja": "奈良県 川西町"
+  },
+  "3223894": {
+    "en": "Nara Prefecture Miyake",
+    "ja": "奈良県 三宅町"
+  },
+  "3224421": {
+    "en": "Nara Prefecture Ikoma",
+    "ja": "奈良県 生駒市"
+  },
+  "3225494": {
+    "en": "Nara Prefecture Heguri",
+    "ja": "奈良県 平群町"
+  },
+  "3227707": {
+    "en": "Nara Prefecture Nara",
+    "ja": "奈良県 奈良市"
+  },
+  "3228521": {
+    "en": "Nara Prefecture Sango",
+    "ja": "奈良県 三郷町"
+  },
+  "3229195": {
+    "en": "Nara Prefecture Ikaruga",
+    "ja": "奈良県 斑鳩町"
+  },
+  "3229314": {
+    "en": "Nara Prefecture Yamatokoriyama",
+    "ja": "奈良県 大和郡山市"
+  },
+  "3230443": {
+    "en": "Nara Prefecture Yamazoe",
+    "ja": "奈良県 山添村"
+  },
+  "3230694": {
+    "en": "Nara Prefecture Tenri",
+    "ja": "奈良県 天理市"
+  },
+  "3231518": {
+    "en": "Nara Prefecture Tawaramoto",
+    "ja": "奈良県 田原本町"
+  },
+  "3237059": {
+    "en": "Nara Prefecture Uda",
+    "ja": "奈良県 宇陀市"
+  },
+  "3237274": {
+    "en": "Nara Prefecture Sakurai",
+    "ja": "奈良県 桜井市"
+  },
+  "3237327": {
+    "en": "Nara Prefecture Asuka",
+    "ja": "奈良県 明日香村"
+  },
+  "3238697": {
+    "en": "Nara Prefecture Takatori",
+    "ja": "奈良県 高取町"
+  },
+  "3239146": {
+    "en": "Nara Prefecture Soni",
+    "ja": "奈良県 曽爾村"
+  },
+  "3239198": {
+    "en": "Nara Prefecture Mitsue",
+    "ja": "奈良県 御杖村"
+  },
+  "3240230": {
+    "en": "Nara Prefecture Oji",
+    "ja": "奈良県 王寺町"
+  },
+  "3240385": {
+    "en": "Nara Prefecture Kawai",
+    "ja": "奈良県 河合町"
+  },
+  "3240873": {
+    "en": "Nara Prefecture Kanmaki",
+    "ja": "奈良県 上牧町"
+  },
+  "3242134": {
+    "en": "Nara Prefecture Kashihara",
+    "ja": "奈良県 橿原市"
+  },
+  "3243100": {
+    "en": "Nara Prefecture Kashiba",
+    "ja": "奈良県 香芝市"
+  },
+  "3244241": {
+    "en": "Nara Prefecture Yamatotakada",
+    "ja": "奈良県 大和高田市"
+  },
+  "3244742": {
+    "en": "Nara Prefecture Katsuragi",
+    "ja": "奈良県 葛城市"
+  },
+  "3245880": {
+    "en": "Nara Prefecture Gose",
+    "ja": "奈良県 御所市"
+  },
+  "3248173": {
+    "en": "Nara Prefecture Gojo",
+    "ja": "奈良県 五條市"
+  },
+  "3248219": {
+    "en": "Nara Prefecture Higashiyoshino",
+    "ja": "奈良県 東吉野村"
+  },
+  "3248262": {
+    "en": "Nara Prefecture Yoshino",
+    "ja": "奈良県 吉野町"
+  },
+  "3248997": {
+    "en": "Nara Prefecture Oyodo",
+    "ja": "奈良県 大淀町"
+  },
+  "3249030": {
+    "en": "Nara Prefecture Shimoichi",
+    "ja": "奈良県 下市町"
+  },
+  "3249332": {
+    "en": "Wakayama Prefecture Kudoyama",
+    "ja": "和歌山県 九度山町"
+  },
+  "3249599": {
+    "en": "Wakayama Prefecture Hashimoto",
+    "ja": "和歌山県 橋本市"
+  },
+  "3251188": {
+    "en": "Nara Prefecture Kawakami",
+    "ja": "奈良県 川上村"
+  },
+  "3251641": {
+    "en": "Nara Prefecture Kurotaki",
+    "ja": "奈良県 黒滝村"
+  },
+  "3252874": {
+    "en": "Nara Prefecture Tenkawa",
+    "ja": "奈良県 天川村"
+  },
+  "3253196": {
+    "en": "Nara Prefecture Kamikitayama",
+    "ja": "奈良県 上北山村"
+  },
+  "3253719": {
+    "en": "Nara Prefecture Nosegawa",
+    "ja": "奈良県 野迫川村"
+  },
+  "3253735": {
+    "en": "Nara Prefecture Totsukawa",
+    "ja": "奈良県 十津川村"
+  },
+  "3253790": {
+    "en": "Nara Prefecture Shimokitayama",
+    "ja": "奈良県 下北山村"
+  },
+  "3256890": {
+    "en": "Wakayama Prefecture Iwade",
+    "ja": "和歌山県 岩出市"
+  },
+  "3288891": {
+    "en": "Wakayama Prefecture Koya",
+    "ja": "和歌山県 高野町"
+  },
+  "3291140": {
+    "en": "Wakayama Prefecture Kinokawa",
+    "ja": "和歌山県 紀の川市"
+  },
+  "3295491": {
+    "en": "Wakayama Prefecture Katsuragi",
+    "ja": "和歌山県 かつらぎ町"
+  },
+  "3295547": {
+    "en": "Wakayama Prefecture Tanabe",
+    "ja": "和歌山県 田辺市"
+  },
+  "3317886": {
+    "en": "Wakayama Prefecture Kainan",
+    "ja": "和歌山県 海南市"
+  },
+  "3317912": {
+    "en": "Wakayama Prefecture Kimino",
+    "ja": "和歌山県 紀美野町"
+  },
+  "3318077": {
+    "en": "Wakayama Prefecture Arida",
+    "ja": "和歌山県 有田市"
+  },
+  "3320529": {
+    "en": "Wakayama Prefecture Hirogawa",
+    "ja": "和歌山県 広川町"
+  },
+  "3320530": {
+    "en": "Wakayama Prefecture Aridagawa",
+    "ja": "和歌山県 有田川町"
+  },
+  "3320531": {
+    "en": "Wakayama Prefecture Yuasa",
+    "ja": "和歌山県 湯浅町"
+  },
+  "3321873": {
+    "en": "Wakayama Prefecture Gobo",
+    "ja": "和歌山県 御坊市"
+  },
+  "3334893": {
+    "en": "Wakayama Prefecture Yura",
+    "ja": "和歌山県 由良町"
+  },
+  "3335914": {
+    "en": "Wakayama Prefecture Hidaka",
+    "ja": "和歌山県 日高町"
+  },
+  "3340073": {
+    "en": "Wakayama Prefecture Mihama",
+    "ja": "和歌山県 美浜町"
+  },
+  "3341695": {
+    "en": "Wakayama Prefecture Hidakagawa",
+    "ja": "和歌山県 日高川町"
+  },
+  "3341729": {
+    "en": "Wakayama Prefecture Inami",
+    "ja": "和歌山県 印南町"
+  },
+  "3341849": {
+    "en": "Wakayama Prefecture Minabe",
+    "ja": "和歌山県 みなべ町"
+  },
+  "3341935": {
+    "en": "Wakayama Prefecture Shirahama",
+    "ja": "和歌山県 白浜町"
+  },
+  "3343777": {
+    "en": "Wakayama Prefecture Kamitonda",
+    "ja": "和歌山県 上富田町"
+  },
+  "3344462": {
+    "en": "Wakayama Prefecture Susami",
+    "ja": "和歌山県 すさみ町"
+  },
+  "3350251": {
+    "en": "Wakayama Prefecture Shingu",
+    "ja": "和歌山県 新宮市"
+  },
+  "3352044": {
+    "en": "Wakayama Prefecture Kushimoto",
+    "ja": "和歌山県 串本町"
+  },
+  "3353137": {
+    "en": "Wakayama Prefecture Taiji",
+    "ja": "和歌山県 太地町"
+  },
+  "3353138": {
+    "en": "Wakayama Prefecture Nachikatsuura",
+    "ja": "和歌山県 那智勝浦町"
+  },
+  "3353142": {
+    "en": "Wakayama Prefecture Kozagawa",
+    "ja": "和歌山県 古座川町"
+  },
+  "3353151": {
+    "en": "Wakayama Prefecture Kitayama",
+    "ja": "和歌山県 北山村"
+  },
+  "3554015": {
+    "en": "Tokyo Koto",
+    "ja": "東京都 江東区"
+  },
+  "3554304": {
+    "en": "Tokyo Shinagawa",
+    "ja": "東京都 品川区"
+  },
+  "3554346": {
+    "en": "Gunma Prefecture Fujioka",
+    "ja": "群馬県 藤岡市"
+  },
+  "3555552": {
+    "en": "Gunma Prefecture Takasaki",
+    "ja": "群馬県 高崎市"
+  },
+  "3556741": {
+    "en": "Gunma Prefecture Ueno",
+    "ja": "群馬県 上野村"
+  },
+  "3557388": {
+    "en": "Nagano Prefecture Minamimaki",
+    "ja": "長野県 南牧村"
+  },
+  "3557401": {
+    "en": "Gunma Prefecture Kanna",
+    "ja": "群馬県 神流町"
+  },
+  "3561691": {
+    "en": "Gunma Prefecture Ota",
+    "ja": "群馬県 太田市"
+  },
+  "3562186": {
+    "en": "Gunma Prefecture Annaka",
+    "ja": "群馬県 安中市"
+  },
+  "3562228": {
+    "en": "Gunma Prefecture Shimonita Town",
+    "ja": "群馬県 下仁田町"
+  },
+  "3562367": {
+    "en": "Gunma Prefecture Shibukawa",
+    "ja": "群馬県 渋川市"
+  },
+  "3563845": {
+    "en": "Gunma Prefecture Maebashi",
+    "ja": "群馬県 前橋市"
+  },
+  "3565917": {
+    "en": "Gunma Prefecture Numata",
+    "ja": "群馬県 沼田市"
+  },
+  "3573297": {
+    "en": "Okinawa Prefecture Yomitan",
+    "ja": "沖縄県 読谷村"
+  },
+  "3586602": {
+    "en": "Gunma Prefecture Tomioka",
+    "ja": "群馬県 富岡市"
+  },
+  "3591975": {
+    "en": "Nagano Prefecture Karuizawa",
+    "ja": "長野県 軽井沢町"
+  },
+  "3593933": {
+    "en": "Nagano Prefecture Miyota",
+    "ja": "長野県 御代田町"
+  },
+  "3594017": {
+    "en": "Nagano Prefecture Komoro",
+    "ja": "長野県 小諸市"
+  },
+  "3599724": {
+    "en": "Nagano Prefecture Tomi",
+    "ja": "長野県 東御市"
+  },
+  "3599783": {
+    "en": "Nagano Prefecture Ueda",
+    "ja": "長野県 上田市"
+  },
+  "3605798": {
+    "en": "Tokyo Oshima",
+    "ja": "東京都 大島町"
+  },
+  "3605809": {
+    "en": "Tokyo Toshima",
+    "ja": "東京都 利島村"
+  },
+  "3605834": {
+    "en": "Tokyo Niijima",
+    "ja": "東京都 新島村"
+  },
+  "3605872": {
+    "en": "Tokyo Kozushima",
+    "ja": "東京都 神津島村"
+  },
+  "3606125": {
+    "en": "Tokyo Mikurajima",
+    "ja": "東京都 御蔵島村"
+  },
+  "3606126": {
+    "en": "Tokyo Miyake",
+    "ja": "東京都 三宅村"
+  },
+  "3628186": {
+    "en": "Gunma Prefecture Kusatsu",
+    "ja": "群馬県 草津町"
+  },
+  "3628855": {
+    "en": "Nagano Prefecture Sakuho",
+    "ja": "長野県 佐久穂町"
+  },
+  "3628856": {
+    "en": "Nagano Prefecture Kawakami",
+    "ja": "長野県 川上村"
+  },
+  "3629096": {
+    "en": "Nagano Prefecture Koumi",
+    "ja": "長野県 小海町"
+  },
+  "3629107": {
+    "en": "Nagano Prefecture Kitaaiki",
+    "ja": "長野県 北相木村"
+  },
+  "3629108": {
+    "en": "Nagano Prefecture Minamiaiki",
+    "ja": "長野県 南相木村"
+  },
+  "3629135": {
+    "en": "Nagano Prefecture Saku",
+    "ja": "長野県 佐久市"
+  },
+  "3633076": {
+    "en": "Nagano Prefecture Tateshina",
+    "ja": "長野県 立科町"
+  },
+  "3648951": {
+    "en": "Nagano Prefecture Suzaka",
+    "ja": "長野県 須坂市"
+  },
+  "3648962": {
+    "en": "Nagano Prefecture Nagano",
+    "ja": "長野県 長野市"
+  },
+  "3648972": {
+    "en": "Nagano Prefecture Matsumoto",
+    "ja": "長野県 松本市"
+  },
+  "3649003": {
+    "en": "Nagano Prefecture Okaya",
+    "ja": "長野県 岡谷市"
+  },
+  "3652879": {
+    "en": "Nagano Prefecture Iida",
+    "ja": "長野県 飯田市"
+  },
+  "3653961": {
+    "en": "Nagano Prefecture Suwa",
+    "ja": "長野県 諏訪市"
+  },
+  "3653983": {
+    "en": "Gunma Prefecture Tatebayashi",
+    "ja": "群馬県 館林市"
+  },
+  "3730061": {
+    "en": "Gunma Prefecture Itakura",
+    "ja": "群馬県 板倉町"
+  },
+  "3800233": {
+    "en": "Miyagi Prefecture Higashimatsushima",
+    "ja": "宮城県 東松島市"
+  },
+  "3800234": {
+    "en": "Miyagi Prefecture Kakuda",
+    "ja": "宮城県 角田市"
+  },
+  "3800262": {
+    "en": "Miyagi Prefecture Kurihara",
+    "ja": "宮城県 栗原市"
+  },
+  "3800418": {
+    "en": "Miyagi Prefecture Tome",
+    "ja": "宮城県 登米市"
+  },
+  "3800419": {
+    "en": "Miyagi Prefecture Osaki",
+    "ja": "宮城県 大崎市"
+  },
+  "3800427": {
+    "en": "Miyagi Prefecture Shiroishi",
+    "ja": "宮城県 白石市"
+  },
+  "3800454": {
+    "en": "Miyagi Prefecture Shichikashuku",
+    "ja": "宮城県 七ヶ宿町"
+  },
+  "3800455": {
+    "en": "Miyagi Prefecture Zao",
+    "ja": "宮城県 蔵王町"
+  },
+  "3807613": {
+    "en": "Tokyo Inagi",
+    "ja": "東京都 稲城市"
+  },
+  "3903604": {
+    "en": "Niigata Prefecture Yuzawa",
+    "ja": "新潟県 湯沢町"
+  },
+  "3931653": {
+    "en": "Okayama Prefecture Ibara",
+    "ja": "岡山県 井原市"
+  },
+  "3931764": {
+    "en": "Okayama Prefecture Kasaoka",
+    "ja": "岡山県 笠岡市"
+  },
+  "3934574": {
+    "en": "Okayama Prefecture Kibichuo",
+    "ja": "岡山県 吉備中央町"
+  },
+  "3934576": {
+    "en": "Okayama Prefecture Kumenan",
+    "ja": "岡山県 久米南町"
+  },
+  "3934591": {
+    "en": "Okayama Prefecture Kagamino",
+    "ja": "岡山県 鏡野町"
+  },
+  "3934615": {
+    "en": "Okayama Prefecture Tamano",
+    "ja": "岡山県 玉野市"
+  },
+  "3934642": {
+    "en": "Okayama Prefecture Takahashi",
+    "ja": "岡山県 高梁市"
+  },
+  "3934683": {
+    "en": "Okayama Prefecture Shoo",
+    "ja": "岡山県 勝央町"
+  },
+  "3934723": {
+    "en": "Okayama Prefecture Niimi",
+    "ja": "岡山県 新見市"
+  },
+  "3934734": {
+    "en": "Okayama Prefecture Shinjo",
+    "ja": "岡山県 新庄村"
+  },
+  "3934790": {
+    "en": "Okayama Prefecture Maniwa",
+    "ja": "岡山県 真庭市"
+  },
+  "3934848": {
+    "en": "Okayama Prefecture Setouchi",
+    "ja": "岡山県 瀬戸内市"
+  },
+  "3938511": {
+    "en": "Okayama Prefecture Nishiawakura",
+    "ja": "岡山県 西粟倉村"
+  },
+  "3938575": {
+    "en": "Okayama Prefecture Akaiwa",
+    "ja": "岡山県 赤磐市"
+  },
+  "3938577": {
+    "en": "Okayama Prefecture Asakuchi",
+    "ja": "岡山県 浅口市"
+  },
+  "3938622": {
+    "en": "Okayama Prefecture Kurashiki",
+    "ja": "岡山県 倉敷市"
+  },
+  "3938628": {
+    "en": "Okayama Prefecture Hayashima",
+    "ja": "岡山県 早島町"
+  },
+  "3938634": {
+    "en": "Okayama Prefecture Soja",
+    "ja": "岡山県 総社市"
+  },
+  "3938666": {
+    "en": "Okayama Prefecture Tsuyama",
+    "ja": "岡山県 津山市"
+  },
+  "3938703": {
+    "en": "Okayama Prefecture Nagi",
+    "ja": "岡山県 奈義町"
+  },
+  "3938913": {
+    "en": "Okayama Prefecture Bizen",
+    "ja": "岡山県 備前市"
+  },
+  "3939113": {
+    "en": "Okayama Prefecture Misaki",
+    "ja": "岡山県 美咲町"
+  },
+  "3939218": {
+    "en": "Okayama Prefecture Mimasaka",
+    "ja": "岡山県 美作市"
+  },
+  "3939366": {
+    "en": "Okayama Prefecture Yakage",
+    "ja": "岡山県 矢掛町"
+  },
+  "3939369": {
+    "en": "Okayama Prefecture Satosho",
+    "ja": "岡山県 里庄町"
+  },
+  "3939370": {
+    "en": "Okayama Prefecture Wake",
+    "ja": "岡山県 和気町"
+  },
+  "3939644": {
+    "en": "Okayama Prefecture Okayama",
+    "ja": "岡山県 岡山市"
+  },
+  "3959619": {
+    "en": "Kagoshima Prefecture Ichikikushikino",
+    "ja": "鹿児島県 いちき串木野市"
+  },
+  "3959620": {
+    "en": "Kagoshima Prefecture Satsuma",
+    "ja": "鹿児島県 さつま町"
+  },
+  "3959622": {
+    "en": "Kagoshima Prefecture Akune",
+    "ja": "鹿児島県 阿久根市"
+  },
+  "3959624": {
+    "en": "Kagoshima Prefecture Aira",
+    "ja": "鹿児島県 姶良市"
+  },
+  "3959628": {
+    "en": "Kagoshima Prefecture Isa",
+    "ja": "鹿児島県 伊佐市"
+  },
+  "3959632": {
+    "en": "Kagoshima Prefecture Isen",
+    "ja": "鹿児島県 伊仙町old"
+  },
+  "3959773": {
+    "en": "Kagoshima Prefecture Yakushima",
+    "ja": "鹿児島県 屋久島町"
+  },
+  "3960162": {
+    "en": "Kagoshima Prefecture Kimotsuki",
+    "ja": "鹿児島県 肝付町"
+  },
+  "3961318": {
+    "en": "Kagoshima Prefecture Kinko",
+    "ja": "鹿児島県 錦江町"
+  },
+  "3962263": {
+    "en": "Kagoshima Prefecture Satsumasendai",
+    "ja": "鹿児島県 薩摩川内市"
+  },
+  "3962377": {
+    "en": "Kagoshima Prefecture Mishima",
+    "ja": "鹿児島県 三島村"
+  },
+  "3962386": {
+    "en": "Kagoshima Prefecture Shibushi",
+    "ja": "鹿児島県 志布志市"
+  },
+  "3962393": {
+    "en": "Kagoshima Prefecture Ibusuki",
+    "ja": "鹿児島県 指宿市"
+  },
+  "3962762": {
+    "en": "Kagoshima Prefecture Kagoshima",
+    "ja": "鹿児島県 鹿児島市"
+  },
+  "3962763": {
+    "en": "Kagoshima Prefecture Kanoya",
+    "ja": "鹿児島県 鹿屋市"
+  },
+  "3964163": {
+    "en": "Kagoshima Prefecture Toshima",
+    "ja": "鹿児島県 十島村"
+  },
+  "3964317": {
+    "en": "Kagoshima Prefecture Izumi",
+    "ja": "鹿児島県 出水市"
+  },
+  "3964352": {
+    "en": "Kagoshima Prefecture Tarumizu",
+    "ja": "鹿児島県 垂水市"
+  },
+  "3966184": {
+    "en": "Kagoshima Prefecture Setouchi",
+    "ja": "鹿児島県 瀬戸内町"
+  },
+  "3967414": {
+    "en": "Kagoshima Prefecture Nishinoomote",
+    "ja": "鹿児島県 西之表市"
+  },
+  "3969264": {
+    "en": "Kagoshima Prefecture Soo",
+    "ja": "鹿児島県 曽於市"
+  },
+  "3969336": {
+    "en": "Kagoshima Prefecture Osaki",
+    "ja": "鹿児島県 大崎町"
+  },
+  "3969459": {
+    "en": "Kagoshima Prefecture Yamato",
+    "ja": "鹿児島県 大和村"
+  },
+  "3969541": {
+    "en": "Kagoshima Prefecture China",
+    "ja": "鹿児島県 知名町"
+  },
+  "3970256": {
+    "en": "Kagoshima Prefecture Nakatane",
+    "ja": "鹿児島県 中種子町"
+  },
+  "3975516": {
+    "en": "Kagoshima Prefecture Nagashima",
+    "ja": "鹿児島県 長島町"
+  },
+  "3977033": {
+    "en": "Kagoshima Prefecture Amagi",
+    "ja": "鹿児島県 天城町"
+  },
+  "3977074": {
+    "en": "Kagoshima Prefecture Higashikushira",
+    "ja": "鹿児島県 東串良町"
+  },
+  "3977099": {
+    "en": "Kagoshima Prefecture Tokunoshima",
+    "ja": "鹿児島県 徳之島町"
+  },
+  "3977969": {
+    "en": "Kagoshima Prefecture Minamisatsuma",
+    "ja": "鹿児島県 南さつま市"
+  },
+  "3978062": {
+    "en": "Kagoshima Prefecture Minamikyushu",
+    "ja": "鹿児島県 南九州市"
+  },
+  "3978089": {
+    "en": "Kagoshima Prefecture Minamitane",
+    "ja": "鹿児島県 南種子町"
+  },
+  "3978134": {
+    "en": "Kagoshima Prefecture Minamiosumi",
+    "ja": "鹿児島県 南大隅町"
+  },
+  "3978145": {
+    "en": "Kagoshima Prefecture Hioki",
+    "ja": "鹿児島県 日置市"
+  },
+  "3978207": {
+    "en": "Kagoshima Prefecture Makurazaki",
+    "ja": "鹿児島県 枕崎市"
+  },
+  "3978596": {
+    "en": "Kagoshima Prefecture Kirishima",
+    "ja": "鹿児島県 霧島市"
+  },
+  "3980108": {
+    "en": "Kagoshima Prefecture Yusui",
+    "ja": "鹿児島県 湧水町"
+  },
+  "3980610": {
+    "en": "Kagoshima Prefecture Yoron",
+    "ja": "鹿児島県 与論町"
+  },
+  "3981492": {
+    "en": "Kagoshima Prefecture Tatsugo",
+    "ja": "鹿児島県 龍郷町"
+  },
+  "3982792": {
+    "en": "Kagoshima Prefecture Wadomari",
+    "ja": "鹿児島県 和泊町"
+  },
+  "3982884": {
+    "en": "Kagoshima Prefecture Isen",
+    "ja": "鹿児島県 伊仙町"
+  },
+  "3983011": {
+    "en": "Kagoshima Prefecture Amami",
+    "ja": "鹿児島県 奄美市"
+  },
+  "3983026": {
+    "en": "Kagoshima Prefecture Uken",
+    "ja": "鹿児島県 宇検村"
+  },
+  "3983032": {
+    "en": "Kagoshima Prefecture Kikai",
+    "ja": "鹿児島県 喜界町"
+  },
+  "3989605": {
+    "en": "Miyazaki Prefecture Ebino",
+    "ja": "宮崎県 えびの市"
+  },
+  "3989607": {
+    "en": "Miyazaki Prefecture Aya",
+    "ja": "宮崎県 綾町"
+  },
+  "3989923": {
+    "en": "Miyazaki Prefecture Nobeoka",
+    "ja": "宮崎県 延岡市"
+  },
+  "3989984": {
+    "en": "Miyazaki Prefecture Miyazaki",
+    "ja": "宮崎県 宮崎市"
+  },
+  "3990180": {
+    "en": "Miyazaki Prefecture Kushima",
+    "ja": "宮崎県 串間市"
+  },
+  "3990209": {
+    "en": "Miyazaki Prefecture Gokase",
+    "ja": "宮崎県 五ヶ瀬町"
+  },
+  "3990228": {
+    "en": "Miyazaki Prefecture Takaharu",
+    "ja": "宮崎県 高原町"
+  },
+  "3990262": {
+    "en": "Miyazaki Prefecture Takachiho",
+    "ja": "宮崎県 高千穂町"
+  },
+  "3990293": {
+    "en": "Miyazaki Prefecture Takanabe",
+    "ja": "宮崎県 高鍋町"
+  },
+  "3990299": {
+    "en": "Miyazaki Prefecture Kunitomi",
+    "ja": "宮崎県 国富町"
+  },
+  "3990307": {
+    "en": "Miyazaki Prefecture Mimata",
+    "ja": "宮崎県 三股町"
+  },
+  "3990332": {
+    "en": "Miyazaki Prefecture Morotsuka",
+    "ja": "宮崎県 諸塚村"
+  },
+  "3990410": {
+    "en": "Miyazaki Prefecture Kobayashi",
+    "ja": "宮崎県 小林市"
+  },
+  "3991087": {
+    "en": "Miyazaki Prefecture Shintomi",
+    "ja": "宮崎県 新富町"
+  },
+  "3991105": {
+    "en": "Miyazaki Prefecture Saito",
+    "ja": "宮崎県 西都市"
+  },
+  "3991109": {
+    "en": "Miyazaki Prefecture Nishi Mera",
+    "ja": "宮崎県 西米良村"
+  },
+  "3991121": {
+    "en": "Miyazaki Prefecture Kawaminami",
+    "ja": "宮崎県 川南町"
+  },
+  "3992198": {
+    "en": "Miyazaki Prefecture Shiiba",
+    "ja": "宮崎県 椎葉村"
+  },
+  "3992201": {
+    "en": "Miyazaki Prefecture Miyakonojo",
+    "ja": "宮崎県 都城市"
+  },
+  "3992203": {
+    "en": "Miyazaki Prefecture Tsuno",
+    "ja": "宮崎県 都農町"
+  },
+  "3992242": {
+    "en": "Miyazaki Prefecture Hyuga",
+    "ja": "宮崎県 日向市"
+  },
+  "3992247": {
+    "en": "Miyazaki Prefecture Nichinan",
+    "ja": "宮崎県 日南市"
+  },
+  "3992249": {
+    "en": "Miyazaki Prefecture Hinokage",
+    "ja": "宮崎県 日之影町"
+  },
+  "3992255": {
+    "en": "Miyazaki Prefecture Misato",
+    "ja": "宮崎県 美郷町"
+  },
+  "3992258": {
+    "en": "Miyazaki Prefecture Kijo",
+    "ja": "宮崎県 木城町"
+  },
+  "3992264": {
+    "en": "Miyazaki Prefecture Kadogawa",
+    "ja": "宮崎県 門川町"
+  },
+  "3992902": {
+    "en": "Kumamoto Prefecture Asagiri",
+    "ja": "熊本県 あさぎり町"
+  },
+  "3992907": {
+    "en": "Kumamoto Prefecture Aso",
+    "ja": "熊本県 阿蘇市"
+  },
+  "3992911": {
+    "en": "Kumamoto Prefecture Ashikita",
+    "ja": "熊本県 芦北町"
+  },
+  "3992915": {
+    "en": "Kumamoto Prefecture Uki",
+    "ja": "熊本県 宇城市"
+  },
+  "3992919": {
+    "en": "Kumamoto Prefecture Uto",
+    "ja": "熊本県 宇土市"
+  },
+  "3992924": {
+    "en": "Kumamoto Prefecture Mashiki",
+    "ja": "熊本県 益城町"
+  },
+  "3992927": {
+    "en": "Kumamoto Prefecture Kashima",
+    "ja": "熊本県 嘉島町"
+  },
+  "3992935": {
+    "en": "Kumamoto Prefecture Kikuchi",
+    "ja": "熊本県 菊池市"
+  },
+  "3992949": {
+    "en": "Kumamoto Prefecture Kikuyou",
+    "ja": "熊本県 菊陽町"
+  },
+  "3992959": {
+    "en": "Kumamoto Prefecture Kuma",
+    "ja": "熊本県 球磨村"
+  },
+  "3992962": {
+    "en": "Kumamoto Prefecture Gyokuto",
+    "ja": "熊本県 玉東町"
+  },
+  "3992975": {
+    "en": "Kumamoto Prefecture Tamana",
+    "ja": "熊本県 玉名市"
+  },
+  "3994311": {
+    "en": "Kumamoto Prefecture Nishiki",
+    "ja": "熊本県 錦町"
+  },
+  "3994334": {
+    "en": "Kumamoto Prefecture Itsuki",
+    "ja": "熊本県 五木村"
+  },
+  "3994388": {
+    "en": "Kumamoto Prefecture Mifune",
+    "ja": "熊本県 御船町"
+  },
+  "3994390": {
+    "en": "Kumamoto Prefecture Kosa",
+    "ja": "熊本県 甲佐町"
+  },
+  "3994393": {
+    "en": "Kumamoto Prefecture Arao",
+    "ja": "熊本県 荒尾市"
+  },
+  "3994401": {
+    "en": "Kumamoto Prefecture Takamori",
+    "ja": "熊本県 高森町"
+  },
+  "3994410": {
+    "en": "Kumamoto Prefecture Koushi",
+    "ja": "熊本県 合志市"
+  },
+  "3994413": {
+    "en": "Kumamoto Prefecture Yamae",
+    "ja": "熊本県 山江村"
+  },
+  "3994438": {
+    "en": "Kumamoto Prefecture Yamaga",
+    "ja": "熊本県 山鹿市"
+  },
+  "3994448": {
+    "en": "Kumamoto Prefecture Yamato",
+    "ja": "熊本県 山都町"
+  },
+  "3994458": {
+    "en": "Kumamoto Prefecture Ubuyama",
+    "ja": "熊本県 産山村"
+  },
+  "3994460": {
+    "en": "Kumamoto Prefecture Oguni",
+    "ja": "熊本県 小国町"
+  },
+  "3995493": {
+    "en": "Kumamoto Prefecture Kamiamakusa",
+    "ja": "熊本県 上天草市"
+  },
+  "3995516": {
+    "en": "Kumamoto Prefecture Hitoyoshi",
+    "ja": "熊本県 人吉市"
+  },
+  "3995523": {
+    "en": "Kumamoto Prefecture Mizukami",
+    "ja": "熊本県 水上村"
+  },
+  "3995580": {
+    "en": "Kumamoto Prefecture Minamata",
+    "ja": "熊本県 水俣市"
+  },
+  "3995588": {
+    "en": "Kumamoto Prefecture Nishihara",
+    "ja": "熊本県 西原村"
+  },
+  "3995595": {
+    "en": "Kumamoto Prefecture Sagara",
+    "ja": "熊本県 相良村"
+  },
+  "3995645": {
+    "en": "Kumamoto Prefecture Taragi",
+    "ja": "熊本県 多良木町"
+  },
+  "3995705": {
+    "en": "Kumamoto Prefecture Ozu",
+    "ja": "熊本県 大津町"
+  },
+  "3995752": {
+    "en": "Kumamoto Prefecture Nagasu",
+    "ja": "熊本県 長洲町"
+  },
+  "3996631": {
+    "en": "Kumamoto Prefecture Tsunagi",
+    "ja": "熊本県 津奈木町"
+  },
+  "3998266": {
+    "en": "Kumamoto Prefecture Amakusa",
+    "ja": "熊本県 天草市"
+  },
+  "3998531": {
+    "en": "Kumamoto Prefecture Yunomae",
+    "ja": "熊本県 湯前町"
+  },
+  "4000281": {
+    "en": "Kumamoto Prefecture Minamiaso",
+    "ja": "熊本県 南阿蘇村"
+  },
+  "4000282": {
+    "en": "Kumamoto Prefecture Nankan",
+    "ja": "熊本県 南関町"
+  },
+  "4000309": {
+    "en": "Kumamoto Prefecture Minamioguni",
+    "ja": "熊本県 南小国町"
+  },
+  "4000380": {
+    "en": "Kumamoto Prefecture Yatsushiro",
+    "ja": "熊本県 八代市"
+  },
+  "4000403": {
+    "en": "Kumamoto Prefecture Misato",
+    "ja": "熊本県 美里町"
+  },
+  "4000408": {
+    "en": "Kumamoto Prefecture Hikawa",
+    "ja": "熊本県 氷川町"
+  },
+  "4000441": {
+    "en": "Kumamoto Prefecture Reihoku",
+    "ja": "熊本県 苓北町"
+  },
+  "4000452": {
+    "en": "Kumamoto Prefecture Nagomi",
+    "ja": "熊本県 和水町"
+  },
+  "4000503": {
+    "en": "Kumamoto Prefecture Kumamoto",
+    "ja": "熊本県 熊本市"
+  },
+  "4004810": {
+    "en": "Oita Prefecture Usa",
+    "ja": "大分県 宇佐市"
+  },
+  "4004829": {
+    "en": "Oita Prefecture Usuki",
+    "ja": "大分県 臼杵市"
+  },
+  "4004834": {
+    "en": "Oita Prefecture Kitsuki",
+    "ja": "大分県 杵築市"
+  },
+  "4004835": {
+    "en": "Oita Prefecture Kokonoe",
+    "ja": "大分県 九重町"
+  },
+  "4004836": {
+    "en": "Oita Prefecture Kusu",
+    "ja": "大分県 玖珠町"
+  },
+  "4004838": {
+    "en": "Oita Prefecture Kunisaki",
+    "ja": "大分県 国東市"
+  },
+  "4004860": {
+    "en": "Oita Prefecture Saiki",
+    "ja": "大分県 佐伯市"
+  },
+  "4004862": {
+    "en": "Oita Prefecture Oita",
+    "ja": "大分県 大分市"
+  },
+  "4004864": {
+    "en": "Oita Prefecture Taketa",
+    "ja": "大分県 竹田市"
+  },
+  "4004866": {
+    "en": "Oita Prefecture Nakatsu",
+    "ja": "大分県 中津市"
+  },
+  "4004870": {
+    "en": "Oita Prefecture Tsukumi",
+    "ja": "大分県 津久見市"
+  },
+  "4004871": {
+    "en": "Oita Prefecture Hiji",
+    "ja": "大分県 日出町"
+  },
+  "4004875": {
+    "en": "Oita Prefecture Hita",
+    "ja": "大分県 日田市"
+  },
+  "4004876": {
+    "en": "Oita Prefecture Himeshima",
+    "ja": "大分県 姫島村"
+  },
+  "4004877": {
+    "en": "Oita Prefecture Beppu",
+    "ja": "大分県 別府市"
+  },
+  "4004880": {
+    "en": "Oita Prefecture Bungo-Takada",
+    "ja": "大分県 豊後高田市"
+  },
+  "4004884": {
+    "en": "Oita Prefecture Bungo-Ono",
+    "ja": "大分県 豊後大野市"
+  },
+  "4004885": {
+    "en": "Oita Prefecture Yufu",
+    "ja": "大分県 由布市"
+  },
+  "4008294": {
+    "en": "Fukuoka Prefecture Ukiha",
+    "ja": "福岡県 うきは市"
+  },
+  "4008295": {
+    "en": "Fukuoka Prefecture Shime",
+    "ja": "福岡県 志免町"
+  },
+  "4008296": {
+    "en": "Fukuoka Prefecture Miyako",
+    "ja": "福岡県 みやこ町"
+  },
+  "4008298": {
+    "en": "Fukuoka Prefecture Miyama",
+    "ja": "福岡県 みやま市"
+  },
+  "4008299": {
+    "en": "Fukuoka Prefecture Ashiya",
+    "ja": "福岡県 芦屋町"
+  },
+  "4008301": {
+    "en": "Fukuoka Prefecture Kurate",
+    "ja": "福岡県 鞍手町"
+  },
+  "4008302": {
+    "en": "Fukuoka Prefecture Umi",
+    "ja": "福岡県 宇美町"
+  },
+  "4008303": {
+    "en": "Fukuoka Prefecture Onga",
+    "ja": "福岡県 遠賀町"
+  },
+  "4008304": {
+    "en": "Fukuoka Prefecture Okagaki",
+    "ja": "福岡県 岡垣町"
+  },
+  "4008305": {
+    "en": "Fukuoka Prefecture Kama",
+    "ja": "福岡県 嘉麻市"
+  },
+  "4008308": {
+    "en": "Fukuoka Prefecture Kanda",
+    "ja": "福岡県 苅田町"
+  },
+  "4008309": {
+    "en": "Fukuoka Prefecture Yoshitomi",
+    "ja": "福岡県 吉富町"
+  },
+  "4008313": {
+    "en": "Fukuoka Prefecture Hisayama",
+    "ja": "福岡県 久山町"
+  },
+  "4008314": {
+    "en": "Fukuoka Prefecture Kurume",
+    "ja": "福岡県 久留米市"
+  },
+  "4008317": {
+    "en": "Fukuoka Prefecture Miyawaka",
+    "ja": "福岡県 宮若市"
+  },
+  "4008318": {
+    "en": "Fukuoka Prefecture Keisen",
+    "ja": "福岡県 桂川町"
+  },
+  "4008323": {
+    "en": "Fukuoka Prefecture Hirokawa",
+    "ja": "福岡県 広川町"
+  },
+  "4008324": {
+    "en": "Fukuoka Prefecture Yukuhashi",
+    "ja": "福岡県 行橋市"
+  },
+  "4008325": {
+    "en": "Fukuoka Prefecture Kawara",
+    "ja": "福岡県 香春町"
+  },
+  "4008327": {
+    "en": "Fukuoka Prefecture Itoda",
+    "ja": "福岡県 糸田町"
+  },
+  "4008328": {
+    "en": "Fukuoka Prefecture Itoshima",
+    "ja": "福岡県 糸島市"
+  },
+  "4008331": {
+    "en": "Fukuoka Prefecture Sasaguri",
+    "ja": "福岡県 篠栗町"
+  },
+  "4008346": {
+    "en": "Fukuoka Prefecture Kasuga",
+    "ja": "福岡県 春日市"
+  },
+  "4008351": {
+    "en": "Fukuoka Prefecture Ogori",
+    "ja": "福岡県 小郡市"
+  },
+  "4008356": {
+    "en": "Fukuoka Prefecture Kotake",
+    "ja": "福岡県 小竹町"
+  },
+  "4008359": {
+    "en": "Fukuoka Prefecture Kouge",
+    "ja": "福岡県 上毛町"
+  },
+  "4008362": {
+    "en": "Fukuoka Prefecture Shingu",
+    "ja": "福岡県 新宮町"
+  },
+  "4008371": {
+    "en": "Fukuoka Prefecture Sue",
+    "ja": "福岡県 須恵町"
+  },
+  "4008372": {
+    "en": "Fukuoka Prefecture Mizumaki",
+    "ja": "福岡県 水巻町"
+  },
+  "4008373": {
+    "en": "Fukuoka Prefecture Akamura",
+    "ja": "福岡県 赤村"
+  },
+  "4008375": {
+    "en": "Fukuoka Prefecture Kawasaki",
+    "ja": "福岡県 川崎町"
+  },
+  "4008376": {
+    "en": "Fukuoka Prefecture Dazaifu",
+    "ja": "福岡県 太宰府市"
+  },
+  "4008380": {
+    "en": "Fukuoka Prefecture Okawa",
+    "ja": "福岡県 大川市"
+  },
+  "4008381": {
+    "en": "Fukuoka Prefecture Tachiarai",
+    "ja": "福岡県 大刀洗町"
+  },
+  "4008382": {
+    "en": "Fukuoka Prefecture Oto",
+    "ja": "福岡県 大任町"
+  },
+  "4008384": {
+    "en": "Fukuoka Prefecture Omuta",
+    "ja": "福岡県 大牟田市"
+  },
+  "4008385": {
+    "en": "Fukuoka Prefecture Oki",
+    "ja": "福岡県 大木町"
+  },
+  "4008386": {
+    "en": "Fukuoka Prefecture Onojo",
+    "ja": "福岡県 大野城市"
+  },
+  "4008388": {
+    "en": "Fukuoka Prefecture Chikujo",
+    "ja": "福岡県 築上町"
+  },
+  "4008389": {
+    "en": "Fukuoka Prefecture Chikugo",
+    "ja": "福岡県 筑後市"
+  },
+  "4008390": {
+    "en": "Fukuoka Prefecture Chikushino",
+    "ja": "福岡県 筑紫野市"
+  },
+  "4008405": {
+    "en": "Fukuoka Prefecture Chikuzen",
+    "ja": "福岡県 筑前町"
+  },
+  "4008406": {
+    "en": "Fukuoka Prefecture Nakama",
+    "ja": "福岡県 中間市"
+  },
+  "4008412": {
+    "en": "Fukuoka Prefecture Asakura",
+    "ja": "福岡県 朝倉市"
+  },
+  "4008417": {
+    "en": "Fukuoka Prefecture Nogata",
+    "ja": "福岡県 直方市"
+  },
+  "4008419": {
+    "en": "Fukuoka Prefecture Soeda",
+    "ja": "福岡県 添田町"
+  },
+  "4008420": {
+    "en": "Fukuoka Prefecture Tagawa",
+    "ja": "福岡県 田川市"
+  },
+  "4008425": {
+    "en": "Fukuoka Prefecture Toho",
+    "ja": "福岡県 東峰村"
+  },
+  "4008427": {
+    "en": "Fukuoka Prefecture Nakagawa",
+    "ja": "福岡県 那珂川市"
+  },
+  "4008428": {
+    "en": "Fukuoka Prefecture Kasuya",
+    "ja": "福岡県 粕屋町"
+  },
+  "4008438": {
+    "en": "Fukuoka Prefecture Yame",
+    "ja": "福岡県 八女市"
+  },
+  "4008439": {
+    "en": "Fukuoka Prefecture Iizuka",
+    "ja": "福岡県 飯塚市"
+  },
+  "4008441": {
+    "en": "Fukuoka Prefecture Fukuchi",
+    "ja": "福岡県 福智町"
+  },
+  "4008534": {
+    "en": "Fukuoka Prefecture Buzen",
+    "ja": "福岡県 豊前市"
+  },
+  "4008535": {
+    "en": "Fukuoka Prefecture Yanagawa",
+    "ja": "福岡県 柳川市"
+  },
+  "4008600": {
+    "en": "Fukuoka Prefecture Kitakyushu",
+    "ja": "福岡県 北九州市"
+  },
+  "4008611": {
+    "en": "Fukuoka Prefecture Fukuoka",
+    "ja": "福岡県 福岡市"
+  },
+  "4010085": {
+    "en": "Nagasaki Prefecture Iki",
+    "ja": "長崎県 壱岐市"
+  },
+  "4010087": {
+    "en": "Nagasaki Prefecture Unzen",
+    "ja": "長崎県 雲仙市"
+  },
+  "4010156": {
+    "en": "Nagasaki Prefecture Goto",
+    "ja": "長崎県 五島市"
+  },
+  "4010157": {
+    "en": "Nagasaki Prefecture Saza",
+    "ja": "長崎県 佐々町"
+  },
+  "4010194": {
+    "en": "Nagasaki Prefecture Sasebo",
+    "ja": "長崎県 佐世保市"
+  },
+  "4010196": {
+    "en": "Nagasaki Prefecture Togitsu",
+    "ja": "長崎県 時津町"
+  },
+  "4010202": {
+    "en": "Nagasaki Prefecture Odika",
+    "ja": "長崎県 小値賀町"
+  },
+  "4010255": {
+    "en": "Nagasaki Prefecture Matsuura",
+    "ja": "長崎県 松浦市"
+  },
+  "4010577": {
+    "en": "Nagasaki Prefecture Shinkami Gotou",
+    "ja": "長崎県 新上五島町"
+  },
+  "4010755": {
+    "en": "Nagasaki Prefecture Saikai",
+    "ja": "長崎県 西海市"
+  },
+  "4010765": {
+    "en": "Nagasaki Prefecture Kawatana",
+    "ja": "長崎県 川棚町"
+  },
+  "4011299": {
+    "en": "Nagasaki Prefecture Tsushima",
+    "ja": "長崎県 対馬市"
+  },
+  "4011808": {
+    "en": "Nagasaki Prefecture Omura",
+    "ja": "長崎県 大村市"
+  },
+  "4011885": {
+    "en": "Nagasaki Prefecture Nagasaki",
+    "ja": "長崎県 長崎市"
+  },
+  "4011890": {
+    "en": "Nagasaki Prefecture Nagayo",
+    "ja": "長崎県 長与町"
+  },
+  "4011896": {
+    "en": "Nagasaki Prefecture Shimabara",
+    "ja": "長崎県 島原市"
+  },
+  "4011902": {
+    "en": "Nagasaki Prefecture Higashi-Sonogi",
+    "ja": "長崎県 東彼杵町"
+  },
+  "4011969": {
+    "en": "Nagasaki Prefecture Minami-Shimabara",
+    "ja": "長崎県 南島原市"
+  },
+  "4011973": {
+    "en": "Nagasaki Prefecture Hasami",
+    "ja": "長崎県 波佐見町"
+  },
+  "4012054": {
+    "en": "Nagasaki Prefecture Hirado",
+    "ja": "長崎県 平戸市"
+  },
+  "4012066": {
+    "en": "Nagasaki Prefecture Isahaya",
+    "ja": "長崎県 諫早市"
+  },
+  "4013083": {
+    "en": "Saga Prefecture Miyaki",
+    "ja": "佐賀県 みやき町"
+  },
+  "4013086": {
+    "en": "Saga Prefecture Imari",
+    "ja": "佐賀県 伊万里市"
+  },
+  "4013094": {
+    "en": "Saga Prefecture Kiyama",
+    "ja": "佐賀県 基山町"
+  },
+  "4013105": {
+    "en": "Saga Prefecture Ureshino",
+    "ja": "佐賀県 嬉野市"
+  },
+  "4013110": {
+    "en": "Saga Prefecture Yoshinogari",
+    "ja": "佐賀県 吉野ヶ里町"
+  },
+  "4013112": {
+    "en": "Saga Prefecture Genkai",
+    "ja": "佐賀県 玄海町"
+  },
+  "4013117": {
+    "en": "Saga Prefecture Kouhoku",
+    "ja": "佐賀県 江北町"
+  },
+  "4013125": {
+    "en": "Saga Prefecture Saga",
+    "ja": "佐賀県 佐賀市"
+  },
+  "4013129": {
+    "en": "Saga Prefecture Kashima",
+    "ja": "佐賀県 鹿島市"
+  },
+  "4013131": {
+    "en": "Saga Prefecture Ogi",
+    "ja": "佐賀県 小城市"
+  },
+  "4013134": {
+    "en": "Saga Prefecture Kamimine",
+    "ja": "佐賀県 上峰町"
+  },
+  "4013149": {
+    "en": "Saga Prefecture Kanzaki",
+    "ja": "佐賀県 神埼市"
+  },
+  "4013249": {
+    "en": "Saga Prefecture Taku",
+    "ja": "佐賀県 多久市"
+  },
+  "4013255": {
+    "en": "Saga Prefecture Tara",
+    "ja": "佐賀県 太良町"
+  },
+  "4013257": {
+    "en": "Saga Prefecture Omachi",
+    "ja": "佐賀県 大町町"
+  },
+  "4013258": {
+    "en": "Saga Prefecture Tosu",
+    "ja": "佐賀県 鳥栖市"
+  },
+  "4013272": {
+    "en": "Saga Prefecture Karatsu",
+    "ja": "佐賀県 唐津市"
+  },
+  "4013291": {
+    "en": "Saga Prefecture Shiroishi",
+    "ja": "佐賀県 白石町"
+  },
+  "4013300": {
+    "en": "Saga Prefecture Takeo",
+    "ja": "佐賀県 武雄市"
+  },
+  "4013316": {
+    "en": "Saga Prefecture Arita",
+    "ja": "佐賀県 有田町"
+  },
+  "4016541": {
+    "en": "Yamaguchi Prefecture Shimonoseki",
+    "ja": "山口県 下関市"
+  },
+  "4016542": {
+    "en": "Yamaguchi Prefecture Nagato",
+    "ja": "山口県 長門市"
+  },
+  "4018266": {
+    "en": "Yamaguchi Prefecture Mine",
+    "ja": "山口県 美祢市"
+  },
+  "4018267": {
+    "en": "Yamaguchi Prefecture Sanyo-Onoda",
+    "ja": "山口県 山陽小野田市"
+  },
+  "4018369": {
+    "en": "Yamaguchi Prefecture Hagi",
+    "ja": "山口県 萩市"
+  },
+  "4018443": {
+    "en": "Yamaguchi Prefecture Yamaguchi",
+    "ja": "山口県 山口市"
+  },
+  "4018444": {
+    "en": "Yamaguchi Prefecture Ube",
+    "ja": "山口県 宇部市"
+  },
+  "4028444": {
+    "en": "Kochi Prefecture Ino",
+    "ja": "高知県 いの町"
+  },
+  "4028447": {
+    "en": "Kochi Prefecture Aki",
+    "ja": "高知県 安芸市"
+  },
+  "4028450": {
+    "en": "Kochi Prefecture Yasuda",
+    "ja": "高知県 安田町"
+  },
+  "4028464": {
+    "en": "Kochi Prefecture Ochi",
+    "ja": "高知県 越知町"
+  },
+  "4028465": {
+    "en": "Kochi Prefecture Geisei",
+    "ja": "高知県 芸西村"
+  },
+  "4028468": {
+    "en": "Kochi Prefecture Konan",
+    "ja": "高知県 香南市"
+  },
+  "4028507": {
+    "en": "Kochi Prefecture Kami",
+    "ja": "高知県 香美市"
+  },
+  "4028510": {
+    "en": "Kochi Prefecture Kochi",
+    "ja": "高知県 高知市"
+  },
+  "4033022": {
+    "en": "Kochi Prefecture Kuroshio",
+    "ja": "高知県 黒潮町"
+  },
+  "4033423": {
+    "en": "Kochi Prefecture Sakawa",
+    "ja": "高知県 佐川町"
+  },
+  "4033428": {
+    "en": "Kochi Prefecture Mihara",
+    "ja": "高知県 三原村"
+  },
+  "4033444": {
+    "en": "Kochi Prefecture Shimanto",
+    "ja": "高知県 四万十市"
+  },
+  "4034459": {
+    "en": "Kochi Prefecture Shimanto",
+    "ja": "高知県 四万十町"
+  },
+  "4034495": {
+    "en": "Kochi Prefecture Muroto",
+    "ja": "高知県 室戸市"
+  },
+  "4034544": {
+    "en": "Kochi Prefecture Sukumo",
+    "ja": "高知県 宿毛市"
+  },
+  "4034545": {
+    "en": "Kochi Prefecture Niyodogawa",
+    "ja": "高知県 仁淀川町"
+  },
+  "4034554": {
+    "en": "Kochi Prefecture Susaki",
+    "ja": "高知県 須崎市"
+  },
+  "4034574": {
+    "en": "Kochi Prefecture Otsuki",
+    "ja": "高知県 大月町"
+  },
+  "4034638": {
+    "en": "Kochi Prefecture Okawa",
+    "ja": "高知県 大川村"
+  },
+  "4034644": {
+    "en": "Kochi Prefecture Otoyo",
+    "ja": "高知県 大豊町"
+  },
+  "4034669": {
+    "en": "Kochi Prefecture Nakatosa",
+    "ja": "高知県 中土佐町"
+  },
+  "4036301": {
+    "en": "Kochi Prefecture Tsuno",
+    "ja": "高知県 津野町"
+  },
+  "4036304": {
+    "en": "Kochi Prefecture Tano",
+    "ja": "高知県 田野町"
+  },
+  "4036308": {
+    "en": "Kochi Prefecture Tosa",
+    "ja": "高知県 土佐市"
+  },
+  "4036365": {
+    "en": "Kochi Prefecture Tosashimizu",
+    "ja": "高知県 土佐清水市"
+  },
+  "4036424": {
+    "en": "Kochi Prefecture Tosa",
+    "ja": "高知県 土佐町"
+  },
+  "4036497": {
+    "en": "Kochi Prefecture Toyo",
+    "ja": "高知県 東洋町"
+  },
+  "4036505": {
+    "en": "Kochi Prefecture Nahari",
+    "ja": "高知県 奈半利町"
+  },
+  "4036525": {
+    "en": "Kochi Prefecture Nankoku",
+    "ja": "高知県 南国市"
+  },
+  "4036533": {
+    "en": "Kochi Prefecture Hidaka",
+    "ja": "高知県 日高村"
+  },
+  "4036544": {
+    "en": "Kochi Prefecture Umaji",
+    "ja": "高知県 馬路村"
+  },
+  "4036558": {
+    "en": "Kochi Prefecture Kitagawa",
+    "ja": "高知県 北川村"
+  },
+  "4036618": {
+    "en": "Kochi Prefecture Motoyama",
+    "ja": "高知県 本山町"
+  },
+  "4036627": {
+    "en": "Kochi Prefecture Yusuhara",
+    "ja": "高知県 檮原町"
+  },
+  "4047596": {
+    "en": "Ehime Prefecture Ainan",
+    "ja": "愛媛県 愛南町"
+  },
+  "4047630": {
+    "en": "Ehime Prefecture Ikata",
+    "ja": "愛媛県 伊方町"
+  },
+  "4047637": {
+    "en": "Ehime Prefecture Iyo",
+    "ja": "愛媛県 伊予市"
+  },
+  "4047858": {
+    "en": "Ehime Prefecture Uwajima",
+    "ja": "愛媛県 宇和島市"
+  },
+  "4048167": {
+    "en": "Ehime Prefecture Kihoku",
+    "ja": "愛媛県 鬼北町"
+  },
+  "4048226": {
+    "en": "Ehime Prefecture Kumakogen",
+    "ja": "愛媛県 久万高原町"
+  },
+  "4048246": {
+    "en": "Ehime Prefecture Imabari",
+    "ja": "愛媛県 今治市"
+  },
+  "4050172": {
+    "en": "Ehime Prefecture Shikokuchuo",
+    "ja": "愛媛県 四国中央市"
+  },
+  "4050217": {
+    "en": "Ehime Prefecture Matsuyama",
+    "ja": "愛媛県 松山市"
+  },
+  "4050234": {
+    "en": "Ehime Prefecture Masaki",
+    "ja": "愛媛県 松前町"
+  },
+  "4050238": {
+    "en": "Ehime Prefecture Matsuno",
+    "ja": "愛媛県 松野町"
+  },
+  "4050242": {
+    "en": "Ehime Prefecture Kamijima",
+    "ja": "愛媛県 上島町"
+  },
+  "4050290": {
+    "en": "Ehime Prefecture Niihama",
+    "ja": "愛媛県 新居浜市"
+  },
+  "4050306": {
+    "en": "Ehime Prefecture Saijo",
+    "ja": "愛媛県 西条市"
+  },
+  "4050398": {
+    "en": "Ehime Prefecture Seiyo",
+    "ja": "愛媛県 西予市"
+  },
+  "4051049": {
+    "en": "Ehime Prefecture Ozu",
+    "ja": "愛媛県 大洲市"
+  },
+  "4051070": {
+    "en": "Ehime Prefecture Tobe",
+    "ja": "愛媛県 砥部町"
+  },
+  "4051170": {
+    "en": "Ehime Prefecture Toon",
+    "ja": "愛媛県 東温市"
+  },
+  "4051172": {
+    "en": "Ehime Prefecture Uchiko",
+    "ja": "愛媛県 内子町"
+  },
+  "4051176": {
+    "en": "Ehime Prefecture Yawatahama",
+    "ja": "愛媛県 八幡浜市"
+  },
+  "4051238": {
+    "en": "Kagawa Prefecture Sanuki",
+    "ja": "香川県 さぬき市"
+  },
+  "4051239": {
+    "en": "Kagawa Prefecture Manno",
+    "ja": "香川県 まんのう町"
+  },
+  "4051274": {
+    "en": "Kagawa Prefecture Ayagawa",
+    "ja": "香川県 綾川町"
+  },
+  "4051276": {
+    "en": "Kagawa Prefecture Utadu",
+    "ja": "香川県 宇多津町"
+  },
+  "4051277": {
+    "en": "Kagawa Prefecture Kan-onji",
+    "ja": "香川県 観音寺市"
+  },
+  "4051279": {
+    "en": "Kagawa Prefecture Marugame",
+    "ja": "香川県 丸亀市"
+  },
+  "4051283": {
+    "en": "Kagawa Prefecture Kotohira",
+    "ja": "香川県 琴平町"
+  },
+  "4051287": {
+    "en": "Kagawa Prefecture Takamatsu",
+    "ja": "香川県 高松市"
+  },
+  "4051372": {
+    "en": "Kagawa Prefecture Mitoyo",
+    "ja": "香川県 三豊市"
+  },
+  "4051373": {
+    "en": "Kagawa Prefecture Miki",
+    "ja": "香川県 三木町"
+  },
+  "4051395": {
+    "en": "Kagawa Prefecture Shodoshima",
+    "ja": "香川県 小豆島町"
+  },
+  "4051401": {
+    "en": "Kagawa Prefecture Tadotsu",
+    "ja": "香川県 多度津町"
+  },
+  "4051409": {
+    "en": "Kagawa Prefecture Naoshima",
+    "ja": "香川県 直島町"
+  },
+  "4051411": {
+    "en": "Kagawa Prefecture Tonosho",
+    "ja": "香川県 土庄町"
+  },
+  "4051412": {
+    "en": "Kagawa Prefecture Higashi-Kagawa",
+    "ja": "香川県 東かがわ市"
+  },
+  "4053915": {
+    "en": "Hokkaido Prefecture Wakkanai",
+    "ja": "北海道 稚内市"
+  },
+  "4053917": {
+    "en": "Hokkaido Prefecture Toyotomi",
+    "ja": "北海道 豊富町"
+  },
+  "4053919": {
+    "en": "Hokkaido Prefecture Sarufutsu",
+    "ja": "北海道 猿払村"
+  },
+  "4053921": {
+    "en": "Hokkaido Prefecture Hamatonbetsu",
+    "ja": "北海道 浜頓別町"
+  },
+  "4055568": {
+    "en": "Hokkaido Prefecture Horonobe",
+    "ja": "北海道 幌延町"
+  },
+  "4055586": {
+    "en": "Hokkaido Prefecture Nakatonbetsu",
+    "ja": "北海道 中頓別町"
+  },
+  "4055603": {
+    "en": "Hokkaido Prefecture Nakagawa",
+    "ja": "北海道 中川町"
+  },
+  "4055611": {
+    "en": "Hokkaido Prefecture Teshio",
+    "ja": "北海道 天塩町"
+  },
+  "4055618": {
+    "en": "Hokkaido Prefecture Embetsu",
+    "ja": "北海道 遠別町"
+  },
+  "4055639": {
+    "en": "Hokkaido Prefecture Shosanbetsu",
+    "ja": "北海道 初山別村"
+  },
+  "4055643": {
+    "en": "Hokkaido Prefecture Horokanai",
+    "ja": "北海道 幌加内町"
+  },
+  "4055673": {
+    "en": "Hokkaido Prefecture Haboro",
+    "ja": "北海道 羽幌町"
+  },
+  "4055720": {
+    "en": "Hokkaido Prefecture Bifuka",
+    "ja": "北海道 美深町"
+  },
+  "4055731": {
+    "en": "Hokkaido Prefecture Otoineppu",
+    "ja": "北海道 音威子府村"
+  },
+  "4055769": {
+    "en": "Hokkaido Prefecture Esashi",
+    "ja": "北海道 枝幸町"
+  },
+  "4055790": {
+    "en": "Hokkaido Prefecture Oumu",
+    "ja": "北海道 雄武町"
+  },
+  "4055806": {
+    "en": "Hokkaido Prefecture Nayoro",
+    "ja": "北海道 名寄市"
+  },
+  "4055808": {
+    "en": "Hokkaido Prefecture Shibetsu",
+    "ja": "北海道 士別市"
+  },
+  "4055832": {
+    "en": "Hokkaido Prefecture Wassamu",
+    "ja": "北海道 和寒町"
+  },
+  "4055833": {
+    "en": "Hokkaido Prefecture Kembuchi",
+    "ja": "北海道 剣淵町"
+  },
+  "4055835": {
+    "en": "Hokkaido Prefecture Pippu",
+    "ja": "北海道 比布町"
+  },
+  "4055837": {
+    "en": "Hokkaido Prefecture Aibetsu",
+    "ja": "北海道 愛別町"
+  },
+  "4055838": {
+    "en": "Hokkaido Prefecture Kamikawa",
+    "ja": "北海道 上川町"
+  },
+  "4055843": {
+    "en": "Tokushima Prefecture Tsurugi",
+    "ja": "徳島県 つるぎ町"
+  },
+  "4055857": {
+    "en": "Tokushima Prefecture Anan",
+    "ja": "徳島県 阿南市"
+  },
+  "4055859": {
+    "en": "Tokushima Prefecture Awa",
+    "ja": "徳島県 阿波市"
+  },
+  "4055862": {
+    "en": "Tokushima Prefecture Kaiyo",
+    "ja": "徳島県 海陽町"
+  },
+  "4055868": {
+    "en": "Tokushima Prefecture Yoshinogawa",
+    "ja": "徳島県 吉野川市"
+  },
+  "4055871": {
+    "en": "Tokushima Prefecture Sanagochi",
+    "ja": "徳島県 佐那河内村"
+  },
+  "4055881": {
+    "en": "Tokushima Prefecture Miyoshi",
+    "ja": "徳島県 三好市"
+  },
+  "4055883": {
+    "en": "Tokushima Prefecture Katsuura",
+    "ja": "徳島県 勝浦町"
+  },
+  "4055892": {
+    "en": "Tokushima Prefecture Komatsushima",
+    "ja": "徳島県 小松島市"
+  },
+  "4055893": {
+    "en": "Tokushima Prefecture Matsushige",
+    "ja": "徳島県 松茂町"
+  },
+  "4055974": {
+    "en": "Hokkaido Prefecture Shimokawa",
+    "ja": "北海道 下川町"
+  },
+  "4055992": {
+    "en": "Hokkaido Prefecture Nishiokoppe",
+    "ja": "北海道 西興部村"
+  },
+  "4055993": {
+    "en": "Hokkaido Prefecture Okoppe",
+    "ja": "北海道 興部町"
+  },
+  "4056009": {
+    "en": "Hokkaido Prefecture Takinoue",
+    "ja": "北海道 滝上町"
+  },
+  "4056026": {
+    "en": "Hokkaido Prefecture Mombetsu",
+    "ja": "北海道 紋別市"
+  },
+  "4056121": {
+    "en": "Hokkaido Prefecture Engaru",
+    "ja": "北海道 遠軽町"
+  },
+  "4056277": {
+    "en": "Hokkaido Prefecture Yubetsu",
+    "ja": "北海道 湧別町"
+  },
+  "4056344": {
+    "en": "Hokkaido Prefecture Saroma",
+    "ja": "北海道 佐呂間町"
+  },
+  "4056345": {
+    "en": "Hokkaido Prefecture Kitami",
+    "ja": "北海道 北見市"
+  },
+  "4057999": {
+    "en": "Tokushima Prefecture Kamikatsu",
+    "ja": "徳島県 上勝町"
+  },
+  "4058001": {
+    "en": "Tokushima Prefecture Kamiita",
+    "ja": "徳島県 上板町"
+  },
+  "4058004": {
+    "en": "Tokushima Prefecture Kamiyama",
+    "ja": "徳島県 神山町"
+  },
+  "4058006": {
+    "en": "Tokushima Prefecture Ishii",
+    "ja": "徳島県 石井町"
+  },
+  "4058010": {
+    "en": "Tokushima Prefecture Higashimiyoshi",
+    "ja": "徳島県 東みよし町"
+  },
+  "4058068": {
+    "en": "Tokushima Prefecture Tokushima",
+    "ja": "徳島県 徳島市"
+  },
+  "4058070": {
+    "en": "Tokushima Prefecture Naka",
+    "ja": "徳島県 那賀町"
+  },
+  "4058078": {
+    "en": "Tokushima Prefecture Itano",
+    "ja": "徳島県 板野町"
+  },
+  "4058109": {
+    "en": "Tokushima Prefecture Minami",
+    "ja": "徳島県 美波町"
+  },
+  "4058112": {
+    "en": "Tokushima Prefecture Mima",
+    "ja": "徳島県 美馬市"
+  },
+  "4058114": {
+    "en": "Tokushima Prefecture Kitajima",
+    "ja": "徳島県 北島町"
+  },
+  "4058116": {
+    "en": "Tokushima Prefecture Mugi",
+    "ja": "徳島県 牟岐町"
+  },
+  "4058118": {
+    "en": "Tokushima Prefecture Naruto",
+    "ja": "徳島県 鳴門市"
+  },
+  "4058130": {
+    "en": "Tokushima Prefecture Aizumi",
+    "ja": "徳島県 藍住町"
+  },
+  "4060240": {
+    "en": "Hokkaido Prefecture Kamishihoro",
+    "ja": "北海道 上士幌町"
+  },
+  "4060243": {
+    "en": "Hokkaido Prefecture Tohma",
+    "ja": "北海道 当麻町"
+  },
+  "4060428": {
+    "en": "Hokkaido Prefecture Takasu",
+    "ja": "北海道 鷹栖町"
+  },
+  "4060429": {
+    "en": "Hokkaido Prefecture Asahikawa",
+    "ja": "北海道 旭川市"
+  },
+  "4061071": {
+    "en": "Hokkaido Prefecture Higashikawa",
+    "ja": "北海道 東川町"
+  },
+  "4062428": {
+    "en": "Hokkaido Prefecture Biei",
+    "ja": "北海道 美瑛町"
+  },
+  "4062430": {
+    "en": "Hokkaido Prefecture Shintoku",
+    "ja": "北海道 新得町"
+  },
+  "4062432": {
+    "en": "Hokkaido Prefecture Higashikagura",
+    "ja": "北海道 東神楽町"
+  },
+  "4064365": {
+    "en": "Hokkaido Prefecture Ashibetsu",
+    "ja": "北海道 芦別市"
+  },
+  "4064369": {
+    "en": "Hokkaido Prefecture Nakafurano",
+    "ja": "北海道 中富良野町"
+  },
+  "4064370": {
+    "en": "Hokkaido Prefecture Kamifurano",
+    "ja": "北海道 上富良野町"
+  },
+  "4064384": {
+    "en": "Hokkaido Prefecture Minamifurano",
+    "ja": "北海道 南富良野町"
+  },
+  "4064385": {
+    "en": "Hokkaido Prefecture Furano",
+    "ja": "北海道 富良野市"
+  },
+  "4066899": {
+    "en": "Hokkaido Prefecture Shimizu",
+    "ja": "北海道 清水町"
+  },
+  "4066900": {
+    "en": "Hokkaido Prefecture Shikaoi",
+    "ja": "北海道 鹿追町"
+  },
+  "4068767": {
+    "en": "Hokkaido Prefecture Hidaka",
+    "ja": "北海道 日高町"
+  },
+  "4068768": {
+    "en": "Hokkaido Prefecture Biratori",
+    "ja": "北海道 平取町"
+  },
+  "4068771": {
+    "en": "Hokkaido Prefecture Memuro",
+    "ja": "北海道 芽室町"
+  },
+  "4068799": {
+    "en": "Hokkaido Prefecture Oketo",
+    "ja": "北海道 置戸町"
+  },
+  "4069173": {
+    "en": "Hokkaido Prefecture Kunneppu",
+    "ja": "北海道 訓子府町"
+  },
+  "4069196": {
+    "en": "Hokkaido Prefecture Tsubetsu",
+    "ja": "北海道 津別町"
+  },
+  "4069197": {
+    "en": "Hokkaido Prefecture Bihoro",
+    "ja": "北海道 美幌町"
+  },
+  "4069201": {
+    "en": "Hokkaido Prefecture Ozora",
+    "ja": "北海道 大空町"
+  },
+  "4069203": {
+    "en": "Hokkaido Prefecture Abashiri",
+    "ja": "北海道 網走市"
+  },
+  "4069223": {
+    "en": "Hokkaido Prefecture Koshimizu",
+    "ja": "北海道 小清水町"
+  },
+  "4069247": {
+    "en": "Hokkaido Prefecture Rikubetsu",
+    "ja": "北海道 陸別町"
+  },
+  "4069253": {
+    "en": "Hokkaido Prefecture Ashoro",
+    "ja": "北海道 足寄町"
+  },
+  "4069256": {
+    "en": "Hokkaido Prefecture Tomamae",
+    "ja": "北海道 苫前町"
+  },
+  "4069269": {
+    "en": "Hokkaido Prefecture Obira",
+    "ja": "北海道 小平町"
+  },
+  "4069274": {
+    "en": "Hokkaido Prefecture Fukagawa",
+    "ja": "北海道 深川市"
+  },
+  "4069296": {
+    "en": "Hokkaido Prefecture Numata",
+    "ja": "北海道 沼田町"
+  },
+  "4069307": {
+    "en": "Hokkaido Prefecture Rumoi",
+    "ja": "北海道 留萌市"
+  },
+  "4069471": {
+    "en": "Hokkaido Prefecture Teshikaga",
+    "ja": "北海道 弟子屈町"
+  },
+  "4069477": {
+    "en": "Hokkaido Prefecture Kushiro",
+    "ja": "北海道 釧路市"
+  },
+  "4069563": {
+    "en": "Hokkaido Prefecture Kiyosato",
+    "ja": "北海道 清里町"
+  },
+  "4069565": {
+    "en": "Hokkaido Prefecture Shari",
+    "ja": "北海道 斜里町"
+  },
+  "4069571": {
+    "en": "Hokkaido Prefecture Nakashibetsu",
+    "ja": "北海道 中標津町"
+  },
+  "4069619": {
+    "en": "Hokkaido Prefecture Shibetsu",
+    "ja": "北海道 標津町"
+  },
+  "4069623": {
+    "en": "Hokkaido Prefecture Rausu",
+    "ja": "北海道 羅臼町"
+  },
+  "4069639": {
+    "en": "Hokkaido Prefecture Betsukai",
+    "ja": "北海道 別海町"
+  },
+  "4069643": {
+    "en": "Hokkaido Prefecture Shibecha",
+    "ja": "北海道 標茶町"
+  },
+  "4071241": {
+    "en": "Hokkaido Prefecture Akkeshi",
+    "ja": "北海道 厚岸町"
+  },
+  "4071248": {
+    "en": "Hokkaido Prefecture Hamanaka",
+    "ja": "北海道 浜中町"
+  },
+  "4071254": {
+    "en": "Hokkaido Prefecture Nemuro",
+    "ja": "北海道 根室市"
+  },
+  "4071274": {
+    "en": "Hokkaido Prefecture Kushiro",
+    "ja": "北海道 釧路町"
+  },
+  "4071277": {
+    "en": "Hokkaido Prefecture Tsurui",
+    "ja": "北海道 鶴居村"
+  },
+  "4071348": {
+    "en": "Hokkaido Prefecture Shiranuka",
+    "ja": "北海道 白糠町"
+  },
+  "4071434": {
+    "en": "Hokkaido Prefecture Honbetsu",
+    "ja": "北海道 本別町"
+  },
+  "4071438": {
+    "en": "Hokkaido Prefecture Urahoro",
+    "ja": "北海道 浦幌町"
+  },
+  "4071567": {
+    "en": "Hokkaido Prefecture Shihoro",
+    "ja": "北海道 士幌町"
+  },
+  "4073995": {
+    "en": "Hokkaido Prefecture Ikeda",
+    "ja": "北海道 池田町"
+  },
+  "4073996": {
+    "en": "Hokkaido Prefecture Toyokoro",
+    "ja": "北海道 豊頃町"
+  },
+  "4073998": {
+    "en": "Hokkaido Prefecture Otofuke",
+    "ja": "北海道 音更町"
+  },
+  "4073999": {
+    "en": "Hokkaido Prefecture Makubetsu",
+    "ja": "北海道 幕別町"
+  },
+  "4075184": {
+    "en": "Yamaguchi Prefecture Abu",
+    "ja": "山口県 阿武町"
+  },
+  "4076558": {
+    "en": "Hokkaido Prefecture Taiki",
+    "ja": "北海道 大樹町"
+  },
+  "4076567": {
+    "en": "Hokkaido Prefecture Obihiro",
+    "ja": "北海道 帯広市"
+  },
+  "4078673": {
+    "en": "Hokkaido Prefecture Shimukappu",
+    "ja": "北海道 占冠村"
+  },
+  "4079192": {
+    "en": "Hokkaido Prefecture Nakasatsunai",
+    "ja": "北海道 中札内村"
+  },
+  "4079222": {
+    "en": "Hokkaido Prefecture Niikappu",
+    "ja": "北海道 新冠町"
+  },
+  "4079231": {
+    "en": "Hokkaido Prefecture Sarabetsu",
+    "ja": "北海道 更別村"
+  },
+  "4079264": {
+    "en": "Hokkaido Prefecture Shinhidaka",
+    "ja": "北海道 新ひだか町"
+  },
+  "4079272": {
+    "en": "Hokkaido Prefecture Hiroo",
+    "ja": "北海道 広尾町"
+  },
+  "4079314": {
+    "en": "Hokkaido Prefecture Urakawa",
+    "ja": "北海道 浦河町"
+  },
+  "4079321": {
+    "en": "Hokkaido Prefecture Samani",
+    "ja": "北海道 様似町"
+  },
+  "4079481": {
+    "en": "Yamaguchi Prefecture Kudamatsu",
+    "ja": "山口県 下松市"
+  },
+  "4079508": {
+    "en": "Yamaguchi Prefecture Iwakuni",
+    "ja": "山口県 岩国市"
+  },
+  "4079525": {
+    "en": "Yamaguchi Prefecture Hikari",
+    "ja": "山口県 光市"
+  },
+  "4080625": {
+    "en": "Hokkaido Prefecture Erimo",
+    "ja": "北海道 えりも町"
+  },
+  "4081530": {
+    "en": "Yamaguchi Prefecture Shunan",
+    "ja": "山口県 周南市"
+  },
+  "4081558": {
+    "en": "Yamaguchi Prefecture Suo-Oshima",
+    "ja": "山口県 周防大島町"
+  },
+  "4082559": {
+    "en": "Yamaguchi Prefecture Kaminoseki",
+    "ja": "山口県 上関町"
+  },
+  "4082860": {
+    "en": "Yamaguchi Prefecture Tabuse",
+    "ja": "山口県 田布施町"
+  },
+  "4082945": {
+    "en": "Hokkaido Prefecture Mukawa",
+    "ja": "北海道 むかわ町"
+  },
+  "4082948": {
+    "en": "Hokkaido Prefecture Yubari",
+    "ja": "北海道 夕張市"
+  },
+  "4082950": {
+    "en": "Hokkaido Prefecture Atsuma",
+    "ja": "北海道 厚真町"
+  },
+  "4082954": {
+    "en": "Hokkaido Prefecture Yuni",
+    "ja": "北海道 由仁町"
+  },
+  "4083623": {
+    "en": "Yamaguchi Prefecture Hirao",
+    "ja": "山口県 平生町"
+  },
+  "4083682": {
+    "en": "Yamaguchi Prefecture Hofu",
+    "ja": "山口県 防府市"
+  },
+  "4084185": {
+    "en": "Yamaguchi Prefecture Yanai",
+    "ja": "山口県 柳井市"
+  },
+  "4084193": {
+    "en": "Yamaguchi Prefecture Waki",
+    "ja": "山口県 和木町"
+  },
+  "4085174": {
+    "en": "Hokkaido Prefecture Chippubetsu",
+    "ja": "北海道 秩父別町"
+  },
+  "4085178": {
+    "en": "Hokkaido Prefecture Hokuryu",
+    "ja": "北海道 北竜町"
+  },
+  "4085186": {
+    "en": "Hokkaido Prefecture Moseushi",
+    "ja": "北海道 妹背牛町"
+  },
+  "4085195": {
+    "en": "Hokkaido Prefecture Akabira",
+    "ja": "北海道 赤平市"
+  },
+  "4085203": {
+    "en": "Hokkaido Prefecture Takikawa",
+    "ja": "北海道 滝川市"
+  },
+  "4085212": {
+    "en": "Hokkaido Prefecture Utashinai",
+    "ja": "北海道 歌志内市"
+  },
+  "4085220": {
+    "en": "Hokkaido Prefecture Kamisunagawa",
+    "ja": "北海道 上砂川町"
+  },
+  "4085221": {
+    "en": "Hokkaido Prefecture Naie",
+    "ja": "北海道 奈井江町"
+  },
+  "4085224": {
+    "en": "Hokkaido Prefecture Bibai",
+    "ja": "北海道 美唄市"
+  },
+  "4085227": {
+    "en": "Hokkaido Prefecture Mikasa",
+    "ja": "北海道 三笠市"
+  },
+  "4085230": {
+    "en": "Hokkaido Prefecture Uryu",
+    "ja": "北海道 雨竜町"
+  },
+  "4085233": {
+    "en": "Hokkaido Prefecture Mashike",
+    "ja": "北海道 増毛町"
+  },
+  "4085235": {
+    "en": "Hokkaido Prefecture Shintotsukawa",
+    "ja": "北海道 新十津川町"
+  },
+  "4085256": {
+    "en": "Hokkaido Prefecture Sunagawa",
+    "ja": "北海道 砂川市"
+  },
+  "4085259": {
+    "en": "Hokkaido Prefecture Urausu",
+    "ja": "北海道 浦臼町"
+  },
+  "4085263": {
+    "en": "Hokkaido Prefecture Ishikari",
+    "ja": "北海道 石狩市"
+  },
+  "4085269": {
+    "en": "Hokkaido Prefecture Tobetsu",
+    "ja": "北海道 当別町"
+  },
+  "4085273": {
+    "en": "Hokkaido Prefecture Tsukigata",
+    "ja": "北海道 月形町"
+  },
+  "4085276": {
+    "en": "Hokkaido Prefecture Iwamizawa",
+    "ja": "北海道 岩見沢市"
+  },
+  "4085281": {
+    "en": "Hokkaido Prefecture Shinshinotsu",
+    "ja": "北海道 新篠津村"
+  },
+  "4085290": {
+    "en": "Hokkaido Prefecture Ebetsu",
+    "ja": "北海道 江別市"
+  },
+  "4085351": {
+    "en": "Hokkaido Prefecture Nanporo",
+    "ja": "北海道 南幌町"
+  },
+  "4085357": {
+    "en": "Hokkaido Prefecture Kuriyama",
+    "ja": "北海道 栗山町"
+  },
+  "4085360": {
+    "en": "Hokkaido Prefecture Naganuma",
+    "ja": "北海道 長沼町"
+  },
+  "4085696": {
+    "en": "Hokkaido Prefecture Abira",
+    "ja": "北海道 安平町"
+  },
+  "4085704": {
+    "en": "Hokkaido Prefecture Chitose",
+    "ja": "北海道 千歳市"
+  },
+  "4085725": {
+    "en": "Hokkaido Prefecture Tomakomai",
+    "ja": "北海道 苫小牧市"
+  },
+  "4085733": {
+    "en": "Hokkaido Prefecture Kitahiroshima",
+    "ja": "北海道 北広島市"
+  },
+  "4085739": {
+    "en": "Hokkaido Prefecture Eniwa",
+    "ja": "北海道 恵庭市"
+  },
+  "4085749": {
+    "en": "Hokkaido Prefecture Sapporo",
+    "ja": "北海道 札幌市"
+  },
+  "4085754": {
+    "en": "Hokkaido Prefecture Otaru",
+    "ja": "北海道 小樽市"
+  },
+  "4085799": {
+    "en": "Hokkaido Prefecture Date",
+    "ja": "北海道 伊達市"
+  },
+  "4085805": {
+    "en": "Hokkaido Prefecture Shiraoi",
+    "ja": "北海道 白老町"
+  },
+  "4085822": {
+    "en": "Hokkaido Prefecture Akaigawa",
+    "ja": "北海道 赤井川村"
+  },
+  "4085832": {
+    "en": "Hokkaido Prefecture Kyogoku",
+    "ja": "北海道 京極町"
+  },
+  "4085843": {
+    "en": "Hokkaido Prefecture Kimobetsu",
+    "ja": "北海道 喜茂別町"
+  },
+  "4085854": {
+    "en": "Hokkaido Prefecture Sobetsu",
+    "ja": "北海道 壮瞥町"
+  },
+  "4085858": {
+    "en": "Hokkaido Prefecture Noboribetsu",
+    "ja": "北海道 登別市"
+  },
+  "4085871": {
+    "en": "Hokkaido Prefecture Yoichi",
+    "ja": "北海道 余市町"
+  },
+  "4085873": {
+    "en": "Hokkaido Prefecture Niki",
+    "ja": "北海道 仁木町"
+  },
+  "4085877": {
+    "en": "Hokkaido Prefecture Furubira",
+    "ja": "北海道 古平町"
+  },
+  "4085887": {
+    "en": "Hokkaido Prefecture Kyowa",
+    "ja": "北海道 共和町"
+  },
+  "4085893": {
+    "en": "Hokkaido Prefecture Kutchan",
+    "ja": "北海道 倶知安町"
+  },
+  "4085903": {
+    "en": "Hokkaido Prefecture Makkari",
+    "ja": "北海道 真狩村"
+  },
+  "4085906": {
+    "en": "Hokkaido Prefecture Rusutsu",
+    "ja": "北海道 留寿都村"
+  },
+  "4087726": {
+    "en": "Hokkaido Prefecture Toyako",
+    "ja": "北海道 洞爺湖町"
+  },
+  "4087735": {
+    "en": "Hokkaido Prefecture Muroran",
+    "ja": "北海道 室蘭市"
+  },
+  "4087796": {
+    "en": "Hokkaido Prefecture Tomari",
+    "ja": "北海道 泊村"
+  },
+  "4087797": {
+    "en": "Hokkaido Prefecture Kamoenai",
+    "ja": "北海道 神恵内村"
+  },
+  "4087806": {
+    "en": "Hokkaido Prefecture Shakotan",
+    "ja": "北海道 積丹町"
+  },
+  "4087829": {
+    "en": "Hokkaido Prefecture Rankoshi",
+    "ja": "北海道 蘭越町"
+  },
+  "4087831": {
+    "en": "Hokkaido Prefecture Iwanai",
+    "ja": "北海道 岩内町"
+  },
+  "4087840": {
+    "en": "Hokkaido Prefecture Niseko",
+    "ja": "北海道 ニセコ町"
+  },
+  "4087848": {
+    "en": "Hokkaido Prefecture Toyoura",
+    "ja": "北海道 豊浦町"
+  },
+  "4087858": {
+    "en": "Hokkaido Prefecture Kuromatsunai",
+    "ja": "北海道 黒松内町"
+  },
+  "4087869": {
+    "en": "Hokkaido Prefecture Oshamambe",
+    "ja": "北海道 長万部町"
+  },
+  "4087874": {
+    "en": "Hokkaido Prefecture Suttu",
+    "ja": "北海道 寿都町"
+  },
+  "4087881": {
+    "en": "Shimane Prefecture Yasugi",
+    "ja": "島根県 安来市"
+  },
+  "4087883": {
+    "en": "Hokkaido Prefecture Shimamaki",
+    "ja": "北海道 島牧村"
+  },
+  "4087898": {
+    "en": "Shimane Prefecture Okinoshima",
+    "ja": "島根県 隠岐の島町"
+  },
+  "4087900": {
+    "en": "Shimane Prefecture Unnan",
+    "ja": "島根県 雲南市"
+  },
+  "4087901": {
+    "en": "Hokkaido Prefecture Imakane",
+    "ja": "北海道 今金町"
+  },
+  "4087905": {
+    "en": "Hokkaido Prefecture Yakumo",
+    "ja": "北海道 八雲町"
+  },
+  "4087906": {
+    "en": "Shimane Prefecture Masuda",
+    "ja": "島根県 益田市"
+  },
+  "4087908": {
+    "en": "Shimane Prefecture Okuizumo",
+    "ja": "島根県 奥出雲町"
+  },
+  "4087916": {
+    "en": "Shimane Prefecture Ama",
+    "ja": "島根県 海士町"
+  },
+  "4087931": {
+    "en": "Shimane Prefecture Yoshika",
+    "ja": "島根県 吉賀町"
+  },
+  "4087987": {
+    "en": "Shimane Prefecture Gotsu",
+    "ja": "島根県 江津市"
+  },
+  "4087999": {
+    "en": "Hokkaido Prefecture Setana",
+    "ja": "北海道 せたな町"
+  },
+  "4088005": {
+    "en": "Shimane Prefecture Izumo",
+    "ja": "島根県 出雲市"
+  },
+  "4088007": {
+    "en": "Hokkaido Prefecture Mori",
+    "ja": "北海道 森町"
+  },
+  "4088010": {
+    "en": "Hokkaido Prefecture Assabu",
+    "ja": "北海道 厚沢部町"
+  },
+  "4088012": {
+    "en": "Hokkaido Prefecture Otobe",
+    "ja": "北海道 乙部町"
+  },
+  "4088013": {
+    "en": "Hokkaido Prefecture Hokuto",
+    "ja": "北海道 北斗市"
+  },
+  "4088016": {
+    "en": "Hokkaido Prefecture Nanae",
+    "ja": "北海道 七飯町"
+  },
+  "4088018": {
+    "en": "Hokkaido Prefecture Shikabe",
+    "ja": "北海道 鹿部町"
+  },
+  "4088019": {
+    "en": "Hokkaido Prefecture Hakodate",
+    "ja": "北海道 函館市"
+  },
+  "4088021": {
+    "en": "Hokkaido Prefecture Kikonai",
+    "ja": "北海道 木古内町"
+  },
+  "4088022": {
+    "en": "Hokkaido Prefecture Kaminokuni",
+    "ja": "北海道 上ノ国町"
+  },
+  "4088029": {
+    "en": "Hokkaido Prefecture Esashi",
+    "ja": "北海道 江差町"
+  },
+  "4088034": {
+    "en": "Hokkaido Prefecture Shiriuchi",
+    "ja": "北海道 知内町"
+  },
+  "4088038": {
+    "en": "Hokkaido Prefecture Fukushima",
+    "ja": "北海道 福島町"
+  },
+  "4088039": {
+    "en": "Hokkaido Prefecture Matsumae",
+    "ja": "北海道 松前町"
+  },
+  "4088064": {
+    "en": "Shimane Prefecture Matsue",
+    "ja": "島根県 松江市"
+  },
+  "4088074": {
+    "en": "Hokkaido Prefecture Okushiri",
+    "ja": "北海道 奥尻町"
+  },
+  "4088077": {
+    "en": "Shimane Prefecture Nishinoshima",
+    "ja": "島根県 西ノ島町"
+  },
+  "4088079": {
+    "en": "Shimane Prefecture Kawamoto",
+    "ja": "島根県 川本町"
+  },
+  "4088082": {
+    "en": "Hokkaido Prefecture Rishiri",
+    "ja": "北海道 利尻町"
+  },
+  "4088083": {
+    "en": "Hokkaido Prefecture Rishirifuji",
+    "ja": "北海道 利尻富士町"
+  },
+  "4088092": {
+    "en": "Hokkaido Prefecture Rebun",
+    "ja": "北海道 礼文町"
+  },
+  "4088163": {
+    "en": "Shimane Prefecture Oda",
+    "ja": "島根県 大田市"
+  },
+  "4088194": {
+    "en": "Shimane Prefecture Chibu",
+    "ja": "島根県 知夫村"
+  },
+  "4088334": {
+    "en": "Shimane Prefecture Tsuwano",
+    "ja": "島根県 津和野町"
+  },
+  "4088337": {
+    "en": "Shimane Prefecture Iinan",
+    "ja": "島根県 飯南町"
+  },
+  "4088460": {
+    "en": "Shimane Prefecture Misato",
+    "ja": "島根県 美郷町"
+  },
+  "4088593": {
+    "en": "Shimane Prefecture Hamada",
+    "ja": "島根県 浜田市"
+  },
+  "4088605": {
+    "en": "Shimane Prefecture Ohnan",
+    "ja": "島根県 邑南町"
+  },
+  "4089134": {
+    "en": "Hiroshima Prefecture Akitakata",
+    "ja": "広島県 安芸高田市"
+  },
+  "4089175": {
+    "en": "Hiroshima Prefecture Akiota",
+    "ja": "広島県 安芸太田町"
+  },
+  "4089180": {
+    "en": "Hiroshima Prefecture Kaita",
+    "ja": "広島県 海田町"
+  },
+  "4089181": {
+    "en": "Hiroshima Prefecture Kumano",
+    "ja": "広島県 熊野町"
+  },
+  "4089279": {
+    "en": "Hiroshima Prefecture Kure",
+    "ja": "広島県 呉市"
+  },
+  "4089967": {
+    "en": "Hiroshima Prefecture Etajima",
+    "ja": "広島県 江田島市"
+  },
+  "4089972": {
+    "en": "Hiroshima Prefecture Saka",
+    "ja": "広島県 坂町"
+  },
+  "4090003": {
+    "en": "Hiroshima Prefecture Mihara",
+    "ja": "広島県 三原市"
+  },
+  "4090025": {
+    "en": "Hiroshima Prefecture Miyoshi",
+    "ja": "広島県 三次市"
+  },
+  "4090053": {
+    "en": "Hiroshima Prefecture Shobara",
+    "ja": "広島県 庄原市"
+  },
+  "4090054": {
+    "en": "Hiroshima Prefecture Jinsekikogen",
+    "ja": "広島県 神石高原町"
+  },
+  "4090154": {
+    "en": "Hiroshima Prefecture Sera",
+    "ja": "広島県 世羅町"
+  },
+  "4090155": {
+    "en": "Hiroshima Prefecture Osakikamijima",
+    "ja": "広島県 大崎上島町"
+  },
+  "4090156": {
+    "en": "Hiroshima Prefecture Otake",
+    "ja": "広島県 大竹市"
+  },
+  "4090163": {
+    "en": "Hiroshima Prefecture Takehara",
+    "ja": "広島県 竹原市"
+  },
+  "4090174": {
+    "en": "Hiroshima Prefecture Higashi Hiroshima",
+    "ja": "広島県 東広島市"
+  },
+  "4090189": {
+    "en": "Hiroshima Prefecture Hatsukaichi",
+    "ja": "広島県 廿日市市"
+  },
+  "4090359": {
+    "en": "Hiroshima Prefecture Onomichi",
+    "ja": "広島県 尾道市"
+  },
+  "4090590": {
+    "en": "Hiroshima Prefecture Fuchu",
+    "ja": "広島県 府中市"
+  },
+  "4090593": {
+    "en": "Hiroshima Prefecture Fuchu",
+    "ja": "広島県 府中町"
+  },
+  "4090603": {
+    "en": "Hiroshima Prefecture Fukuyama",
+    "ja": "広島県 福山市"
+  },
+  "4090607": {
+    "en": "Hiroshima Prefecture KIta Hiroshima",
+    "ja": "広島県 北広島町"
+  },
+  "4097196": {
+    "en": "Hiroshima Prefecture Hiroshima",
+    "ja": "広島県 広島市"
+  },
+  "4107185": {
+    "en": "Aomori Prefecture Oma",
+    "ja": "青森県 大間町"
+  },
+  "4107186": {
+    "en": "Aomori Prefecture Kazamaura",
+    "ja": "青森県 風間浦村"
+  },
+  "4107191": {
+    "en": "Aomori Prefecture Mutsu",
+    "ja": "青森県 むつ市"
+  },
+  "4107196": {
+    "en": "Aomori Prefecture Sai",
+    "ja": "青森県 佐井村"
+  },
+  "4107205": {
+    "en": "Aomori Prefecture Higashidori",
+    "ja": "青森県 東通村"
+  },
+  "4107217": {
+    "en": "Aomori Prefecture Yokohama",
+    "ja": "青森県 横浜町"
+  },
+  "4107221": {
+    "en": "Aomori Prefecture Rokkasho",
+    "ja": "青森県 六ヶ所村"
+  },
+  "4107222": {
+    "en": "Aomori Prefecture Noheji",
+    "ja": "青森県 野辺地町"
+  },
+  "4107223": {
+    "en": "Aomori Prefecture Tohoku",
+    "ja": "青森県 東北町"
+  },
+  "4107227": {
+    "en": "Aomori Prefecture Misawa",
+    "ja": "青森県 三沢市"
+  },
+  "4107257": {
+    "en": "Aomori Prefecture Shichinohe",
+    "ja": "青森県 七戸町"
+  },
+  "4107258": {
+    "en": "Aomori Prefecture Hiranai",
+    "ja": "青森県 平内町"
+  },
+  "4107331": {
+    "en": "Aomori Prefecture Towada",
+    "ja": "青森県 十和田市"
+  },
+  "4107332": {
+    "en": "Aomori Prefecture Rokunohe",
+    "ja": "青森県 六戸町"
+  },
+  "4107337": {
+    "en": "Aomori Prefecture Aomori",
+    "ja": "青森県 青森市"
+  },
+  "4107352": {
+    "en": "Aomori Prefecture Gonohe",
+    "ja": "青森県 五戸町"
+  },
+  "4107406": {
+    "en": "Aomori Prefecture Oirase",
+    "ja": "青森県 おいらせ町"
+  },
+  "4107414": {
+    "en": "Aomori Prefecture Hachinohe",
+    "ja": "青森県 八戸市"
+  },
+  "4107422": {
+    "en": "Aomori Prefecture Hirakawa",
+    "ja": "青森県 平川市"
+  },
+  "4107423": {
+    "en": "Aomori Prefecture Kuroishi",
+    "ja": "青森県 黒石市"
+  },
+  "4107427": {
+    "en": "Aomori Prefecture Fujisaki",
+    "ja": "青森県 藤崎町"
+  },
+  "4107430": {
+    "en": "Aomori Prefecture Itayanagi",
+    "ja": "青森県 板柳町"
+  },
+  "4107435": {
+    "en": "Aomori Prefecture Goshogawara",
+    "ja": "青森県 五所川原市"
+  },
+  "4107436": {
+    "en": "Aomori Prefecture Yomogita",
+    "ja": "青森県 蓬田村"
+  },
+  "4107452": {
+    "en": "Aomori Prefecture Nakadomari",
+    "ja": "青森県 中泊町"
+  },
+  "4107459": {
+    "en": "Aomori Prefecture Sotogahama",
+    "ja": "青森県 外ヶ浜町"
+  },
+  "4107469": {
+    "en": "Aomori Prefecture Imabetsu",
+    "ja": "青森県 今別町"
+  },
+  "4107487": {
+    "en": "Aomori Prefecture Tsugaru",
+    "ja": "青森県 つがる市"
+  },
+  "4107490": {
+    "en": "Aomori Prefecture Tsuruta",
+    "ja": "青森県 鶴田町"
+  },
+  "4107507": {
+    "en": "Aomori Prefecture Hirosaki",
+    "ja": "青森県 弘前市"
+  },
+  "4107525": {
+    "en": "Aomori Prefecture Ajigasawa",
+    "ja": "青森県 鰺ヶ沢町"
+  },
+  "4107537": {
+    "en": "Aomori Prefecture Nishimeya",
+    "ja": "青森県 西目屋村"
+  },
+  "4107540": {
+    "en": "Aomori Prefecture Fukaura",
+    "ja": "青森県 深浦町"
+  },
+  "4107544": {
+    "en": "Akita Prefecture Happou",
+    "ja": "秋田県 八峰町"
+  },
+  "4107552": {
+    "en": "Akita Prefecture Odate",
+    "ja": "秋田県 大館市"
+  },
+  "4107558": {
+    "en": "Aomori Prefecture Inakadate",
+    "ja": "青森県 田舎館村"
+  },
+  "4107676": {
+    "en": "Aomori Prefecture Owani",
+    "ja": "青森県 大鰐町"
+  },
+  "4107719": {
+    "en": "Akita Prefecture Kosaka",
+    "ja": "秋田県 小坂町"
+  },
+  "4107754": {
+    "en": "Aomori Prefecture Shingo",
+    "ja": "青森県 新郷村"
+  },
+  "4107760": {
+    "en": "Aomori Prefecture Nanbu",
+    "ja": "青森県 南部町"
+  },
+  "4107776": {
+    "en": "Akita Prefecture Kazuno",
+    "ja": "秋田県 鹿角市"
+  },
+  "4107781": {
+    "en": "Aomori Prefecture Sannohe",
+    "ja": "青森県 三戸町"
+  },
+  "4107791": {
+    "en": "Aomori Prefecture Takko",
+    "ja": "青森県 田子町"
+  },
+  "4107946": {
+    "en": "Aomori Prefecture Hashikami",
+    "ja": "青森県 階上町"
+  },
+  "4110031": {
+    "en": "Tottori Prefecture Iwami",
+    "ja": "鳥取県 岩美町"
+  },
+  "4110033": {
+    "en": "Tottori Prefecture Sakaiminato",
+    "ja": "鳥取県 境港市"
+  },
+  "4110046": {
+    "en": "Tottori Prefecture Kotoura",
+    "ja": "鳥取県 琴浦町"
+  },
+  "4110050": {
+    "en": "Tottori Prefecture Kofu",
+    "ja": "鳥取県 江府町"
+  },
+  "4110056": {
+    "en": "Tottori Prefecture Misasa",
+    "ja": "鳥取県 三朝町"
+  },
+  "4110062": {
+    "en": "Tottori Prefecture Wakasa",
+    "ja": "鳥取県 若桜町"
+  },
+  "4110067": {
+    "en": "Tottori Prefecture Kurayoshi",
+    "ja": "鳥取県 倉吉市"
+  },
+  "4110867": {
+    "en": "Tottori Prefecture Daisen",
+    "ja": "鳥取県 大山町"
+  },
+  "4110877": {
+    "en": "Tottori Prefecture Chizu",
+    "ja": "鳥取県 智頭町"
+  },
+  "4110890": {
+    "en": "Tottori Prefecture Tottori",
+    "ja": "鳥取県 鳥取市"
+  },
+  "4110998": {
+    "en": "Tottori Prefecture Yurihama",
+    "ja": "鳥取県 湯梨浜町"
+  },
+  "4111004": {
+    "en": "Tottori Prefecture Nanbu",
+    "ja": "鳥取県 南部町"
+  },
+  "4111006": {
+    "en": "Tottori Prefecture Hiezu",
+    "ja": "鳥取県 日吉津村"
+  },
+  "4111007": {
+    "en": "Tottori Prefecture Nichinan",
+    "ja": "鳥取県 日南町"
+  },
+  "4111019": {
+    "en": "Tottori Prefecture Hino",
+    "ja": "鳥取県 日野町"
+  },
+  "4111023": {
+    "en": "Tottori Prefecture Houki",
+    "ja": "鳥取県 伯耆町"
+  },
+  "4111031": {
+    "en": "Tottori Prefecture Yazu",
+    "ja": "鳥取県 八頭町"
+  },
+  "4111032": {
+    "en": "Tottori Prefecture Yonago",
+    "ja": "鳥取県 米子市"
+  },
+  "4111036": {
+    "en": "Tottori Prefecture Hokuei",
+    "ja": "鳥取県 北栄町"
+  },
+  "4115093": {
+    "en": "Akita Prefecture Fujisato",
+    "ja": "秋田県 藤里町"
+  },
+  "4115695": {
+    "en": "Niigata Prefecture Yahiko",
+    "ja": "新潟県 弥彦村"
+  },
+  "4115719": {
+    "en": "Niigata Prefecture Tsubame",
+    "ja": "新潟県 燕市"
+  },
+  "4115724": {
+    "en": "Akita Prefecture Noshiro",
+    "ja": "秋田県 能代市"
+  },
+  "4115746": {
+    "en": "Akita Prefecture Kitaakita",
+    "ja": "秋田県 北秋田市"
+  },
+  "4117447": {
+    "en": "Akita Prefecture Kamikoani",
+    "ja": "秋田県 上小阿仁村"
+  },
+  "4117450": {
+    "en": "Akita Prefecture Mitane",
+    "ja": "秋田県 三種町"
+  },
+  "4117534": {
+    "en": "Akita Prefecture Semboku",
+    "ja": "秋田県 仙北市"
+  },
+  "4117549": {
+    "en": "Akita Prefecture Akita",
+    "ja": "秋田県 秋田市"
+  },
+  "4117804": {
+    "en": "Akita Prefecture Gojome",
+    "ja": "秋田県 五城目町"
+  },
+  "4117835": {
+    "en": "Akita Prefecture Daisen",
+    "ja": "秋田県 大仙市"
+  },
+  "4117872": {
+    "en": "Akita Prefecture Hachirogata",
+    "ja": "秋田県 八郎潟町"
+  },
+  "4118112": {
+    "en": "Akita Prefecture Ogata",
+    "ja": "秋田県 大潟村"
+  },
+  "4118351": {
+    "en": "Akita Prefecture Oga",
+    "ja": "秋田県 男鹿市"
+  },
+  "4118353": {
+    "en": "Akita Prefecture Katagami",
+    "ja": "秋田県 潟上市"
+  },
+  "4118394": {
+    "en": "Akita Prefecture Ikawa",
+    "ja": "秋田県 井川町"
+  },
+  "4119918": {
+    "en": "Akita Prefecture Yurihonjo",
+    "ja": "秋田県 由利本荘市"
+  },
+  "4119938": {
+    "en": "Akita Prefecture Misato",
+    "ja": "秋田県 美郷町"
+  },
+  "4119950": {
+    "en": "Akita Prefecture Yokote",
+    "ja": "秋田県 横手市"
+  },
+  "4119959": {
+    "en": "Akita Prefecture Ugo",
+    "ja": "秋田県 羽後町"
+  },
+  "4119971": {
+    "en": "Akita Prefecture Yuzawa",
+    "ja": "秋田県 湯沢市"
+  },
+  "4120077": {
+    "en": "Yamagata Prefecture Mamurogawa",
+    "ja": "山形県 真室川町"
+  },
+  "4120080": {
+    "en": "Yamagata Prefecture Sakata",
+    "ja": "山形県 酒田市"
+  },
+  "4120084": {
+    "en": "Yamagata Prefecture Yuza",
+    "ja": "山形県 遊佐町"
+  },
+  "4120086": {
+    "en": "Akita Prefecture Nikaho",
+    "ja": "秋田県 にかほ市"
+  },
+  "4120378": {
+    "en": "Akita Prefecture Higashinaruse",
+    "ja": "秋田県 東成瀬村"
+  },
+  "4120403": {
+    "en": "Iwate Prefecture Ichinoseki",
+    "ja": "岩手県 一関市"
+  },
+  "4120415": {
+    "en": "Yamagata Prefecture Kaneyama",
+    "ja": "山形県 金山町"
+  },
+  "4120422": {
+    "en": "Yamagata Prefecture Shinjo",
+    "ja": "山形県 新庄市"
+  },
+  "4120423": {
+    "en": "Yamagata Prefecture Mogami",
+    "ja": "山形県 最上町"
+  },
+  "4126696": {
+    "en": "Miyagi Prefecture Kesennuma",
+    "ja": "宮城県 気仙沼市"
+  },
+  "4134684": {
+    "en": "Yamagata Prefecture Sakegawa",
+    "ja": "山形県 鮭川村"
+  },
+  "4134698": {
+    "en": "Yamagata Prefecture Tozawa",
+    "ja": "山形県 戸沢村"
+  },
+  "4134713": {
+    "en": "Yamagata Prefecture Shonai",
+    "ja": "山形県 庄内町"
+  },
+  "4134726": {
+    "en": "Yamagata Prefecture Mikawa",
+    "ja": "山形県 三川町"
+  },
+  "4134729": {
+    "en": "Yamagata Prefecture Tsuruoka",
+    "ja": "山形県 鶴岡市"
+  },
+  "4134746": {
+    "en": "Miyagi Prefecture Kami",
+    "ja": "宮城県 加美町"
+  },
+  "4134752": {
+    "en": "Yamagata Prefecture Obanazawa",
+    "ja": "山形県 尾花沢市"
+  },
+  "4134757": {
+    "en": "Yamagata Prefecture Funagata",
+    "ja": "山形県 舟形町"
+  },
+  "4134786": {
+    "en": "Yamagata Prefecture Okura",
+    "ja": "山形県 大蔵村"
+  },
+  "4134828": {
+    "en": "Yamagata Prefecture Oishida",
+    "ja": "山形県 大石田町"
+  },
+  "4134838": {
+    "en": "Yamagata Prefecture Murayama",
+    "ja": "山形県 村山市"
+  },
+  "4134849": {
+    "en": "Yamagata Prefecture Nishikawa",
+    "ja": "山形県 西川町"
+  },
+  "4134867": {
+    "en": "Yamagata Prefecture Sagae",
+    "ja": "山形県 寒河江市"
+  },
+  "4134928": {
+    "en": "Niigata Prefecture Murakami",
+    "ja": "新潟県 村上市"
+  },
+  "4135013": {
+    "en": "Miyagi Prefecture Shikama",
+    "ja": "宮城県 色麻町"
+  },
+  "4135014": {
+    "en": "Miyagi Prefecture Sendai",
+    "ja": "宮城県 仙台市"
+  },
+  "4135043": {
+    "en": "Yamagata Prefecture Higashine",
+    "ja": "山形県 東根市"
+  },
+  "4135309": {
+    "en": "Yamagata Prefecture Kahoku",
+    "ja": "山形県 河北町"
+  },
+  "4135327": {
+    "en": "Yamagata Prefecture Oe",
+    "ja": "山形県 大江町"
+  },
+  "4135343": {
+    "en": "Yamagata Prefecture Asahi",
+    "ja": "山形県 朝日町"
+  },
+  "4135353": {
+    "en": "Yamagata Prefecture Oguni",
+    "ja": "山形県 小国町"
+  },
+  "4135368": {
+    "en": "Yamagata Prefecture Tendo",
+    "ja": "山形県 天童市"
+  },
+  "4137017": {
+    "en": "Yamagata Prefecture Nakayama",
+    "ja": "山形県 中山町"
+  },
+  "4137018": {
+    "en": "Yamagata Prefecture Yamanobe",
+    "ja": "山形県 山辺町"
+  },
+  "4137043": {
+    "en": "Yamagata Prefecture Nagai",
+    "ja": "山形県 長井市"
+  },
+  "4137045": {
+    "en": "Yamagata Prefecture Shirataka",
+    "ja": "山形県 白鷹町"
+  },
+  "4137051": {
+    "en": "Yamagata Prefecture Yamagata",
+    "ja": "山形県 山形市"
+  },
+  "4137060": {
+    "en": "Niigata Prefecture Sekikawa",
+    "ja": "新潟県 関川村"
+  },
+  "4137071": {
+    "en": "Niigata Prefecture Tainai",
+    "ja": "新潟県 胎内市"
+  },
+  "4137075": {
+    "en": "Niigata Prefecture Shibata",
+    "ja": "新潟県 新発田市"
+  },
+  "4137086": {
+    "en": "Fukushima Prefecture Kitakata",
+    "ja": "福島県 喜多方市"
+  },
+  "4137088": {
+    "en": "Niigata Prefecture Aga",
+    "ja": "新潟県 阿賀町"
+  },
+  "4137092": {
+    "en": "Yamagata Prefecture Iide",
+    "ja": "山形県 飯豊町"
+  },
+  "4137136": {
+    "en": "Yamagata Prefecture Nanyo",
+    "ja": "山形県 南陽市"
+  },
+  "4137146": {
+    "en": "Yamagata Prefecture Kawanishi",
+    "ja": "山形県 川西町"
+  },
+  "4137156": {
+    "en": "Yamagata Prefecture Yonezawa",
+    "ja": "山形県 米沢市"
+  },
+  "4137368": {
+    "en": "Yamagata Prefecture Kaminoyama",
+    "ja": "山形県 上山市"
+  },
+  "4137388": {
+    "en": "Miyagi Prefecture Kawasaki",
+    "ja": "宮城県 川崎町"
+  },
+  "4137431": {
+    "en": "Yamagata Prefecture Takahata",
+    "ja": "山形県 高畠町"
+  },
+  "4137581": {
+    "en": "Fukushima Prefecture Fukushima",
+    "ja": "福島県 福島市"
+  },
+  "4143117": {
+    "en": "Fukushima Prefecture Kitashiobara",
+    "ja": "福島県 北塩原村"
+  },
+  "4148026": {
+    "en": "Fukushima Prefecture Inawashiro",
+    "ja": "福島県 猪苗代町"
+  },
+  "4152023": {
+    "en": "Miyagi Prefecture Minamisanriku",
+    "ja": "宮城県 南三陸町"
+  },
+  "4152051": {
+    "en": "Miyagi Prefecture Taiwa",
+    "ja": "宮城県 大和町"
+  },
+  "4152057": {
+    "en": "Miyagi Prefecture Ohira",
+    "ja": "宮城県 大衡村"
+  },
+  "4153612": {
+    "en": "Miyagi Prefecture Marumori",
+    "ja": "宮城県 丸森町"
+  },
+  "4153615": {
+    "en": "Miyagi Prefecture Watari",
+    "ja": "宮城県 亘理町"
+  },
+  "4153617": {
+    "en": "Miyagi Prefecture Yamamoto",
+    "ja": "宮城県 山元町"
+  },
+  "4153625": {
+    "en": "Miyagi Prefecture Ishinomaki",
+    "ja": "宮城県 石巻市"
+  },
+  "4154417": {
+    "en": "Miyagi Prefecture Wakuya",
+    "ja": "宮城県 涌谷町"
+  },
+  "4154445": {
+    "en": "Miyagi Prefecture Misato",
+    "ja": "宮城県 美里町"
+  },
+  "4154484": {
+    "en": "Miyagi Prefecture Onagawa",
+    "ja": "宮城県 女川町"
+  },
+  "4158839": {
+    "en": "Miyagi Prefecture Matsushima",
+    "ja": "宮城県 松島町"
+  },
+  "4159304": {
+    "en": "Miyagi Prefecture Osato",
+    "ja": "宮城県 大郷町"
+  },
+  "4159311": {
+    "en": "Miyagi Prefecture Rifu",
+    "ja": "宮城県 利府町"
+  },
+  "4159313": {
+    "en": "Miyagi Prefecture Tomiya",
+    "ja": "宮城県 富谷市"
+  },
+  "4159321": {
+    "en": "Miyagi Prefecture Tagajo",
+    "ja": "宮城県 多賀城市"
+  },
+  "4159322": {
+    "en": "Miyagi Prefecture Shiogama",
+    "ja": "宮城県 塩竈市"
+  },
+  "4168580": {
+    "en": "Miyagi Prefecture Shichigahama",
+    "ja": "宮城県 七ヶ浜町"
+  },
+  "4174035": {
+    "en": "Miyagi Prefecture Murata",
+    "ja": "宮城県 村田町"
+  },
+  "4174040": {
+    "en": "Miyagi Prefecture Natori",
+    "ja": "宮城県 名取市"
+  },
+  "4174272": {
+    "en": "Miyagi Prefecture Ogawara",
+    "ja": "宮城県 大河原町"
+  },
+  "4174275": {
+    "en": "Miyagi Prefecture Shibara",
+    "ja": "宮城県 柴田町"
+  },
+  "4174276": {
+    "en": "Miyagi Prefecture Iwanuma",
+    "ja": "宮城県 岩沼市"
+  },
+  "4174329": {
+    "en": "Fukushima Prefecture Nishiaizu",
+    "ja": "福島県 西会津町"
+  },
+  "4174405": {
+    "en": "Fukushima Prefecture Aizubange",
+    "ja": "福島県 会津坂下町"
+  },
+  "4174407": {
+    "en": "Fukushima Prefecture Yugawa",
+    "ja": "福島県 湯川村"
+  },
+  "4174424": {
+    "en": "Fukushima Prefecture Aizuwakamatsu",
+    "ja": "福島県 会津若松市"
+  },
+  "4174425": {
+    "en": "Fukushima Prefecture Bandai",
+    "ja": "福島県 磐梯町"
+  },
+  "4174479": {
+    "en": "Fukushima Prefecture Yanaizu",
+    "ja": "福島県 柳津町"
+  },
+  "4174516": {
+    "en": "Fukushima Prefecture Kaneyama",
+    "ja": "福島県 金山町"
+  },
+  "4174658": {
+    "en": "Fukushima Prefecture Nihonmatsu",
+    "ja": "福島県 二本松市"
+  },
+  "4174659": {
+    "en": "Fukushima Prefecture Koriyama",
+    "ja": "福島県 郡山市"
+  },
+  "4174803": {
+    "en": "Fukushima Prefecture Koori",
+    "ja": "福島県 桑折町"
+  },
+  "4174814": {
+    "en": "Fukushima Prefecture Date",
+    "ja": "福島県 伊達市"
+  },
+  "4174820": {
+    "en": "Fukushima Prefecture Kawamata",
+    "ja": "福島県 川俣町"
+  },
+  "4174823": {
+    "en": "Fukushima Prefecture Kunimi",
+    "ja": "福島県 国見町"
+  },
+  "4174875": {
+    "en": "Fukushima Prefecture Soma",
+    "ja": "福島県 相馬市"
+  },
+  "4174946": {
+    "en": "Fukushima Prefecture Shinchi",
+    "ja": "福島県 新地町"
+  },
+  "4174961": {
+    "en": "Fukushima Prefecture Iitate",
+    "ja": "福島県 飯舘村"
+  },
+  "4174968": {
+    "en": "Fukushima Prefecture Minamisoma",
+    "ja": "福島県 南相馬市"
+  },
+  "4176658": {
+    "en": "Fukushima Prefecture Namie",
+    "ja": "福島県 浪江町"
+  },
+  "4176676": {
+    "en": "Fukushima Prefecture Mishima",
+    "ja": "福島県 三島町"
+  },
+  "4176690": {
+    "en": "Fukushima Prefecture Showa",
+    "ja": "福島県 昭和村"
+  },
+  "4176704": {
+    "en": "Fukushima Prefecture Aizumisato",
+    "ja": "福島県 会津美里町"
+  },
+  "4176744": {
+    "en": "Fukushima Prefecture Shimogo",
+    "ja": "福島県 下郷町"
+  },
+  "4176753": {
+    "en": "Fukushima Prefecture Ten-ei",
+    "ja": "福島県 天栄村"
+  },
+  "4176760": {
+    "en": "Fukushima Prefecture Minamiaizu",
+    "ja": "福島県 南会津町"
+  },
+  "4176839": {
+    "en": "Fukushima Prefecture Tadami",
+    "ja": "福島県 只見町"
+  },
+  "4177328": {
+    "en": "Niigata Prefecture Uonuma",
+    "ja": "新潟県 魚沼市"
+  },
+  "4192216": {
+    "en": "Fukushima Prefecture Hinoemata",
+    "ja": "福島県 檜枝岐村"
+  },
+  "4196299": {
+    "en": "Gunma Prefecture Katashina",
+    "ja": "群馬県 片品村"
+  },
+  "4196326": {
+    "en": "Tochigi Prefecture Nikko",
+    "ja": "栃木県 日光市"
+  },
+  "4196612": {
+    "en": "Fukushima Prefecture Nishigo",
+    "ja": "福島県 西郷村"
+  },
+  "4196635": {
+    "en": "Fukushima Prefecture Katsurao",
+    "ja": "福島県 葛尾村"
+  },
+  "4196646": {
+    "en": "Fukushima Prefecture Tamura",
+    "ja": "福島県 田村市"
+  },
+  "4196678": {
+    "en": "Fukushima Prefecture Okuma",
+    "ja": "福島県 大熊町"
+  },
+  "4196679": {
+    "en": "Fukushima Prefecture Futaba",
+    "ja": "福島県 双葉町"
+  },
+  "4196686": {
+    "en": "Fukushima Prefecture Kawauchi",
+    "ja": "福島県 川内村"
+  },
+  "4196688": {
+    "en": "Fukushima Prefecture Tomioka",
+    "ja": "福島県 富岡町"
+  },
+  "4196689": {
+    "en": "Fukushima Prefecture Naraha",
+    "ja": "福島県 楢葉町"
+  },
+  "4196695": {
+    "en": "Fukushima Prefecture Iwaki",
+    "ja": "福島県 いわき市"
+  },
+  "4196743": {
+    "en": "Fukushima Prefecture Hirono",
+    "ja": "福島県 広野町"
+  },
+  "4196762": {
+    "en": "Fukushima Prefecture Otama",
+    "ja": "福島県 大玉村"
+  },
+  "4196826": {
+    "en": "Fukushima Prefecture Motomiya",
+    "ja": "福島県 本宮市"
+  },
+  "4196830": {
+    "en": "Fukushima Prefecture Miharu",
+    "ja": "福島県 三春町"
+  },
+  "4198913": {
+    "en": "Fukushima Prefecture Sukagawa",
+    "ja": "福島県 須賀川市"
+  },
+  "4198948": {
+    "en": "Fukushima Prefecture Ono",
+    "ja": "福島県 小野町"
+  },
+  "4198964": {
+    "en": "Fukushima Prefecture Hirata",
+    "ja": "福島県 平田村"
+  },
+  "4199029": {
+    "en": "Fukushima Prefecture Kagamiishi",
+    "ja": "福島県 鏡石町"
+  },
+  "4199030": {
+    "en": "Fukushima Prefecture Tamakawa",
+    "ja": "福島県 玉川村"
+  },
+  "4199044": {
+    "en": "Fukushima Prefecture Shirakawa",
+    "ja": "福島県 白河市"
+  },
+  "4199055": {
+    "en": "Fukushima Prefecture Yabuki",
+    "ja": "福島県 矢吹町"
+  },
+  "4199060": {
+    "en": "Fukushima Prefecture Ishikawa",
+    "ja": "福島県 石川町"
+  },
+  "4199063": {
+    "en": "Fukushima Prefecture Furudono",
+    "ja": "福島県 古殿町"
+  },
+  "4216466": {
+    "en": "Fukushima Prefecture Izumizaki",
+    "ja": "福島県 泉崎村"
+  },
+  "4216468": {
+    "en": "Fukushima Prefecture Nakajima",
+    "ja": "福島県 中島村"
+  },
+  "4217147": {
+    "en": "Tochigi Prefecture Nasushiobara",
+    "ja": "栃木県 那須塩原市"
+  },
+  "4217167": {
+    "en": "Tochigi Prefecture Nasu",
+    "ja": "栃木県 那須町"
+  },
+  "4217187": {
+    "en": "Fukushima Prefecture Asakawa",
+    "ja": "福島県 浅川町"
+  },
+  "4217334": {
+    "en": "Fukushima Prefecture Samegawa",
+    "ja": "福島県 鮫川村"
+  },
+  "4217345": {
+    "en": "Fukushima Prefecture Tanagura",
+    "ja": "福島県 棚倉町"
+  },
+  "4219108": {
+    "en": "Fukushima Prefecture Hanawa",
+    "ja": "福島県 塙町"
+  },
+  "4219634": {
+    "en": "Fukushima Prefecture Yamatsuri",
+    "ja": "福島県 矢祭町"
+  },
+  "4237875": {
+    "en": "Niigata Prefecture Agano",
+    "ja": "新潟県 阿賀野市"
+  },
+  "4237973": {
+    "en": "Niigata Prefecture Niigata",
+    "ja": "新潟県 新潟市"
+  },
+  "4288010": {
+    "en": "Niigata Prefecture Seiro",
+    "ja": "新潟県 聖籠町"
+  },
+  "4288060": {
+    "en": "Niigata Prefecture Gosen",
+    "ja": "新潟県 五泉市"
+  },
+  "4453887": {
+    "en": "Niigata Prefecture Tagami",
+    "ja": "新潟県 田上町"
+  },
+  "4453936": {
+    "en": "Niigata Prefecture Kamo",
+    "ja": "新潟県 加茂市"
+  },
+  "4453944": {
+    "en": "Niigata Prefecture Sanjo",
+    "ja": "新潟県 三条市"
+  },
+  "4453959": {
+    "en": "Niigata Prefecture Nagaoka",
+    "ja": "新潟県 長岡市"
+  },
+  "4454178": {
+    "en": "Niigata Prefecture Mitsuke",
+    "ja": "新潟県 見附市"
+  },
+  "4516002": {
+    "en": "Niigata Prefecture Ojiya",
+    "ja": "新潟県 小千谷市"
+  },
+  "4516028": {
+    "en": "Niigata Prefecture Tokamachi",
+    "ja": "新潟県 十日町市"
+  },
+  "4516043": {
+    "en": "Niigata Prefecture Kashiwazaki",
+    "ja": "新潟県 柏崎市"
+  },
+  "4516061": {
+    "en": "Niigata Prefecture Kariwa",
+    "ja": "新潟県 刈羽村"
+  },
+  "4516073": {
+    "en": "Niigata Prefecture Izumozaki",
+    "ja": "新潟県 出雲崎町"
+  },
+  "4516142": {
+    "en": "Niigata Prefecture Minamiuonuma",
+    "ja": "新潟県 南魚沼市"
+  },
+  "4516237": {
+    "en": "Niigata Prefecture Joetsu",
+    "ja": "新潟県 上越市"
+  },
+  "4516244": {
+    "en": "Niigata Prefecture Tsunan",
+    "ja": "新潟県 津南町"
+  },
+  "4516355": {
+    "en": "Niigata Prefecture Myoko",
+    "ja": "新潟県 妙高市"
+  },
+  "4516609": {
+    "en": "Niigata Prefecture Itoigawa",
+    "ja": "新潟県 糸魚川市"
+  },
+  "4523876": {
+    "en": "Okinawa Prefecture Kumejima",
+    "ja": "沖縄県 久米島町"
+  },
+  "4533906": {
+    "en": "Okinawa Prefecture Iheya",
+    "ja": "沖縄県 伊平屋村"
+  },
+  "4533907": {
+    "en": "Okinawa Prefecture Izena",
+    "ja": "沖縄県 伊是名村"
+  },
+  "4534036": {
+    "en": "Okinawa Prefecture Kunigami",
+    "ja": "沖縄県 国頭村"
+  },
+  "4536506": {
+    "en": "Okinawa Prefecture Ogimi",
+    "ja": "沖縄県 大宜味村"
+  },
+  "4536518": {
+    "en": "Okinawa Prefecture Higashi",
+    "ja": "沖縄県 東村"
+  },
+  "4538484": {
+    "en": "Mie Prefecture Inabe",
+    "ja": "三重県 いなべ市"
+  },
+  "4538517": {
+    "en": "Mie Prefecture Iga",
+    "ja": "三重県 伊賀市"
+  },
+  "4538518": {
+    "en": "Mie Prefecture Ise",
+    "ja": "三重県 伊勢市"
+  },
+  "4538523": {
+    "en": "Mie Prefecture Kiho",
+    "ja": "三重県 紀宝町"
+  },
+  "4538585": {
+    "en": "Mie Prefecture Kihoku",
+    "ja": "三重県 紀北町"
+  },
+  "4538596": {
+    "en": "Mie Prefecture Kameyama",
+    "ja": "三重県 亀山市"
+  },
+  "4538597": {
+    "en": "Mie Prefecture Tamaki",
+    "ja": "三重県 玉城町"
+  },
+  "4538610": {
+    "en": "Mie Prefecture Kumano",
+    "ja": "三重県 熊野市"
+  },
+  "4538612": {
+    "en": "Mie Prefecture Kuwana",
+    "ja": "三重県 桑名市"
+  },
+  "4538614": {
+    "en": "Mie Prefecture Komono",
+    "ja": "三重県 菰野町"
+  },
+  "4538623": {
+    "en": "Mie Prefecture Mihama",
+    "ja": "三重県 御浜町"
+  },
+  "4538624": {
+    "en": "Mie Prefecture Yokkaichi",
+    "ja": "三重県 四日市市"
+  },
+  "4538663": {
+    "en": "Mie Prefecture Shima",
+    "ja": "三重県 志摩市"
+  },
+  "4538671": {
+    "en": "Okinawa Prefecture Nago",
+    "ja": "沖縄県 名護市"
+  },
+  "4538677": {
+    "en": "Mie Prefecture Matsusaka",
+    "ja": "三重県 松阪市"
+  },
+  "4538681": {
+    "en": "Mie Prefecture Kawagoe",
+    "ja": "三重県 川越町"
+  },
+  "4538689": {
+    "en": "Mie Prefecture Taki",
+    "ja": "三重県 多気町"
+  },
+  "4538705": {
+    "en": "Mie Prefecture Taiki",
+    "ja": "三重県 大紀町"
+  },
+  "4538710": {
+    "en": "Mie Prefecture Odai",
+    "ja": "三重県 大台町"
+  },
+  "4538715": {
+    "en": "Mie Prefecture Asahi",
+    "ja": "三重県 朝日町"
+  },
+  "4538731": {
+    "en": "Mie Prefecture Toba",
+    "ja": "三重県 鳥羽市"
+  },
+  "4538734": {
+    "en": "Mie Prefecture Tsu",
+    "ja": "三重県 津市"
+  },
+  "4538736": {
+    "en": "Mie Prefecture Watarai",
+    "ja": "三重県 度会町"
+  },
+  "4538738": {
+    "en": "Mie Prefecture Touin",
+    "ja": "三重県 東員町"
+  },
+  "4538785": {
+    "en": "Mie Prefecture Minamiise",
+    "ja": "三重県 南伊勢町"
+  },
+  "4538803": {
+    "en": "Mie Prefecture Owase",
+    "ja": "三重県 尾鷲市"
+  },
+  "4538812": {
+    "en": "Mie Prefecture Nabari",
+    "ja": "三重県 名張市"
+  },
+  "4538816": {
+    "en": "Mie Prefecture Meiwa",
+    "ja": "三重県 明和町"
+  },
+  "4538833": {
+    "en": "Mie Prefecture Kisosaki",
+    "ja": "三重県 木曽岬町"
+  },
+  "4538846": {
+    "en": "Mie Prefecture Suzuka",
+    "ja": "三重県 鈴鹿市"
+  },
+  "4541810": {
+    "en": "Niigata Prefecture Sado",
+    "ja": "新潟県 佐渡市"
+  },
+  "4542062": {
+    "en": "Okinawa Prefecture Nakijin",
+    "ja": "沖縄県 今帰仁村"
+  },
+  "4542063": {
+    "en": "Okinawa Prefecture Motobu",
+    "ja": "沖縄県 本部町"
+  },
+  "4542064": {
+    "en": "Okinawa Prefecture Ie",
+    "ja": "沖縄県 伊江村"
+  },
+  "4542065": {
+    "en": "Okinawa Prefecture Onna",
+    "ja": "沖縄県 恩納村"
+  },
+  "4542099": {
+    "en": "Okinawa Prefecture Ginoza",
+    "ja": "沖縄県 宜野座村"
+  },
+  "4542100": {
+    "en": "Okinawa Prefecture Kin",
+    "ja": "沖縄県 金武町"
+  },
+  "4542217": {
+    "en": "Okinawa Prefecture Uruma",
+    "ja": "沖縄県 うるま市"
+  },
+  "4544874": {
+    "en": "Okinawa Prefecture Aguni",
+    "ja": "沖縄県 粟国村"
+  },
+  "4545426": {
+    "en": "Okinawa Prefecture Kadena",
+    "ja": "沖縄県 嘉手納町"
+  },
+  "4545427": {
+    "en": "Okinawa Prefecture Chatan",
+    "ja": "沖縄県 北谷町"
+  },
+  "4545537": {
+    "en": "Okinawa Prefecture Kitanakagusuku",
+    "ja": "沖縄県 北中城村"
+  },
+  "4545538": {
+    "en": "Okinawa Prefecture Nakagusuku",
+    "ja": "沖縄県 中城村"
+  },
+  "4547814": {
+    "en": "Aichi Prefecture Ama",
+    "ja": "愛知県 あま市"
+  },
+  "4547830": {
+    "en": "Aichi Prefecture Miyoshi",
+    "ja": "愛知県 みよし市"
+  },
+  "4548105": {
+    "en": "Aichi Prefecture Agui",
+    "ja": "愛知県 阿久比町"
+  },
+  "4548196": {
+    "en": "Aichi Prefecture Ansai",
+    "ja": "愛知県 愛西市"
+  },
+  "4548219": {
+    "en": "Aichi Prefecture Anjo",
+    "ja": "愛知県 安城市"
+  },
+  "4548226": {
+    "en": "Aichi Prefecture Ichinomiya",
+    "ja": "愛知県 一宮市"
+  },
+  "4548228": {
+    "en": "Aichi Prefecture Inazawa",
+    "ja": "愛知県 稲沢市"
+  },
+  "4548232": {
+    "en": "Aichi Prefecture Okazaki",
+    "ja": "愛知県 岡崎市"
+  },
+  "4548234": {
+    "en": "Aichi Prefecture Kanie",
+    "ja": "愛知県 蟹江町"
+  },
+  "4548245": {
+    "en": "Aichi Prefecture Gamagori",
+    "ja": "愛知県 蒲郡市"
+  },
+  "4548603": {
+    "en": "Aichi Prefecture Kariya",
+    "ja": "愛知県 刈谷市"
+  },
+  "4548605": {
+    "en": "Aichi Prefecture Iwakura",
+    "ja": "愛知県 岩倉市"
+  },
+  "4548802": {
+    "en": "Aichi Prefecture Inuyama",
+    "ja": "愛知県 犬山市"
+  },
+  "4548806": {
+    "en": "Aichi Prefecture Kota",
+    "ja": "愛知県 幸田町"
+  },
+  "4548810": {
+    "en": "Aichi Prefecture Konan",
+    "ja": "愛知県 江南市"
+  },
+  "4548889": {
+    "en": "Aichi Prefecture Takahama",
+    "ja": "愛知県 高浜市"
+  },
+  "4551415": {
+    "en": "Aichi Prefecture Kasugai",
+    "ja": "愛知県 春日井市"
+  },
+  "4551430": {
+    "en": "Aichi Prefecture Komaki",
+    "ja": "愛知県 小牧市"
+  },
+  "4551431": {
+    "en": "Aichi Prefecture Tokoname",
+    "ja": "愛知県 常滑市"
+  },
+  "4551631": {
+    "en": "Aichi Prefecture Shinshiro",
+    "ja": "愛知県 新城市"
+  },
+  "4551646": {
+    "en": "Aichi Prefecture Seto",
+    "ja": "愛知県 瀬戸市"
+  },
+  "4556083": {
+    "en": "Okinawa Prefecture Nishihara",
+    "ja": "沖縄県 西原町"
+  },
+  "4556086": {
+    "en": "Okinawa Prefecture Okinawa",
+    "ja": "沖縄県 沖縄市"
+  },
+  "4556087": {
+    "en": "Okinawa Prefecture Ginowan",
+    "ja": "沖縄県 宜野湾市"
+  },
+  "4556096": {
+    "en": "Okinawa Prefecture Urasoe",
+    "ja": "沖縄県 浦添市"
+  },
+  "4556097": {
+    "en": "Okinawa Prefecture Naha",
+    "ja": "沖縄県 那覇市"
+  },
+  "4557276": {
+    "en": "Okinawa Prefecture Tokashiki",
+    "ja": "沖縄県 渡嘉敷村"
+  },
+  "4559178": {
+    "en": "Okinawa Prefecture Zamami",
+    "ja": "沖縄県 座間味村"
+  },
+  "4559179": {
+    "en": "Okinawa Prefecture Tonaki",
+    "ja": "沖縄県 渡名喜村"
+  },
+  "4559180": {
+    "en": "Okinawa Prefecture Tomigusuku",
+    "ja": "沖縄県 豊見城市"
+  },
+  "4559181": {
+    "en": "Okinawa Prefecture Itoman",
+    "ja": "沖縄県 糸満市"
+  },
+  "4559211": {
+    "en": "Okinawa Prefecture Yaese",
+    "ja": "沖縄県 八重瀬町"
+  },
+  "4559212": {
+    "en": "Okinawa Prefecture Haebaru",
+    "ja": "沖縄県 南風原町"
+  },
+  "4559213": {
+    "en": "Okinawa Prefecture Nanjo",
+    "ja": "沖縄県 南城市"
+  },
+  "4559214": {
+    "en": "Okinawa Prefecture Yonabaru",
+    "ja": "沖縄県 与那原町"
+  },
+  "4559235": {
+    "en": "Okinawa Prefecture Miyakojima",
+    "ja": "沖縄県 宮古島市"
+  },
+  "4559284": {
+    "en": "Okinawa Prefecture Tarama",
+    "ja": "沖縄県 多良間村"
+  },
+  "4559285": {
+    "en": "Okinawa Prefecture Ishigaki",
+    "ja": "沖縄県 石垣市"
+  },
+  "4559332": {
+    "en": "Okinawa Prefecture Taketomi",
+    "ja": "沖縄県 竹富町"
+  },
+  "4559333": {
+    "en": "Okinawa Prefecture Yonaguni",
+    "ja": "沖縄県 与那国町"
+  },
+  "4559470": {
+    "en": "Okinawa Prefecture Minamidaito",
+    "ja": "沖縄県 南大東村"
+  },
+  "4559471": {
+    "en": "Okinawa Prefecture Kitadaito",
+    "ja": "沖縄県 北大東村"
+  },
+  "4561990": {
+    "en": "Tokyo Ogasawara",
+    "ja": "東京都 小笠原村"
+  },
+  "4567247": {
+    "en": "Aichi Prefecture Kiyosu",
+    "ja": "愛知県 清須市"
+  },
+  "4567362": {
+    "en": "Aichi Prefecture Nishio",
+    "ja": "愛知県 西尾市"
+  },
+  "4567394": {
+    "en": "Aichi Prefecture Shitara",
+    "ja": "愛知県 設楽町"
+  },
+  "4567396": {
+    "en": "Aichi Prefecture Oguchi",
+    "ja": "愛知県 大口町"
+  },
+  "4567399": {
+    "en": "Aichi Prefecture Oharu",
+    "ja": "愛知県 大治町"
+  },
+  "4567401": {
+    "en": "Aichi Prefecture Obu",
+    "ja": "愛知県 大府市"
+  },
+  "4567404": {
+    "en": "Aichi Prefecture Chita",
+    "ja": "愛知県 知多市"
+  },
+  "4567406": {
+    "en": "Aichi Prefecture Chiryu",
+    "ja": "愛知県 知立市"
+  },
+  "4567408": {
+    "en": "Aichi Prefecture Nagakute",
+    "ja": "愛知県 長久手市"
+  },
+  "4567411": {
+    "en": "Aichi Prefecture Tsushima",
+    "ja": "愛知県 津島市"
+  },
+  "4567413": {
+    "en": "Aichi Prefecture Tahara",
+    "ja": "愛知県 田原市"
+  },
+  "4567428": {
+    "en": "Aichi Prefecture Higashiura",
+    "ja": "愛知県 東浦町"
+  },
+  "4567429": {
+    "en": "Aichi Prefecture Toei",
+    "ja": "愛知県 東栄町"
+  },
+  "4567431": {
+    "en": "Aichi Prefecture Tokai",
+    "ja": "愛知県 東海市"
+  },
+  "4567433": {
+    "en": "Aichi Prefecture Togo",
+    "ja": "愛知県 東郷町"
+  },
+  "4567434": {
+    "en": "Aichi Prefecture Minamichita",
+    "ja": "愛知県 南知多町"
+  },
+  "4567435": {
+    "en": "Aichi Prefecture Nisshin",
+    "ja": "愛知県 日進市"
+  },
+  "4567438": {
+    "en": "Aichi Prefecture Handa",
+    "ja": "愛知県 半田市"
+  },
+  "4567440": {
+    "en": "Aichi Prefecture Tobishima",
+    "ja": "愛知県 飛島村"
+  },
+  "4567441": {
+    "en": "Aichi Prefecture Owariasahi",
+    "ja": "愛知県 尾張旭市"
+  },
+  "4567442": {
+    "en": "Aichi Prefecture Mihama",
+    "ja": "愛知県 美浜町"
+  },
+  "4567443": {
+    "en": "Aichi Prefecture Fuso",
+    "ja": "愛知県 扶桑町"
+  },
+  "4567446": {
+    "en": "Aichi Prefecture Taketoyo",
+    "ja": "愛知県 武豊町"
+  },
+  "4567447": {
+    "en": "Aichi Prefecture Hekinan",
+    "ja": "愛知県 碧南市"
+  },
+  "4567451": {
+    "en": "Aichi Prefecture Toyohashi",
+    "ja": "愛知県 豊橋市"
+  },
+  "4567465": {
+    "en": "Aichi Prefecture Toyone",
+    "ja": "愛知県 豊根村"
+  },
+  "4567484": {
+    "en": "Aichi Prefecture Toyoyama",
+    "ja": "愛知県 豊山町"
+  },
+  "4567487": {
+    "en": "Aichi Prefecture Toyokawa",
+    "ja": "愛知県 豊川市"
+  },
+  "4567509": {
+    "en": "Aichi Prefecture Toyota",
+    "ja": "愛知県 豊田市"
+  },
+  "4567511": {
+    "en": "Aichi Prefecture Toyoake",
+    "ja": "愛知県 豊明市"
+  },
+  "4567518": {
+    "en": "Aichi Prefecture Kitanagoya",
+    "ja": "愛知県 北名古屋市"
+  },
+  "4567522": {
+    "en": "Aichi Prefecture Yatomi",
+    "ja": "愛知県 弥富市"
+  },
+  "4576938": {
+    "en": "Aichi Prefecture Nagoya",
+    "ja": "愛知県 名古屋市"
+  },
+  "4674444": {
+    "en": "Shizuoka Prefecture Ito",
+    "ja": "静岡県 伊東市"
+  },
+  "4674446": {
+    "en": "Shizuoka Prefecture Izunokuni",
+    "ja": "静岡県 伊豆の国市"
+  },
+  "4674447": {
+    "en": "Shizuoka Prefecture Izu",
+    "ja": "静岡県 伊豆市"
+  },
+  "4674472": {
+    "en": "Shizuoka Prefecture Shimoda",
+    "ja": "静岡県 下田市"
+  },
+  "4674474": {
+    "en": "Shizuoka Prefecture Kawadu",
+    "ja": "静岡県 河津町"
+  },
+  "4674487": {
+    "en": "Shizuoka Prefecture Kakegawa",
+    "ja": "静岡県 掛川市"
+  },
+  "4674488": {
+    "en": "Shizuoka Prefecture Kikugawa",
+    "ja": "静岡県 菊川市"
+  },
+  "4674490": {
+    "en": "Shizuoka Prefecture Yoshida",
+    "ja": "静岡県 吉田町"
+  },
+  "4674507": {
+    "en": "Shizuoka Prefecture Kosai",
+    "ja": "静岡県 湖西市"
+  },
+  "4674508": {
+    "en": "Shizuoka Prefecture Omaezaki",
+    "ja": "静岡県 御前崎市"
+  },
+  "4674509": {
+    "en": "Shizuoka Prefecture Mishima",
+    "ja": "静岡県 三島市"
+  },
+  "4674527": {
+    "en": "Shizuoka Prefecture Oyama",
+    "ja": "静岡県 小山町"
+  },
+  "4674538": {
+    "en": "Shizuoka Prefecture Matsuzaki",
+    "ja": "静岡県 松崎町"
+  },
+  "4674541": {
+    "en": "Shizuoka Prefecture Numazu",
+    "ja": "静岡県 沼津市"
+  },
+  "4674542": {
+    "en": "Shizuoka Prefecture Yaizu",
+    "ja": "静岡県 焼津市"
+  },
+  "4674547": {
+    "en": "Shizuoka Prefecture Mori",
+    "ja": "静岡県 森町"
+  },
+  "4674550": {
+    "en": "Shizuoka Prefecture Susono",
+    "ja": "静岡県 裾野市"
+  },
+  "4674584": {
+    "en": "Shizuoka Prefecture Shimizu",
+    "ja": "静岡県 清水町"
+  },
+  "4674600": {
+    "en": "Shizuoka Prefecture Nishiizu",
+    "ja": "静岡県 西伊豆町"
+  },
+  "4674617": {
+    "en": "Shizuoka Prefecture Atami",
+    "ja": "静岡県 熱海市"
+  },
+  "4674625": {
+    "en": "Shizuoka Prefecture Kannami",
+    "ja": "静岡県 函南町"
+  },
+  "4674644": {
+    "en": "Shizuoka Prefecture Iwata",
+    "ja": "静岡県 磐田市"
+  },
+  "4674648": {
+    "en": "Shizuoka Prefecture Fujinomiya",
+    "ja": "静岡県 富士宮市"
+  },
+  "4674651": {
+    "en": "Shizuoka Prefecture Fuji",
+    "ja": "静岡県 富士市"
+  },
+  "4674654": {
+    "en": "Shizuoka Prefecture Makinohara",
+    "ja": "静岡県 牧之原市"
+  },
+  "4674741": {
+    "en": "Shizuoka Prefecture Hamamatsu",
+    "ja": "静岡県 浜松市"
+  },
+  "4674742": {
+    "en": "Shizuoka Prefecture Shizuoka",
+    "ja": "静岡県 静岡市"
+  },
+  "4674786": {
+    "en": "Shizuoka Prefecture Fukuroi",
+    "ja": "静岡県 袋井市"
+  },
+  "4674878": {
+    "en": "Shizuoka Prefecture Kawanehoncho",
+    "ja": "静岡県 川根本町"
+  },
+  "4674897": {
+    "en": "Shizuoka Prefecture Shimada",
+    "ja": "静岡県 島田市"
+  },
+  "4674924": {
+    "en": "Shizuoka Prefecture Fujieda",
+    "ja": "静岡県 藤枝市"
+  },
+  "4679108": {
+    "en": "Shizuoka Prefecture Gotenba",
+    "ja": "静岡県 御殿場市"
+  },
+  "4679110": {
+    "en": "Shizuoka Prefecture Higashiizu",
+    "ja": "静岡県 東伊豆町"
+  },
+  "4679112": {
+    "en": "Shizuoka Prefecture Minamiizu",
+    "ja": "静岡県 南伊豆町"
+  },
+  "4679114": {
+    "en": "Shizuoka Prefecture Nagaizumi",
+    "ja": "静岡県 長泉町"
+  },
+  "4716553": {
+    "en": "Gifu Prefecture Anpachi",
+    "ja": "岐阜県 安八町"
+  },
+  "4716563": {
+    "en": "Gifu Prefecture Hashima",
+    "ja": "岐阜県 羽島市"
+  },
+  "4716614": {
+    "en": "Gifu Prefecture Gero",
+    "ja": "岐阜県 下呂市"
+  },
+  "4716618": {
+    "en": "Gifu Prefecture Kani",
+    "ja": "岐阜県 可児市"
+  },
+  "4716636": {
+    "en": "Gifu Prefecture Kaizu",
+    "ja": "岐阜県 海津市"
+  },
+  "4716640": {
+    "en": "Gifu Prefecture Kakamigahara",
+    "ja": "岐阜県 各務原市"
+  },
+  "4716644": {
+    "en": "Gifu Prefecture Kasamatsu",
+    "ja": "岐阜県 笠松町"
+  },
+  "4716646": {
+    "en": "Gifu Prefecture Sekigahara",
+    "ja": "岐阜県 関ケ原町"
+  },
+  "4716678": {
+    "en": "Gifu Prefecture Seki",
+    "ja": "岐阜県 関市"
+  },
+  "4716679": {
+    "en": "Gifu Prefecture Ginan",
+    "ja": "岐阜県 岐南町"
+  },
+  "4716682": {
+    "en": "Gifu Prefecture Gifu",
+    "ja": "岐阜県 岐阜市"
+  },
+  "4716688": {
+    "en": "Gifu Prefecture Gujo",
+    "ja": "岐阜県 郡上市"
+  },
+  "4716749": {
+    "en": "Gifu Prefecture Ena",
+    "ja": "岐阜県 恵那市"
+  },
+  "4716782": {
+    "en": "Gifu Prefecture Mitake",
+    "ja": "岐阜県 御嵩町"
+  },
+  "4716819": {
+    "en": "Gifu Prefecture Takayama",
+    "ja": "岐阜県 高山市"
+  },
+  "4716820": {
+    "en": "Gifu Prefecture Sakahogi",
+    "ja": "岐阜県 坂祝町"
+  },
+  "4716827": {
+    "en": "Gifu Prefecture Yamagata",
+    "ja": "岐阜県 山県市"
+  },
+  "4716841": {
+    "en": "Gifu Prefecture Hichisou",
+    "ja": "岐阜県 七宗町"
+  },
+  "4716842": {
+    "en": "Gifu Prefecture Godo",
+    "ja": "岐阜県 神戸町"
+  },
+  "4716849": {
+    "en": "Gifu Prefecture Tarui",
+    "ja": "岐阜県 垂井町"
+  },
+  "4716855": {
+    "en": "Gifu Prefecture Mizuho",
+    "ja": "岐阜県 瑞穂市"
+  },
+  "4716862": {
+    "en": "Gifu Prefecture Mizunami",
+    "ja": "岐阜県 瑞浪市"
+  },
+  "4716869": {
+    "en": "Gifu Prefecture Kawabe",
+    "ja": "岐阜県 川辺町"
+  },
+  "4716872": {
+    "en": "Gifu Prefecture Tajimi",
+    "ja": "岐阜県 多治見市"
+  },
+  "4716878": {
+    "en": "Gifu Prefecture Ogaki",
+    "ja": "岐阜県 大垣市"
+  },
+  "4716885": {
+    "en": "Gifu Prefecture Ono",
+    "ja": "岐阜県 大野町"
+  },
+  "4716897": {
+    "en": "Gifu Prefecture Ikeda",
+    "ja": "岐阜県 池田町"
+  },
+  "4716901": {
+    "en": "Gifu Prefecture Nakatsugawa",
+    "ja": "岐阜県 中津川市"
+  },
+  "4716909": {
+    "en": "Gifu Prefecture Toki",
+    "ja": "岐阜県 土岐市"
+  },
+  "4716911": {
+    "en": "Gifu Prefecture Higashishirakawa",
+    "ja": "岐阜県 東白川村"
+  },
+  "4716918": {
+    "en": "Gifu Prefecture Shirakawa",
+    "ja": "岐阜県 白川村"
+  },
+  "4716944": {
+    "en": "Gifu Prefecture Shirakawa",
+    "ja": "岐阜県 白川町"
+  },
+  "4716964": {
+    "en": "Gifu Prefecture Yaotsu",
+    "ja": "岐阜県 八百津町"
+  },
+  "4716973": {
+    "en": "Gifu Prefecture Hida",
+    "ja": "岐阜県 飛騨市"
+  },
+  "4716976": {
+    "en": "Gifu Prefecture Minokamo",
+    "ja": "岐阜県 美濃加茂市"
+  },
+  "4716991": {
+    "en": "Gifu Prefecture Mino",
+    "ja": "岐阜県 美濃市"
+  },
+  "4716992": {
+    "en": "Gifu Prefecture Tomika",
+    "ja": "岐阜県 富加町"
+  },
+  "4717027": {
+    "en": "Gifu Prefecture Kitagata",
+    "ja": "岐阜県 北方町"
+  },
+  "4717033": {
+    "en": "Gifu Prefecture Motosu",
+    "ja": "岐阜県 本巣市"
+  },
+  "4717041": {
+    "en": "Gifu Prefecture Ibigawa",
+    "ja": "岐阜県 揖斐川町"
+  },
+  "4717043": {
+    "en": "Gifu Prefecture Yoro",
+    "ja": "岐阜県 養老町"
+  },
+  "4717046": {
+    "en": "Gifu Prefecture Wanouchi",
+    "ja": "岐阜県 輪之内町"
+  },
+  "4756340": {
+    "en": "Nagano Prefecture Achi",
+    "ja": "長野県 阿智村"
+  },
+  "4756342": {
+    "en": "Nagano Prefecture Anan",
+    "ja": "長野県 阿南町"
+  },
+  "4756346": {
+    "en": "Nagano Prefecture Adumino",
+    "ja": "長野県 安曇野市"
+  },
+  "4756351": {
+    "en": "Nagano Prefecture Ina",
+    "ja": "長野県 伊那市"
+  },
+  "4756357": {
+    "en": "Nagano Prefecture Sakae",
+    "ja": "長野県 栄村"
+  },
+  "4756358": {
+    "en": "Nagano Prefecture Shiojiri",
+    "ja": "長野県 塩尻市"
+  },
+  "4756359": {
+    "en": "Nagano Prefecture Otaki",
+    "ja": "長野県 王滝村"
+  },
+  "4756405": {
+    "en": "Nagano Prefecture Shimosuwa",
+    "ja": "長野県 下諏訪町"
+  },
+  "4756470": {
+    "en": "Nagano Prefecture Shimojo",
+    "ja": "長野県 下條村"
+  },
+  "4756600": {
+    "en": "Nagano Prefecture Chino",
+    "ja": "長野県 茅野市"
+  },
+  "4756602": {
+    "en": "Nagano Prefecture Miyada",
+    "ja": "長野県 宮田村"
+  },
+  "4756644": {
+    "en": "Nagano Prefecture Takagi",
+    "ja": "長野県 喬木村"
+  },
+  "4756648": {
+    "en": "Nagano Prefecture Komagane",
+    "ja": "長野県 駒ヶ根市"
+  },
+  "4756686": {
+    "en": "Nagano Prefecture Hara",
+    "ja": "長野県 原村"
+  },
+  "4756835": {
+    "en": "Nagano Prefecture Takayama",
+    "ja": "長野県 高山村"
+  },
+  "4759233": {
+    "en": "Nagano Prefecture Takamori",
+    "ja": "長野県 高森町"
+  },
+  "4759234": {
+    "en": "Nagano Prefecture Neba",
+    "ja": "長野県 根羽村"
+  },
+  "4759249": {
+    "en": "Nagano Prefecture Sakaki",
+    "ja": "長野県 坂城町"
+  },
+  "4759278": {
+    "en": "Nagano Prefecture Yamanouchi",
+    "ja": "長野県 山ノ内町"
+  },
+  "4759279": {
+    "en": "Nagano Prefecture Yamagata",
+    "ja": "長野県 山形村"
+  },
+  "4759280": {
+    "en": "Nagano Prefecture Ogawa",
+    "ja": "長野県 小川村"
+  },
+  "4759284": {
+    "en": "Nagano Prefecture Otari",
+    "ja": "長野県 小谷村"
+  },
+  "4759285": {
+    "en": "Nagano Prefecture Obuse",
+    "ja": "長野県 小布施町"
+  },
+  "4759286": {
+    "en": "Nagano Prefecture Matsukawa",
+    "ja": "長野県 松川村"
+  },
+  "4759287": {
+    "en": "Nagano Prefecture Matsukawa",
+    "ja": "長野県 松川町"
+  },
+  "4759295": {
+    "en": "Nagano Prefecture Agematsu",
+    "ja": "長野県 上松町"
+  },
+  "4759313": {
+    "en": "Nagano Prefecture Shinano",
+    "ja": "長野県 信濃町"
+  },
+  "4759341": {
+    "en": "Nagano Prefecture Ikusaka",
+    "ja": "長野県 生坂村"
+  },
+  "4759358": {
+    "en": "Nagano Prefecture Aoki",
+    "ja": "長野県 青木村"
+  },
+  "4759362": {
+    "en": "Nagano Prefecture Chikuma",
+    "ja": "長野県 千曲市"
+  },
+  "4759366": {
+    "en": "Nagano Prefecture Yasuoka",
+    "ja": "長野県 泰阜村"
+  },
+  "4759377": {
+    "en": "Nagano Prefecture Ookuwa",
+    "ja": "長野県 大桑村"
+  },
+  "4759378": {
+    "en": "Nagano Prefecture Oshika",
+    "ja": "長野県 大鹿村"
+  },
+  "4759380": {
+    "en": "Nagano Prefecture Omachi",
+    "ja": "長野県 大町市"
+  },
+  "4759846": {
+    "en": "Nagano Prefecture Tatsuno",
+    "ja": "長野県 辰野町"
+  },
+  "4759847": {
+    "en": "Nagano Prefecture Ikeda",
+    "ja": "長野県 池田町"
+  },
+  "4759859": {
+    "en": "Nagano Prefecture Chikuhoku",
+    "ja": "長野県 筑北村"
+  },
+  "4759887": {
+    "en": "Nagano Prefecture Nakagawa",
+    "ja": "長野県 中川村"
+  },
+  "4759891": {
+    "en": "Nagano Prefecture Nakano",
+    "ja": "長野県 中野市"
+  },
+  "4759892": {
+    "en": "Nagano Prefecture Asahi",
+    "ja": "長野県 朝日村"
+  },
+  "4759904": {
+    "en": "Nagano Prefecture Nagawa",
+    "ja": "長野県 長和町"
+  },
+  "4759907": {
+    "en": "Nagano Prefecture Tenryu",
+    "ja": "長野県 天龍村"
+  },
+  "4759928": {
+    "en": "Nagano Prefecture Minamiminowa",
+    "ja": "長野県 南箕輪村"
+  },
+  "4759929": {
+    "en": "Nagano Prefecture Nagiso",
+    "ja": "長野県 南木曽町"
+  },
+  "4759930": {
+    "en": "Nagano Prefecture Urugi",
+    "ja": "長野県 売木村"
+  },
+  "4759944": {
+    "en": "Nagano Prefecture Hakuba",
+    "ja": "長野県 白馬村"
+  },
+  "4759946": {
+    "en": "Nagano Prefecture Iizuna",
+    "ja": "長野県 飯綱町"
+  },
+  "4759953": {
+    "en": "Nagano Prefecture Iiyama",
+    "ja": "長野県 飯山市"
+  },
+  "4759962": {
+    "en": "Nagano Prefecture Iijima",
+    "ja": "長野県 飯島町"
+  },
+  "4759968": {
+    "en": "Nagano Prefecture Fujimi",
+    "ja": "長野県 富士見町"
+  },
+  "4759975": {
+    "en": "Nagano Prefecture Hiraya",
+    "ja": "長野県 平谷村"
+  },
+  "4759983": {
+    "en": "Nagano Prefecture Toyooka",
+    "ja": "長野県 豊丘村"
+  },
+  "4759992": {
+    "en": "Nagano Prefecture Omi",
+    "ja": "長野県 麻績村"
+  },
+  "4760003": {
+    "en": "Nagano Prefecture Minowa",
+    "ja": "長野県 箕輪町"
+  },
+  "4760004": {
+    "en": "Nagano Prefecture Kiso",
+    "ja": "長野県 木曽町"
+  },
+  "4760012": {
+    "en": "Nagano Prefecture Kiso",
+    "ja": "長野県 木祖村"
+  },
+  "4760015": {
+    "en": "Nagano Prefecture Kijimadaira",
+    "ja": "長野県 木島平村"
+  },
+  "4760024": {
+    "en": "Nagano Prefecture Nozawaonsen",
+    "ja": "長野県 野沢温泉村"
+  },
+  "4791881": {
+    "en": "Yamanashi Prefecture Koshu",
+    "ja": "山梨県 甲州市"
+  },
+  "4791884": {
+    "en": "Yamanashi Prefecture Kai",
+    "ja": "山梨県 甲斐市"
+  },
+  "4791896": {
+    "en": "Yamanashi Prefecture Kofu",
+    "ja": "山梨県 甲府市"
+  },
+  "4791918": {
+    "en": "Yamanashi Prefecture Yamanakako",
+    "ja": "山梨県 山中湖村"
+  },
+  "4791923": {
+    "en": "Yamanashi Prefecture Yamanashi",
+    "ja": "山梨県 山梨市"
+  },
+  "4791926": {
+    "en": "Yamanashi Prefecture Ichikawamisato",
+    "ja": "山梨県 市川三郷町"
+  },
+  "4791929": {
+    "en": "Yamanashi Prefecture Kosuge",
+    "ja": "山梨県 小菅村"
+  },
+  "4791932": {
+    "en": "Yamanashi Prefecture Showa",
+    "ja": "山梨県 昭和町"
+  },
+  "4791941": {
+    "en": "Yamanashi Prefecture Uenohara",
+    "ja": "山梨県 上野原市"
+  },
+  "4791947": {
+    "en": "Yamanashi Prefecture Minobu",
+    "ja": "山梨県 身延町"
+  },
+  "4791949": {
+    "en": "Yamanashi Prefecture Nishikatsura",
+    "ja": "山梨県 西桂町"
+  },
+  "4791955": {
+    "en": "Yamanashi Prefecture Hayakawa",
+    "ja": "山梨県 早川町"
+  },
+  "4792023": {
+    "en": "Yamanashi Prefecture Otsuki",
+    "ja": "山梨県 大月市"
+  },
+  "4792025": {
+    "en": "Yamanashi Prefecture Tabayama",
+    "ja": "山梨県 丹波山村"
+  },
+  "4792029": {
+    "en": "Yamanashi Prefecture Chuo",
+    "ja": "山梨県 中央市"
+  },
+  "4792039": {
+    "en": "Yamanashi Prefecture Fuefuki",
+    "ja": "山梨県 笛吹市"
+  },
+  "4792041": {
+    "en": "Yamanashi Prefecture Tsuru",
+    "ja": "山梨県 都留市"
+  },
+  "4792042": {
+    "en": "Yamanashi Prefecture Doshi",
+    "ja": "山梨県 道志村"
+  },
+  "4792076": {
+    "en": "Yamanashi Prefecture Minami-Alps",
+    "ja": "山梨県 南アルプス市"
+  },
+  "4792090": {
+    "en": "Yamanashi Prefecture Nanbu",
+    "ja": "山梨県 南部町"
+  },
+  "4792093": {
+    "en": "Yamanashi Prefecture Nirasaki",
+    "ja": "山梨県 韮崎市"
+  },
+  "4792095": {
+    "en": "Yamanashi Prefecture Oshino",
+    "ja": "山梨県 忍野村"
+  },
+  "4792098": {
+    "en": "Yamanashi Prefecture Fujikawaguchiko",
+    "ja": "山梨県 富士河口湖町"
+  },
+  "4792100": {
+    "en": "Yamanashi Prefecture Fujiyoshida",
+    "ja": "山梨県 富士吉田市"
+  },
+  "4792116": {
+    "en": "Yamanashi Prefecture Fujikawa",
+    "ja": "山梨県 富士川町"
+  },
+  "4792125": {
+    "en": "Yamanashi Prefecture Hokuto",
+    "ja": "山梨県 北杜市"
+  },
+  "4792126": {
+    "en": "Yamanashi Prefecture Narusawa",
+    "ja": "山梨県 鳴沢村"
+  },
+  "4799746": {
+    "en": "Fukui Prefecture Awara",
+    "ja": "福井県 あわら市"
+  },
+  "4799765": {
+    "en": "Fukui Prefecture Ooi",
+    "ja": "福井県 おおい町"
+  },
+  "4799779": {
+    "en": "Fukui Prefecture Eiheiji",
+    "ja": "福井県 永平寺町"
+  },
+  "4799780": {
+    "en": "Fukui Prefecture Echizen",
+    "ja": "福井県 越前市"
+  },
+  "4799782": {
+    "en": "Fukui Prefecture Echizen",
+    "ja": "福井県 越前町"
+  },
+  "4799786": {
+    "en": "Fukui Prefecture Takahama",
+    "ja": "福井県 高浜町"
+  },
+  "4799798": {
+    "en": "Fukui Prefecture Sakai",
+    "ja": "福井県 坂井市"
+  },
+  "4799801": {
+    "en": "Fukui Prefecture Sabae",
+    "ja": "福井県 鯖江市"
+  },
+  "4799812": {
+    "en": "Fukui Prefecture Wakasa",
+    "ja": "福井県 若狭町"
+  },
+  "4799813": {
+    "en": "Fukui Prefecture Katsuyama",
+    "ja": "福井県 勝山市"
+  },
+  "4799816": {
+    "en": "Fukui Prefecture Obama",
+    "ja": "福井県 小浜市"
+  },
+  "4799821": {
+    "en": "Fukui Prefecture Ono",
+    "ja": "福井県 大野市"
+  },
+  "4799826": {
+    "en": "Fukui Prefecture Ikeda",
+    "ja": "福井県 池田町"
+  },
+  "4799831": {
+    "en": "Fukui Prefecture Tsuruga",
+    "ja": "福井県 敦賀市"
+  },
+  "4799842": {
+    "en": "Fukui Prefecture Minamiechizen",
+    "ja": "福井県 南越前町"
+  },
+  "4799844": {
+    "en": "Fukui Prefecture Mihama",
+    "ja": "福井県 美浜町"
+  },
+  "4799846": {
+    "en": "Fukui Prefecture Fukui",
+    "ja": "福井県 福井市"
+  },
+  "4800029": {
+    "en": "Ishikawa Prefecture Kahoku",
+    "ja": "石川県 かほく市"
+  },
+  "4800030": {
+    "en": "Ishikawa Prefecture Hakui",
+    "ja": "石川県 羽咋市"
+  },
+  "4800035": {
+    "en": "Ishikawa Prefecture Kaga",
+    "ja": "石川県 加賀市"
+  },
+  "4800041": {
+    "en": "Ishikawa Prefecture Kanazawa",
+    "ja": "石川県 金沢市"
+  },
+  "4800047": {
+    "en": "Ishikawa Prefecture Anamizu",
+    "ja": "石川県 穴水町"
+  },
+  "4800060": {
+    "en": "Ishikawa Prefecture Shika",
+    "ja": "石川県 志賀町"
+  },
+  "4800065": {
+    "en": "Ishikawa Prefecture Nanao",
+    "ja": "石川県 七尾市"
+  },
+  "4800070": {
+    "en": "Ishikawa Prefecture Suzu",
+    "ja": "石川県 珠洲市"
+  },
+  "4800202": {
+    "en": "Ishikawa Prefecture Komatsu",
+    "ja": "石川県 小松市"
+  },
+  "4800227": {
+    "en": "Ishikawa Prefecture Kawakita",
+    "ja": "石川県 川北町"
+  },
+  "4800228": {
+    "en": "Ishikawa Prefecture Nakanoto",
+    "ja": "石川県 中能登町"
+  },
+  "4800236": {
+    "en": "Ishikawa Prefecture Tsubata",
+    "ja": "石川県 津幡町"
+  },
+  "4800237": {
+    "en": "Ishikawa Prefecture Uchinada",
+    "ja": "石川県 内灘町"
+  },
+  "4800240": {
+    "en": "Ishikawa Prefecture Noto",
+    "ja": "石川県 能登町"
+  },
+  "4800241": {
+    "en": "Ishikawa Prefecture Nomi",
+    "ja": "石川県 能美市"
+  },
+  "4800246": {
+    "en": "Ishikawa Prefecture Hakusan",
+    "ja": "石川県 白山市"
+  },
+  "4800248": {
+    "en": "Ishikawa Prefecture Hodatsushimizu",
+    "ja": "石川県 宝達志水町"
+  },
+  "4800249": {
+    "en": "Ishikawa Prefecture Nonoichi",
+    "ja": "石川県 野々市市"
+  },
+  "4800266": {
+    "en": "Ishikawa Prefecture Wajima",
+    "ja": "石川県 輪島市"
+  },
+  "4807795": {
+    "en": "Toyama Prefecture Namerikawa",
+    "ja": "富山県 滑川市"
+  },
+  "4807796": {
+    "en": "Toyama Prefecture Uozu",
+    "ja": "富山県 魚津市"
+  },
+  "4807803": {
+    "en": "Toyama Prefecture Takaoka",
+    "ja": "富山県 高岡市"
+  },
+  "4807806": {
+    "en": "Toyama Prefecture Kurobe",
+    "ja": "富山県 黒部市"
+  },
+  "4807808": {
+    "en": "Toyama Prefecture Imizu",
+    "ja": "富山県 射水市"
+  },
+  "4807810": {
+    "en": "Toyama Prefecture Funahashi",
+    "ja": "富山県 舟橋村"
+  },
+  "4807813": {
+    "en": "Toyama Prefecture Oyabe",
+    "ja": "富山県 小矢部市"
+  },
+  "4807814": {
+    "en": "Toyama Prefecture Kamiichi",
+    "ja": "富山県 上市町"
+  },
+  "4807818": {
+    "en": "Toyama Prefecture Asahi",
+    "ja": "富山県 朝日町"
+  },
+  "4807819": {
+    "en": "Toyama Prefecture Tonami",
+    "ja": "富山県 砺波市"
+  },
+  "4807820": {
+    "en": "Toyama Prefecture Nanto",
+    "ja": "富山県 南砺市"
+  },
+  "4807822": {
+    "en": "Toyama Prefecture Nyuzen",
+    "ja": "富山県 入善町"
+  },
+  "4807826": {
+    "en": "Toyama Prefecture Himi",
+    "ja": "富山県 氷見市"
+  },
+  "4807827": {
+    "en": "Toyama Prefecture Toyama",
+    "ja": "富山県 富山市"
+  },
+  "4807828": {
+    "en": "Toyama Prefecture Tateyama",
+    "ja": "富山県 立山町"
+  },
+  "4817098": {
+    "en": "Niigata Prefecture Awashimaura",
+    "ja": "新潟県 粟島浦村"
+  },
+  "4846973": {
+    "en": "Tochigi Prefecture Sakura",
+    "ja": "栃木県 さくら市"
+  },
+  "4846975": {
+    "en": "Tochigi Prefecture Utsunomiya",
+    "ja": "栃木県 宇都宮市"
+  },
+  "4846976": {
+    "en": "Tochigi Prefecture Mashiko",
+    "ja": "栃木県 益子町"
+  },
+  "4846977": {
+    "en": "Tochigi Prefecture Shioya",
+    "ja": "栃木県 塩谷町"
+  },
+  "4846993": {
+    "en": "Tochigi Prefecture Sano",
+    "ja": "栃木県 佐野市"
+  },
+  "4846994": {
+    "en": "Tochigi Prefecture Ichikai",
+    "ja": "栃木県 市貝町"
+  },
+  "4846995": {
+    "en": "Tochigi Prefecture Kanuma",
+    "ja": "栃木県 鹿沼市"
+  },
+  "4847006": {
+    "en": "Tochigi Prefecture Mibu",
+    "ja": "栃木県 壬生町"
+  },
+  "4847007": {
+    "en": "Tochigi Prefecture Ashikaga",
+    "ja": "栃木県 足利市"
+  },
+  "4847009": {
+    "en": "Tochigi Prefecture Ohtawara",
+    "ja": "栃木県 大田原市"
+  },
+  "4847014": {
+    "en": "Tochigi Prefecture Tochigi",
+    "ja": "栃木県 栃木市"
+  },
+  "4847015": {
+    "en": "Tochigi Prefecture Nakagawa",
+    "ja": "栃木県 那珂川町"
+  },
+  "4847016": {
+    "en": "Tochigi Prefecture Nasukarasuyama",
+    "ja": "栃木県 那須烏山市"
+  },
+  "4847039": {
+    "en": "Tochigi Prefecture Haga",
+    "ja": "栃木県 芳賀町"
+  },
+  "4847040": {
+    "en": "Tochigi Prefecture Motegi",
+    "ja": "栃木県 茂木町"
+  },
+  "4847042": {
+    "en": "Tochigi Prefecture Nogi",
+    "ja": "栃木県 野木町"
+  },
+  "4847044": {
+    "en": "Tochigi Prefecture Yaita",
+    "ja": "栃木県 矢板市"
+  },
+  "5100276": {
+    "en": "Tokyo Machida",
+    "ja": "東京都 町田市"
+  },
+  "5299311": {
+    "en": "Tokyo Okutama",
+    "ja": "東京都 奥多摩町"
+  },
+  "5301344": {
+    "en": "Tokyo Akiruno",
+    "ja": "東京都 あきる野市"
+  },
+  "5301345": {
+    "en": "Tokyo Hinode",
+    "ja": "東京都 日の出町"
+  },
+  "5301346": {
+    "en": "Tokyo Hinohara",
+    "ja": "東京都 檜原村"
+  },
+  "5301559": {
+    "en": "Tokyo Hamura",
+    "ja": "東京都 羽村市"
+  },
+  "5301639": {
+    "en": "Tokyo Hachioji",
+    "ja": "東京都 八王子市"
+  },
+  "5301640": {
+    "en": "Tokyo Akishima",
+    "ja": "東京都 昭島市"
+  },
+  "5301641": {
+    "en": "Tokyo Musashimurayama",
+    "ja": "東京都 武蔵村山市"
+  },
+  "5301642": {
+    "en": "Tokyo Mizuho",
+    "ja": "東京都 瑞穂町"
+  },
+  "5301643": {
+    "en": "Tokyo Fussa",
+    "ja": "東京都 福生市"
+  },
+  "5301789": {
+    "en": "Tokyo Tama",
+    "ja": "東京都 多摩市"
+  },
+  "5301790": {
+    "en": "Tokyo Hino",
+    "ja": "東京都 日野市"
+  },
+  "5302157": {
+    "en": "Tokyo Kokubunji",
+    "ja": "東京都 国分寺市"
+  },
+  "5302158": {
+    "en": "Tokyo Kunitachi",
+    "ja": "東京都 国立市"
+  },
+  "5302159": {
+    "en": "Tokyo Kodaira",
+    "ja": "東京都 小平市"
+  },
+  "5302160": {
+    "en": "Tokyo Higashiyamato",
+    "ja": "東京都 東大和市"
+  },
+  "5302161": {
+    "en": "Tokyo Higashimurayama",
+    "ja": "東京都 東村山市"
+  },
+  "5302326": {
+    "en": "Tokyo Koganei",
+    "ja": "東京都 小金井市"
+  },
+  "5302327": {
+    "en": "Tokyo Fuchu",
+    "ja": "東京都 府中市"
+  },
+  "5302328": {
+    "en": "Tokyo Higashikurume",
+    "ja": "東京都 東久留米市"
+  },
+  "5302329": {
+    "en": "Tokyo Kiyose",
+    "ja": "東京都 清瀬市"
+  },
+  "5302330": {
+    "en": "Tokyo Nishitokyo",
+    "ja": "東京都 西東京市"
+  },
+  "5303898": {
+    "en": "Tokyo Chofu",
+    "ja": "東京都 調布市"
+  },
+  "5305020": {
+    "en": "Tokyo Hachijo",
+    "ja": "東京都 八丈町"
+  },
+  "5305021": {
+    "en": "Tokyo Aogashima",
+    "ja": "東京都 青ヶ島村"
+  },
+  "5318173": {
+    "en": "Gunma Prefecture Tsumagoi",
+    "ja": "群馬県 嬬恋村"
+  },
+  "5318174": {
+    "en": "Gunma Prefecture Naganohara",
+    "ja": "群馬県 長野原町"
+  },
+  "5321164": {
+    "en": "Gunma Prefecture Nakanojo",
+    "ja": "群馬県 中之条町"
+  },
+  "5321165": {
+    "en": "Gunma Prefecture Higashiagatsuma",
+    "ja": "群馬県 東吾妻町"
+  },
+  "5322574": {
+    "en": "Gunma Prefecture Takayama",
+    "ja": "群馬県 高山村"
+  },
+  "5322633": {
+    "en": "Gunma Prefecture Yoshioka",
+    "ja": "群馬県 吉岡町"
+  },
+  "5322634": {
+    "en": "Gunma Prefecture Shinto",
+    "ja": "群馬県 榛東村"
+  },
+  "5322709": {
+    "en": "Gunma Prefecture Nanmoku",
+    "ja": "群馬県 南牧村"
+  },
+  "5322710": {
+    "en": "Gunma Prefecture Kanra",
+    "ja": "群馬県 甘楽町"
+  },
+  "5322755": {
+    "en": "Gunma Prefecture Minakami",
+    "ja": "群馬県 みなかみ町"
+  },
+  "5322850": {
+    "en": "Gunma Prefecture Kawaba",
+    "ja": "群馬県 川場村"
+  },
+  "5322851": {
+    "en": "Gunma Prefecture Showa",
+    "ja": "群馬県 昭和村"
+  },
+  "5325122": {
+    "en": "Gunma Prefecture Chiyoda",
+    "ja": "群馬県 千代田町"
+  },
+  "5325123": {
+    "en": "Gunma Prefecture Oizumi",
+    "ja": "群馬県 大泉町"
+  }
+}
