@@ -194,7 +194,7 @@ const getAllCityData = async (country_osm_id) => {
   }
   // 国レベルの都道府県+市区町村 オブジェクト
   const level_7_obj_string = JSON.stringify(level_7_obj, null, 2);
-  await fs.writeFile(basedir+country_osm_id+'/'+level_7_names_filename, level_7_obj_string, 'utf-8');
+  await fs.writeFile(basedir+country_osm_id+'/'+level_7_object_filename, level_7_obj_string, 'utf-8');
 
   // 国レベルの都道府県+市区町村 英語オブジェクト
   const level_7_obj_en_string = JSON.stringify(level_7_obj_en, null, 2);
@@ -214,17 +214,26 @@ const getAllCityData = async (country_osm_id) => {
 };
 
 (async() => {
-  //await getAllCountryData();
-  const allCountry = require(basedir_en+level_2_object_filename);
-  const country_osm_id = allCountry['Japan'];
+  try {
+    await fs.stat(basedir+level_2_object_filename);
+  } catch (error) {
+    await getAllCountryData();
+  }
 
-  const country_geojson = osmGeoJson.get(country_osm_id);
+  const countryName = 'Japan';
+  const allCountry = require(basedir_en+level_2_object_filename);
+  const country_osm_id = allCountry[countryName];
+
+  const country_geojson = await osmGeoJson.get(country_osm_id);
   const country_geojson_string = JSON.stringify(country_geojson, null, 2);
   const countryGeojsonPath = basedir+country_osm_id+'/'+level_2_geojson_filename;
   await fs.writeFile(countryGeojsonPath, country_geojson_string, 'utf-8');
 
-  //await getAllStateData('Japan', country_osm_id);
+  //await getAllStateData(countryName, country_osm_id);
   //await getAllCityData(country_osm_id);
+
+  // geojsonを収集する
+  /*
   const allState = require(basedir+country_osm_id+'/'+level_4_object_filename);
   for (const state_osm_id in allState) {
     const state_geojson = await osmGeoJson.get(state_osm_id);
@@ -233,5 +242,6 @@ const getAllCityData = async (country_osm_id) => {
     const geojsonPath = basedir+country_osm_id+'/'+state_osm_id+'/'+level_4_geojson_filename;
     await fs.writeFile(geojsonPath, state_geojson_string, 'utf-8');
   }
+  */
 
 })();
