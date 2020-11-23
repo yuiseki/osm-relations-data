@@ -1,13 +1,16 @@
 const fetch = require('node-fetch');
 const fs = require('fs').promises;
+const osmGeoJson = require('osm-geojson');
 
 const basedir = './data/osm/';
 const basedir_en = './data/osm_en/';
 const basedir_ja = './data/osm_ja/';
 const level_2_names_filename = 'level_2_names.json';
 const level_2_object_filename = 'level_2_object.json';
+const level_2_geojson_filename = 'index.geojson';
 const level_4_names_filename = 'level_4_names.json';
 const level_4_object_filename = 'level_4_object.json';
+const level_4_geojson_filename = 'index.geojson';
 const level_7_names_filename = 'level_7_names.json';
 const level_7_object_filename = 'level_7_object.json';
 
@@ -214,8 +217,21 @@ const getAllCityData = async (country_osm_id) => {
   //await getAllCountryData();
   const allCountry = require(basedir_en+level_2_object_filename);
   const country_osm_id = allCountry['Japan'];
-  //await getAllStateData('Japan', country_osm_id);
-  await getAllCityData(country_osm_id);
 
+  const country_geojson = osmGeoJson.get(country_osm_id);
+  const country_geojson_string = JSON.stringify(country_geojson, null, 2);
+  const countryGeojsonPath = basedir+country_osm_id+'/'+level_2_geojson_filename;
+  await fs.writeFile(countryGeojsonPath, country_geojson_string, 'utf-8');
+
+  //await getAllStateData('Japan', country_osm_id);
+  //await getAllCityData(country_osm_id);
+  const allState = require(basedir+country_osm_id+'/'+level_4_object_filename);
+  for (const state_osm_id in allState) {
+    const state_geojson = await osmGeoJson.get(state_osm_id);
+    const state_geojson_string = JSON.stringify(state_geojson, null, 2);
+    console.log(state_geojson);
+    const geojsonPath = basedir+country_osm_id+'/'+state_osm_id+'/'+level_4_geojson_filename;
+    await fs.writeFile(geojsonPath, state_geojson_string, 'utf-8');
+  }
 
 })();

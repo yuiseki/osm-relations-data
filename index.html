@@ -1,0 +1,55 @@
+<head>
+  <title>geonlp-json demo</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+  integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+  <style type="text/css">
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    #map {
+      position: relative;
+      z-index: 1;
+      width: 100%;
+      height: 80%;
+    }
+  </style>
+</head>
+<body>
+
+<h1>osm-relations-data demo</h1>
+<h3><a href="https://github.com/yuiseki/osm-relations-data">https://github.com/yuiseki/osm-relations-data</a></h3>
+
+<div id="map"></div>
+</body>
+
+<script>
+(async () => {
+  // 地図の初期化
+  var map = L.map('map', {
+    zoomControl: false
+  }).setView([35.685175, 139.7506162], 6);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+  L.control.zoom({
+    position:'topright'
+  }).addTo(map);
+  var markerLayer = L.layerGroup().addTo(map);
+
+  const japanStatesRes = await fetch('./data/osm/382313/level_4_object.json');
+  const japanStates = await japanStatesRes.json();
+  for (const key in japanStates) {
+    const state = japanStates[key];
+    const res = await fetch('./data/osm/382313/'+key+'/index.geojson');
+    const geojsonFeature = await res.json();
+    L.geoJSON(geojsonFeature).addTo(map);
+  }
+
+
+})();
+</script>
