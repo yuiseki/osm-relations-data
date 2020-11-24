@@ -58,7 +58,7 @@ const fetchOSMRelations = (data, prefix = null) => {
         ja: fullnameJa,
       };
     }
-    await sleep(30000);
+    await sleep(60000);
     resolve({ OSMRelations, OSMRelationsEn, OSMRelationsJa })
   });
 };

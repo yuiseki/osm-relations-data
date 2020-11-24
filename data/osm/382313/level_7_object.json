@@ -43,6 +43,38 @@
     "en": "Osaka Prefecture Toyono",
     "ja": "大阪府 豊能町"
   },
+  "357795": {
+    "en": "Kyoto Prefecture Ukyo Ward",
+    "ja": "京都府 右京区"
+  },
+  "357798": {
+    "en": "Kyoto Prefecture Sakyo Ward",
+    "ja": "京都府 左京区"
+  },
+  "357805": {
+    "en": "Kyoto Prefecture Kita Ward",
+    "ja": "京都府 北区"
+  },
+  "357815": {
+    "en": "Kyoto Prefecture Nishikyo Ward",
+    "ja": "京都府 西京区"
+  },
+  "357816": {
+    "en": "Kyoto Prefecture Nakagyo Ward",
+    "ja": "京都府 中京区"
+  },
+  "357817": {
+    "en": "Kyoto Prefecture Kamigyo Ward",
+    "ja": "京都府 上京区"
+  },
+  "357839": {
+    "en": "Kyoto Prefecture Yamashina Ward",
+    "ja": "京都府 山科区"
+  },
+  "357840": {
+    "en": "Kyoto Prefecture Higashiyama Ward",
+    "ja": "京都府 東山区"
+  },
   "357872": {
     "en": "Osaka Prefecture Ibaraki",
     "ja": "大阪府 茨木市"
@@ -67,9 +99,21 @@
     "en": "Kyoto Prefecture Yawata",
     "ja": "京都府 八幡市"
   },
+  "358575": {
+    "en": "Kyoto Prefecture Fushimi Ward",
+    "ja": "京都府 伏見区"
+  },
   "358576": {
     "en": "Kyoto Prefecture Muko",
     "ja": "京都府 向日市"
+  },
+  "358594": {
+    "en": "Kyoto Prefecture Minami Ward",
+    "ja": "京都府 南区"
+  },
+  "358601": {
+    "en": "Kyoto Prefecture Shimogyo Ward",
+    "ja": "京都府 下京区"
   },
   "358602": {
     "en": "Kyoto Prefecture Uji",
@@ -139,6 +183,42 @@
     "en": "Osaka Prefecture Osaka",
     "ja": "大阪府 大阪市"
   },
+  "358675": {
+    "en": "Osaka Prefecture Yodogawa Ward",
+    "ja": "大阪府 淀川区"
+  },
+  "358676": {
+    "en": "Osaka Prefecture Higashiyodogawa Ward",
+    "ja": "大阪府 東淀川区"
+  },
+  "358678": {
+    "en": "Osaka Prefecture Nishiyodogawa Ward",
+    "ja": "大阪府 西淀川区"
+  },
+  "358679": {
+    "en": "Osaka Prefecture Konohana Ward",
+    "ja": "大阪府 此花区"
+  },
+  "358680": {
+    "en": "Osaka Prefecture Fukushima Ward",
+    "ja": "大阪府 福島区"
+  },
+  "358681": {
+    "en": "Osaka Prefecture Kita Ward",
+    "ja": "大阪府 北区"
+  },
+  "358682": {
+    "en": "Osaka Prefecture Minato Ward",
+    "ja": "大阪府 港区"
+  },
+  "358683": {
+    "en": "Osaka Prefecture Nishi Ward",
+    "ja": "大阪府 西区"
+  },
+  "358684": {
+    "en": "Osaka Prefecture Asahi Ward",
+    "ja": "大阪府 旭区"
+  },
   "358685": {
     "en": "Osaka Prefecture Moriguchi",
     "ja": "大阪府 守口市"
@@ -167,13 +247,73 @@
     "en": "Osaka Prefecture Daito",
     "ja": "大阪府 大東市"
   },
+  "358695": {
+    "en": "Osaka Prefecture Tsurumi Ward",
+    "ja": "大阪府 鶴見区"
+  },
   "358696": {
     "en": "Osaka Prefecture Higashiosaka",
     "ja": "大阪府 東大阪市"
   },
+  "358707": {
+    "en": "Osaka Prefecture Joto Ward",
+    "ja": "大阪府 城東区"
+  },
+  "358708": {
+    "en": "Osaka Prefecture Higashinari Ward",
+    "ja": "大阪府 東成区"
+  },
+  "358709": {
+    "en": "Osaka Prefecture Ikuno Ward",
+    "ja": "大阪府 生野区"
+  },
+  "358710": {
+    "en": "Osaka Prefecture Hirano Ward",
+    "ja": "大阪府 平野区"
+  },
   "358711": {
     "en": "Osaka Prefecture Yao",
     "ja": "大阪府 八尾市"
+  },
+  "358722": {
+    "en": "Osaka Prefecture Miyakojima Ward",
+    "ja": "大阪府 都島区"
+  },
+  "358727": {
+    "en": "Osaka Prefecture Chuo",
+    "ja": "大阪府 中央区"
+  },
+  "358733": {
+    "en": "Osaka Prefecture Taisho Ward",
+    "ja": "大阪府 大正区"
+  },
+  "358734": {
+    "en": "Osaka Prefecture Naniwa Ward",
+    "ja": "大阪府 浪速区"
+  },
+  "358735": {
+    "en": "Osaka Prefecture Tennoji Ward",
+    "ja": "大阪府 天王寺区"
+  },
+  "358736": {
+    "en": "Osaka Prefecture Abeno Ward",
+    "ja": "大阪府 阿倍野区"
+  },
+  "358737": {
+    "en": "Osaka Prefecture Nishinari Ward",
+    "ja": "大阪府 西成区"
+  },
+  "358742": {
+    "en": "Osaka Prefecture Higashisumiyoshi Ward",
+    "ja": "大阪府 東住吉区"
+  },
+  "358743": {
+    "en": "Osaka Prefecture Suminoe Ward",
+    "ja": "大阪府 住之江区"
+  },
+  "358744": {
+    "en": "Osaka Prefecture Sumiyoshi Ward",
+    "ja": "大阪府 住吉区"
   },
   "358752": {
     "en": "Osaka Prefecture Matsubara",
@@ -195,6 +335,22 @@
     "en": "Osaka Prefecture Sakai",
     "ja": "大阪府 堺市"
   },
+  "358760": {
+    "en": "Osaka Prefecture Sakai Ward",
+    "ja": "大阪府 堺区"
+  },
+  "358761": {
+    "en": "Osaka Prefecture Kita Ward",
+    "ja": "大阪府 北区"
+  },
+  "358766": {
+    "en": "Osaka Prefecture Mihara Ward",
+    "ja": "大阪府 美原区"
+  },
+  "358767": {
+    "en": "Osaka Prefecture Higashi Ward",
+    "ja": "大阪府 東区"
+  },
   "358768": {
     "en": "Osaka Prefecture Osakasayama",
     "ja": "大阪府 大阪狭山市"
@@ -211,6 +367,14 @@
     "en": "Osaka Prefecture Kanan",
     "ja": "大阪府 河南町"
   },
+  "358778": {
+    "en": "Osaka Prefecture Minami Ward",
+    "ja": "大阪府 南区"
+  },
+  "358779": {
+    "en": "Osaka Prefecture Naka Ward",
+    "ja": "大阪府 中区"
+  },
   "358785": {
     "en": "Osaka Prefecture Chihaya-akasaka",
     "ja": "大阪府 千早赤阪村"
@@ -222,6 +386,10 @@
   "358789": {
     "en": "Osaka Prefecture Izumi",
     "ja": "大阪府 和泉市"
+  },
+  "358790": {
+    "en": "Osaka Prefecture Nishi Ward",
+    "ja": "大阪府 西区"
   },
   "358794": {
     "en": "Osaka Prefecture Takaishi",
@@ -439,6 +607,10 @@
     "en": "Hyogo Prefecture Nishinomiya",
     "ja": "兵庫県 西宮市"
   },
+  "900313": {
+    "en": "Hyogo Prefecture Kita Ward",
+    "ja": "兵庫県 北区"
+  },
   "900314": {
     "en": "Hyogo Prefecture Kawanishi",
     "ja": "兵庫県 川西市"
@@ -483,9 +655,41 @@
     "en": "Hyogo Prefecture Inami",
     "ja": "兵庫県 稲美町"
   },
+  "900534": {
+    "en": "Hyogo Prefecture Nishi Ward",
+    "ja": "兵庫県 西区"
+  },
+  "900536": {
+    "en": "Hyogo Prefecture Suma Ward",
+    "ja": "兵庫県 須磨区"
+  },
+  "900545": {
+    "en": "Hyogo Prefecture Hyogo Ward",
+    "ja": "兵庫県 兵庫区"
+  },
+  "900546": {
+    "en": "Hyogo Prefecture Nagata Ward",
+    "ja": "兵庫県 長田区"
+  },
+  "900547": {
+    "en": "Hyogo Prefecture Tarumi Ward",
+    "ja": "兵庫県 垂水区"
+  },
+  "900548": {
+    "en": "Hyogo Prefecture Chuo Ward",
+    "ja": "兵庫県 中央区"
+  },
+  "901517": {
+    "en": "Hyogo Prefecture Higashinada Ward",
+    "ja": "兵庫県 東灘区"
+  },
   "901518": {
     "en": "Hyogo Prefecture Ashiya",
     "ja": "兵庫県 芦屋市"
+  },
+  "901519": {
+    "en": "Hyogo Prefecture Nada Ward",
+    "ja": "兵庫県 灘区"
   },
   "901520": {
     "en": "Hyogo Prefecture Amagasaki",
@@ -1027,6 +1231,30 @@
     "en": "Chiba Prefecture Kamogawa",
     "ja": "千葉県 鴨川市"
   },
+  "2679950": {
+    "en": "Chiba Prefecture Chuo",
+    "ja": "千葉県 中央区"
+  },
+  "2679951": {
+    "en": "Chiba Prefecture Inage Ward",
+    "ja": "千葉県 稲毛区"
+  },
+  "2679952": {
+    "en": "Chiba Prefecture Midori Ward",
+    "ja": "千葉県 緑区"
+  },
+  "2679953": {
+    "en": "Chiba Prefecture Mihama Ward",
+    "ja": "千葉県 美浜区"
+  },
+  "2679954": {
+    "en": "Chiba Prefecture Hanamigawa Ward",
+    "ja": "千葉県 花見川区"
+  },
+  "2679955": {
+    "en": "Chiba Prefecture Wakaba Ward",
+    "ja": "千葉県 若葉区"
+  },
   "2679956": {
     "en": "Chiba Prefecture Chiba",
     "ja": "千葉県 千葉市"
@@ -1326,6 +1554,118 @@
   "2689446": {
     "en": "Kanagawa Prefecture Kaisei",
     "ja": "神奈川県 開成町"
+  },
+  "2689447": {
+    "en": "Kanagawa Prefecture Naka Ward",
+    "ja": "神奈川県 中区"
+  },
+  "2689448": {
+    "en": "Kanagawa Prefecture Nakahara Ward",
+    "ja": "神奈川県 中原区"
+  },
+  "2689449": {
+    "en": "Kanagawa Prefecture Chuo Ward",
+    "ja": "神奈川県 中央区"
+  },
+  "2689450": {
+    "en": "Kanagawa Prefecture Hodogaya Ward",
+    "ja": "神奈川県 保土ヶ谷区"
+  },
+  "2689451": {
+    "en": "Kanagawa Prefecture Minami Ward",
+    "ja": "神奈川県 南区"
+  },
+  "2689452": {
+    "en": "Kanagawa Prefecture Minami Ward",
+    "ja": "神奈川県 南区"
+  },
+  "2689453": {
+    "en": "Kanagawa Prefecture Tama Ward",
+    "ja": "神奈川県 多摩区"
+  },
+  "2689454": {
+    "en": "Kanagawa Prefecture Miyamae Ward",
+    "ja": "神奈川県 宮前区"
+  },
+  "2689455": {
+    "en": "Kanagawa Prefecture Kawasaki Ward",
+    "ja": "神奈川県 川崎区"
+  },
+  "2689456": {
+    "en": "Kanagawa Prefecture Saiwai Ward",
+    "ja": "神奈川県 幸区"
+  },
+  "2689457": {
+    "en": "Kanagawa Prefecture Totsuka Ward",
+    "ja": "神奈川県 戸塚区"
+  },
+  "2689458": {
+    "en": "Kanagawa Prefecture Asahi Ward",
+    "ja": "神奈川県 旭区"
+  },
+  "2689459": {
+    "en": "Kanagawa Prefecture Sakae Ward",
+    "ja": "神奈川県 栄区"
+  },
+  "2689460": {
+    "en": "Kanagawa Prefecture Izumi Ward",
+    "ja": "神奈川県 泉区"
+  },
+  "2689461": {
+    "en": "Kanagawa Prefecture Kohoku Ward",
+    "ja": "神奈川県 港北区"
+  },
+  "2689462": {
+    "en": "Kanagawa Prefecture Konan Ward",
+    "ja": "神奈川県 港南区"
+  },
+  "2689463": {
+    "en": "Kanagawa Prefecture Seya Ward",
+    "ja": "神奈川県 瀬谷区"
+  },
+  "2689464": {
+    "en": "Kanagawa Prefecture Isogo Ward",
+    "ja": "神奈川県 磯子区"
+  },
+  "2689465": {
+    "en": "Kanagawa Prefecture Kanagawa Ward",
+    "ja": "神奈川県 神奈川区"
+  },
+  "2689466": {
+    "en": "Kanagawa Prefecture Midori Ward",
+    "ja": "神奈川県 緑区"
+  },
+  "2689467": {
+    "en": "Kanagawa Prefecture Midori Ward",
+    "ja": "神奈川県 緑区"
+  },
+  "2689468": {
+    "en": "Kanagawa Prefecture Nishi Ward",
+    "ja": "神奈川県 西区"
+  },
+  "2689469": {
+    "en": "Kanagawa Prefecture Tsuzuki Ward",
+    "ja": "神奈川県 都筑区"
+  },
+  "2689470": {
+    "en": "Kanagawa Prefecture Kanazawa Ward",
+    "ja": "神奈川県 金沢区"
+  },
+  "2689471": {
+    "en": "Kanagawa Prefecture Aoba Ward",
+    "ja": "神奈川県 青葉区"
+  },
+  "2689472": {
+    "en": "Kanagawa Prefecture Takatsu Ward",
+    "ja": "神奈川県 高津区"
+  },
+  "2689473": {
+    "en": "Kanagawa Prefecture Tsurumi Ward",
+    "ja": "神奈川県 鶴見区"
+  },
+  "2689474": {
+    "en": "Kanagawa Prefecture Asao Ward",
+    "ja": "神奈川県 麻生区"
   },
   "2689476": {
     "en": "Kanagawa Prefecture Kawasaki",
@@ -1919,6 +2259,22 @@
     "en": "Okayama Prefecture Wake",
     "ja": "岡山県 和気町"
   },
+  "3939392": {
+    "en": "Okayama Prefecture Naka Ward",
+    "ja": "岡山県 中区"
+  },
+  "3939400": {
+    "en": "Okayama Prefecture Higashi Ward",
+    "ja": "岡山県 東区"
+  },
+  "3939424": {
+    "en": "Okayama Prefecture Minami Ward",
+    "ja": "岡山県 南区"
+  },
+  "3939484": {
+    "en": "Okayama Prefecture Kita Ward",
+    "ja": "岡山県 北区"
+  },
   "3939644": {
     "en": "Okayama Prefecture Okayama",
     "ja": "岡山県 岡山市"
@@ -2379,6 +2735,26 @@
     "en": "Kumamoto Prefecture Nagomi",
     "ja": "熊本県 和水町"
   },
+  "4000495": {
+    "en": "Kumamoto Prefecture Nishi Ward",
+    "ja": "熊本県 西区"
+  },
+  "4000498": {
+    "en": "Kumamoto Prefecture Chuo Ward",
+    "ja": "熊本県 中央区"
+  },
+  "4000500": {
+    "en": "Kumamoto Prefecture Higashi Ward",
+    "ja": "熊本県 東区"
+  },
+  "4000501": {
+    "en": "Kumamoto Prefecture Minami Ward",
+    "ja": "熊本県 南区"
+  },
+  "4000502": {
+    "en": "Kumamoto Prefecture Kita Ward",
+    "ja": "熊本県 北区"
+  },
   "4000503": {
     "en": "Kumamoto Prefecture Kumamoto",
     "ja": "熊本県 熊本市"
@@ -2674,6 +3050,62 @@
   "4008535": {
     "en": "Fukuoka Prefecture Yanagawa",
     "ja": "福岡県 柳川市"
+  },
+  "4008537": {
+    "en": "Fukuoka Prefecture Tobara Ward",
+    "ja": "福岡県 戸畑区"
+  },
+  "4008540": {
+    "en": "Fukuoka Prefecture Wakamatsu Ward",
+    "ja": "福岡県 若松区"
+  },
+  "4008543": {
+    "en": "Fukuoka Prefecture Kokura-Minami Ward",
+    "ja": "福岡県 小倉南区"
+  },
+  "4008544": {
+    "en": "Fukuoka Prefecture Kokura-Kita Ward",
+    "ja": "福岡県 小倉北区"
+  },
+  "4008545": {
+    "en": "Fukuoka Prefecture Jonan Ward",
+    "ja": "福岡県 城南区"
+  },
+  "4008548": {
+    "en": "Fukuoka Prefecture Nishi Ward",
+    "ja": "福岡県 西区"
+  },
+  "4008553": {
+    "en": "Fukuoka Prefecture Sawara Ward",
+    "ja": "福岡県 早良区"
+  },
+  "4008554": {
+    "en": "Fukuoka Prefecture Chuo Ward",
+    "ja": "福岡県 中央区"
+  },
+  "4008561": {
+    "en": "Fukuoka Prefecture Higashi Ward",
+    "ja": "福岡県 東区"
+  },
+  "4008564": {
+    "en": "Fukuoka Prefecture Minami Ward",
+    "ja": "福岡県 南区"
+  },
+  "4008575": {
+    "en": "Fukuoka Prefecture Hakata Ward",
+    "ja": "福岡県 博多区"
+  },
+  "4008581": {
+    "en": "Fukuoka Prefecture Yahata-Nishi Ward",
+    "ja": "福岡県 八幡西区"
+  },
+  "4008582": {
+    "en": "Fukuoka Prefecture Yahata-Higashi Ward",
+    "ja": "福岡県 八幡東区"
+  },
+  "4008584": {
+    "en": "Fukuoka Prefecture Moji Ward",
+    "ja": "福岡県 門司区"
   },
   "4008600": {
     "en": "Fukuoka Prefecture Kitakyushu",
@@ -4175,6 +4607,38 @@
     "en": "Hiroshima Prefecture KIta Hiroshima",
     "ja": "広島県 北広島町"
   },
+  "4090632": {
+    "en": "Hiroshima Prefecture Aki Ward",
+    "ja": "広島県 安芸区"
+  },
+  "4091187": {
+    "en": "Hiroshima Prefecture Asaminami Ward",
+    "ja": "広島県 安佐南区"
+  },
+  "4091235": {
+    "en": "Hiroshima Prefecture Asakita Ward",
+    "ja": "広島県 安佐北区"
+  },
+  "4091241": {
+    "en": "Hiroshima Prefecture Saeki Ward",
+    "ja": "広島県 佐伯区"
+  },
+  "4097036": {
+    "en": "Hiroshima Prefecture Nishi Ward",
+    "ja": "広島県 西区"
+  },
+  "4097049": {
+    "en": "Hiroshima Prefecture Naka Ward",
+    "ja": "広島県 中区"
+  },
+  "4097051": {
+    "en": "Hiroshima Prefecture Higashi Ward",
+    "ja": "広島県 東区"
+  },
+  "4097058": {
+    "en": "Hiroshima Prefecture Minami Ward",
+    "ja": "広島県 南区"
+  },
   "4097196": {
     "en": "Hiroshima Prefecture Hiroshima",
     "ja": "広島県 広島市"
@@ -4555,6 +5019,46 @@
     "en": "Miyagi Prefecture Kesennuma",
     "ja": "宮城県 気仙沼市"
   },
+  "4134258": {
+    "en": "Hokkaido Prefecture Kita Ward",
+    "ja": "北海道 北区"
+  },
+  "4134259": {
+    "en": "Hokkaido Prefecture Teine Ward",
+    "ja": "北海道 手稲区"
+  },
+  "4134265": {
+    "en": "Hokkaido Prefecture Minami Ward",
+    "ja": "北海道 南区"
+  },
+  "4134272": {
+    "en": "Hokkaido Prefecture Nishi Ward",
+    "ja": "北海道 西区"
+  },
+  "4134279": {
+    "en": "Hokkaido Prefecture Higashi Ward",
+    "ja": "北海道 東区"
+  },
+  "4134315": {
+    "en": "Hokkaido Prefecture Chuo",
+    "ja": "北海道 中央区"
+  },
+  "4134320": {
+    "en": "Hokkaido Prefecture Shiroishi Ward",
+    "ja": "北海道 白石区"
+  },
+  "4134323": {
+    "en": "Hokkaido Prefecture Toyohira Ward",
+    "ja": "北海道 豊平区"
+  },
+  "4134324": {
+    "en": "Hokkaido Prefecture Atsubetsu Ward",
+    "ja": "北海道 厚別区"
+  },
+  "4134335": {
+    "en": "Hokkaido Prefecture Kiyota Ward",
+    "ja": "北海道 清田区"
+  },
   "4134684": {
     "en": "Yamagata Prefecture Sakegawa",
     "ja": "山形県 鮭川村"
@@ -4771,6 +5275,14 @@
     "en": "Miyagi Prefecture Osato",
     "ja": "宮城県 大郷町"
   },
+  "4159305": {
+    "en": "Miyagi Prefecture Aoba Ward",
+    "ja": "宮城県 青葉区"
+  },
+  "4159306": {
+    "en": "Miyagi Prefecture Izumi Ward",
+    "ja": "宮城県 泉区"
+  },
   "4159311": {
     "en": "Miyagi Prefecture Rifu",
     "ja": "宮城県 利府町"
@@ -4778,6 +5290,10 @@
   "4159313": {
     "en": "Miyagi Prefecture Tomiya",
     "ja": "宮城県 富谷市"
+  },
+  "4159314": {
+    "en": "Miyagi Prefecture Miyagino Ward",
+    "ja": "宮城県 宮城野区"
   },
   "4159321": {
     "en": "Miyagi Prefecture Tagajo",
@@ -4790,6 +5306,14 @@
   "4168580": {
     "en": "Miyagi Prefecture Shichigahama",
     "ja": "宮城県 七ヶ浜町"
+  },
+  "4168599": {
+    "en": "Miyagi Prefecture Taihaku Ward",
+    "ja": "宮城県 太白区"
+  },
+  "4168634": {
+    "en": "Miyagi Prefecture Wakabayashi Ward",
+    "ja": "宮城県 若林区"
   },
   "4174035": {
     "en": "Miyagi Prefecture Murata",
@@ -5066,6 +5590,38 @@
   "4288060": {
     "en": "Niigata Prefecture Gosen",
     "ja": "新潟県 五泉市"
+  },
+  "4288111": {
+    "en": "Niigata Prefecture Kita Ward",
+    "ja": "新潟県 北区"
+  },
+  "4288112": {
+    "en": "Niigata Prefecture Konan Ward",
+    "ja": "新潟県 江南区"
+  },
+  "4453842": {
+    "en": "Niigata Prefecture Higashi Ward",
+    "ja": "新潟県 東区"
+  },
+  "4453844": {
+    "en": "Niigata Prefecture Chuo Ward",
+    "ja": "新潟県 中央区"
+  },
+  "4453845": {
+    "en": "Niigata Prefecture Nishi Ward",
+    "ja": "新潟県 西区"
+  },
+  "4453849": {
+    "en": "Niigata Prefecture Minami Ward",
+    "ja": "新潟県 南区"
+  },
+  "4453850": {
+    "en": "Niigata Prefecture Nishikan Ward",
+    "ja": "新潟県 西蒲区"
+  },
+  "4453851": {
+    "en": "Niigata Prefecture Akiha Ward",
+    "ja": "新潟県 秋葉区"
   },
   "4453887": {
     "en": "Niigata Prefecture Tagami",
@@ -5623,6 +6179,70 @@
     "en": "Aichi Prefecture Yatomi",
     "ja": "愛知県 弥富市"
   },
+  "4567524": {
+    "en": "Aichi Prefecture Minato Ward",
+    "ja": "愛知県 港区"
+  },
+  "4567526": {
+    "en": "Aichi Prefecture Moriyama Ward",
+    "ja": "愛知県 守山区"
+  },
+  "4567527": {
+    "en": "Aichi Prefecture Showa Ward",
+    "ja": "愛知県 昭和区"
+  },
+  "4567572": {
+    "en": "Aichi Prefecture Mizuho Ward",
+    "ja": "愛知県 瑞穂区"
+  },
+  "4567577": {
+    "en": "Aichi Prefecture Nishi Ward",
+    "ja": "愛知県 西区"
+  },
+  "4567579": {
+    "en": "Aichi Prefecture Chikusa Ward",
+    "ja": "愛知県 千種区"
+  },
+  "4567580": {
+    "en": "Aichi Prefecture Naka Ward",
+    "ja": "愛知県 中区"
+  },
+  "4567592": {
+    "en": "Aichi Prefecture Nakagawa Ward",
+    "ja": "愛知県 中川区"
+  },
+  "4567594": {
+    "en": "Aichi Prefecture Nakamura Ward",
+    "ja": "愛知県 中村区"
+  },
+  "4567614": {
+    "en": "Aichi Prefecture Tenpaku Ward",
+    "ja": "愛知県 天白区"
+  },
+  "4567617": {
+    "en": "Aichi Prefecture Higashi Ward",
+    "ja": "愛知県 東区"
+  },
+  "4567626": {
+    "en": "Aichi Prefecture Minami Ward",
+    "ja": "愛知県 南区"
+  },
+  "4567628": {
+    "en": "Aichi Prefecture Atsuta Ward",
+    "ja": "愛知県 熱田区"
+  },
+  "4567635": {
+    "en": "Aichi Prefecture Kita Ward",
+    "ja": "愛知県 北区"
+  },
+  "4567636": {
+    "en": "Aichi Prefecture Meito Ward",
+    "ja": "愛知県 名東区"
+  },
+  "4567639": {
+    "en": "Aichi Prefecture Midori Ward",
+    "ja": "愛知県 緑区"
+  },
   "4576938": {
     "en": "Aichi Prefecture Nagoya",
     "ja": "愛知県 名古屋市"
@@ -5726,6 +6346,46 @@
   "4674654": {
     "en": "Shizuoka Prefecture Makinohara",
     "ja": "静岡県 牧之原市"
+  },
+  "4674661": {
+    "en": "Shizuoka Prefecture Aoi Ward",
+    "ja": "静岡県 葵区"
+  },
+  "4674665": {
+    "en": "Shizuoka Prefecture Suruga Ward",
+    "ja": "静岡県 駿河区"
+  },
+  "4674670": {
+    "en": "Shizuoka Prefecture Shimizu Ward",
+    "ja": "静岡県 清水区"
+  },
+  "4674674": {
+    "en": "Shizuoka Prefecture Nishi Ward",
+    "ja": "静岡県 西区"
+  },
+  "4674677": {
+    "en": "Shizuoka Prefecture Naka Ward",
+    "ja": "静岡県 中区"
+  },
+  "4674686": {
+    "en": "Shizuoka Prefecture Tenryu Ward",
+    "ja": "静岡県 天竜区"
+  },
+  "4674688": {
+    "en": "Shizuoka Prefecture Higashi Ward",
+    "ja": "静岡県 東区"
+  },
+  "4674689": {
+    "en": "Shizuoka Prefecture Minami Ward",
+    "ja": "静岡県 南区"
+  },
+  "4674693": {
+    "en": "Shizuoka Prefecture Hamakita Ward",
+    "ja": "静岡県 浜北区"
+  },
+  "4674698": {
+    "en": "Shizuoka Prefecture Kita Ward",
+    "ja": "静岡県 北区"
   },
   "4674741": {
     "en": "Shizuoka Prefecture Hamamatsu",
@@ -6499,6 +7159,10 @@
     "en": "Tochigi Prefecture Shioya",
     "ja": "栃木県 塩谷町"
   },
+  "4846980": {
+    "en": "Tochigi Prefecture Iwafune",
+    "ja": "栃木県 岩舟町"
+  },
   "4846993": {
     "en": "Tochigi Prefecture Sano",
     "ja": "栃木県 佐野市"
@@ -6710,5 +7374,41 @@
   "5325123": {
     "en": "Gunma Prefecture Oizumi",
     "ja": "群馬県 大泉町"
+  },
+  "5681064": {
+    "en": "Kagawa Prefecture Shionoe District",
+    "ja": "香川県 塩江地区"
+  },
+  "5681065": {
+    "en": "Kagawa Prefecture Kaminishi District",
+    "ja": "香川県 上西地区"
+  },
+  "5681067": {
+    "en": "Kagawa Prefecture Higashi-Ueta District",
+    "ja": "香川県 東植田地区"
+  },
+  "5681069": {
+    "en": "Kagawa Prefecture Yasuhara District",
+    "ja": "香川県 安原地区"
+  },
+  "5681949": {
+    "en": "Kagawa Prefecture Shiyū-jima District",
+    "ja": "香川県 雌雄島地区"
+  },
+  "5915468": {
+    "en": "Kagawa Prefecture Shimo-Kasai District",
+    "ja": "香川県 下笠居地区"
+  },
+  "5916387": {
+    "en": "Kagawa Prefecture Hayashi District",
+    "ja": "香川県 林地区"
+  },
+  "9478737": {
+    "en": "Tokyo Hiroo",
+    "ja": "東京都 広尾"
+  },
+  "9521529": {
+    "en": "Tokyo Ebisu",
+    "ja": "東京都 恵比寿)"
   }
 }
