@@ -35,6 +35,38 @@
     "en": "Kyoto Prefecture Kameoka",
     "ja": "京都府 亀岡市"
   },
+  "357795": {
+    "en": "Kyoto Prefecture Ukyo Ward",
+    "ja": "京都府 右京区"
+  },
+  "357798": {
+    "en": "Kyoto Prefecture Sakyo Ward",
+    "ja": "京都府 左京区"
+  },
+  "357805": {
+    "en": "Kyoto Prefecture Kita Ward",
+    "ja": "京都府 北区"
+  },
+  "357815": {
+    "en": "Kyoto Prefecture Nishikyo Ward",
+    "ja": "京都府 西京区"
+  },
+  "357816": {
+    "en": "Kyoto Prefecture Nakagyo Ward",
+    "ja": "京都府 中京区"
+  },
+  "357817": {
+    "en": "Kyoto Prefecture Kamigyo Ward",
+    "ja": "京都府 上京区"
+  },
+  "357839": {
+    "en": "Kyoto Prefecture Yamashina Ward",
+    "ja": "京都府 山科区"
+  },
+  "357840": {
+    "en": "Kyoto Prefecture Higashiyama Ward",
+    "ja": "京都府 東山区"
+  },
   "358571": {
     "en": "Kyoto Prefecture Nagaokakyo",
     "ja": "京都府 長岡京市"
@@ -47,9 +79,21 @@
     "en": "Kyoto Prefecture Yawata",
     "ja": "京都府 八幡市"
   },
+  "358575": {
+    "en": "Kyoto Prefecture Fushimi Ward",
+    "ja": "京都府 伏見区"
+  },
   "358576": {
     "en": "Kyoto Prefecture Muko",
     "ja": "京都府 向日市"
+  },
+  "358594": {
+    "en": "Kyoto Prefecture Minami Ward",
+    "ja": "京都府 南区"
+  },
+  "358601": {
+    "en": "Kyoto Prefecture Shimogyo Ward",
+    "ja": "京都府 下京区"
   },
   "358602": {
     "en": "Kyoto Prefecture Uji",

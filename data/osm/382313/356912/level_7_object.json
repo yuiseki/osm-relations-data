@@ -95,6 +95,10 @@
     "en": "Hyogo Prefecture Nishinomiya",
     "ja": "兵庫県 西宮市"
   },
+  "900313": {
+    "en": "Hyogo Prefecture Kita Ward",
+    "ja": "兵庫県 北区"
+  },
   "900314": {
     "en": "Hyogo Prefecture Kawanishi",
     "ja": "兵庫県 川西市"
@@ -139,9 +143,41 @@
     "en": "Hyogo Prefecture Inami",
     "ja": "兵庫県 稲美町"
   },
+  "900534": {
+    "en": "Hyogo Prefecture Nishi Ward",
+    "ja": "兵庫県 西区"
+  },
+  "900536": {
+    "en": "Hyogo Prefecture Suma Ward",
+    "ja": "兵庫県 須磨区"
+  },
+  "900545": {
+    "en": "Hyogo Prefecture Hyogo Ward",
+    "ja": "兵庫県 兵庫区"
+  },
+  "900546": {
+    "en": "Hyogo Prefecture Nagata Ward",
+    "ja": "兵庫県 長田区"
+  },
+  "900547": {
+    "en": "Hyogo Prefecture Tarumi Ward",
+    "ja": "兵庫県 垂水区"
+  },
+  "900548": {
+    "en": "Hyogo Prefecture Chuo Ward",
+    "ja": "兵庫県 中央区"
+  },
+  "901517": {
+    "en": "Hyogo Prefecture Higashinada Ward",
+    "ja": "兵庫県 東灘区"
+  },
   "901518": {
     "en": "Hyogo Prefecture Ashiya",
     "ja": "兵庫県 芦屋市"
+  },
+  "901519": {
+    "en": "Hyogo Prefecture Nada Ward",
+    "ja": "兵庫県 灘区"
   },
   "901520": {
     "en": "Hyogo Prefecture Amagasaki",

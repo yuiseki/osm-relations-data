@@ -43,6 +43,42 @@
     "en": "Osaka Prefecture Osaka",
     "ja": "大阪府 大阪市"
   },
+  "358675": {
+    "en": "Osaka Prefecture Yodogawa Ward",
+    "ja": "大阪府 淀川区"
+  },
+  "358676": {
+    "en": "Osaka Prefecture Higashiyodogawa Ward",
+    "ja": "大阪府 東淀川区"
+  },
+  "358678": {
+    "en": "Osaka Prefecture Nishiyodogawa Ward",
+    "ja": "大阪府 西淀川区"
+  },
+  "358679": {
+    "en": "Osaka Prefecture Konohana Ward",
+    "ja": "大阪府 此花区"
+  },
+  "358680": {
+    "en": "Osaka Prefecture Fukushima Ward",
+    "ja": "大阪府 福島区"
+  },
+  "358681": {
+    "en": "Osaka Prefecture Kita Ward",
+    "ja": "大阪府 北区"
+  },
+  "358682": {
+    "en": "Osaka Prefecture Minato Ward",
+    "ja": "大阪府 港区"
+  },
+  "358683": {
+    "en": "Osaka Prefecture Nishi Ward",
+    "ja": "大阪府 西区"
+  },
+  "358684": {
+    "en": "Osaka Prefecture Asahi Ward",
+    "ja": "大阪府 旭区"
+  },
   "358685": {
     "en": "Osaka Prefecture Moriguchi",
     "ja": "大阪府 守口市"
@@ -71,13 +107,73 @@
     "en": "Osaka Prefecture Daito",
     "ja": "大阪府 大東市"
   },
+  "358695": {
+    "en": "Osaka Prefecture Tsurumi Ward",
+    "ja": "大阪府 鶴見区"
+  },
   "358696": {
     "en": "Osaka Prefecture Higashiosaka",
     "ja": "大阪府 東大阪市"
   },
+  "358707": {
+    "en": "Osaka Prefecture Joto Ward",
+    "ja": "大阪府 城東区"
+  },
+  "358708": {
+    "en": "Osaka Prefecture Higashinari Ward",
+    "ja": "大阪府 東成区"
+  },
+  "358709": {
+    "en": "Osaka Prefecture Ikuno Ward",
+    "ja": "大阪府 生野区"
+  },
+  "358710": {
+    "en": "Osaka Prefecture Hirano Ward",
+    "ja": "大阪府 平野区"
+  },
   "358711": {
     "en": "Osaka Prefecture Yao",
     "ja": "大阪府 八尾市"
+  },
+  "358722": {
+    "en": "Osaka Prefecture Miyakojima Ward",
+    "ja": "大阪府 都島区"
+  },
+  "358727": {
+    "en": "Osaka Prefecture Chuo",
+    "ja": "大阪府 中央区"
+  },
+  "358733": {
+    "en": "Osaka Prefecture Taisho Ward",
+    "ja": "大阪府 大正区"
+  },
+  "358734": {
+    "en": "Osaka Prefecture Naniwa Ward",
+    "ja": "大阪府 浪速区"
+  },
+  "358735": {
+    "en": "Osaka Prefecture Tennoji Ward",
+    "ja": "大阪府 天王寺区"
+  },
+  "358736": {
+    "en": "Osaka Prefecture Abeno Ward",
+    "ja": "大阪府 阿倍野区"
+  },
+  "358737": {
+    "en": "Osaka Prefecture Nishinari Ward",
+    "ja": "大阪府 西成区"
+  },
+  "358742": {
+    "en": "Osaka Prefecture Higashisumiyoshi Ward",
+    "ja": "大阪府 東住吉区"
+  },
+  "358743": {
+    "en": "Osaka Prefecture Suminoe Ward",
+    "ja": "大阪府 住之江区"
+  },
+  "358744": {
+    "en": "Osaka Prefecture Sumiyoshi Ward",
+    "ja": "大阪府 住吉区"
   },
   "358752": {
     "en": "Osaka Prefecture Matsubara",
@@ -99,6 +195,22 @@
     "en": "Osaka Prefecture Sakai",
     "ja": "大阪府 堺市"
   },
+  "358760": {
+    "en": "Osaka Prefecture Sakai Ward",
+    "ja": "大阪府 堺区"
+  },
+  "358761": {
+    "en": "Osaka Prefecture Kita Ward",
+    "ja": "大阪府 北区"
+  },
+  "358766": {
+    "en": "Osaka Prefecture Mihara Ward",
+    "ja": "大阪府 美原区"
+  },
+  "358767": {
+    "en": "Osaka Prefecture Higashi Ward",
+    "ja": "大阪府 東区"
+  },
   "358768": {
     "en": "Osaka Prefecture Osakasayama",
     "ja": "大阪府 大阪狭山市"
@@ -115,6 +227,14 @@
     "en": "Osaka Prefecture Kanan",
     "ja": "大阪府 河南町"
   },
+  "358778": {
+    "en": "Osaka Prefecture Minami Ward",
+    "ja": "大阪府 南区"
+  },
+  "358779": {
+    "en": "Osaka Prefecture Naka Ward",
+    "ja": "大阪府 中区"
+  },
   "358785": {
     "en": "Osaka Prefecture Chihaya-akasaka",
     "ja": "大阪府 千早赤阪村"
@@ -126,6 +246,10 @@
   "358789": {
     "en": "Osaka Prefecture Izumi",
     "ja": "大阪府 和泉市"
+  },
+  "358790": {
+    "en": "Osaka Prefecture Nishi Ward",
+    "ja": "大阪府 西区"
   },
   "358794": {
     "en": "Osaka Prefecture Takaishi",
