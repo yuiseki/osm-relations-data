@@ -245,20 +245,52 @@ const getAllCityData = async (country_osm_id, level) => {
   await fs.writeFile(basedir_ja+country_osm_id+'/'+level_7_names_filename, level_7_names_ja_string, 'utf-8');
 };
 
+const getAllStateAndCityGeoJSON = async (country_osm_id) => {
+  // get state GeoJSON
+  const allState = require(basedir+country_osm_id+'/'+level_4_object_filename);
+  for (const state_osm_id in allState) {
+    const geojsonPath = basedir+country_osm_id+'/'+state_osm_id+'/'+level_4_geojson_filename;
+    try {
+      await fs.stat(geojsonPath);
+    } catch (error) {
+      const state_geojson = await osmGeoJson.get(state_osm_id);
+      const state_geojson_string = JSON.stringify(state_geojson, null, 2);
+      await fs.writeFile(geojsonPath, state_geojson_string, 'utf-8');
+    }
+  }
+  // get city GeoJSON
+  for (const state_osm_id in allState) {
+    const allCities = require(basedir+country_osm_id+'/'+state_osm_id+'/'+level_7_object_filename);
+    for (const city_osm_id in allCities) {
+      const geojsonPath = basedir+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'.geojson';
+      try {
+        await fs.stat(geojsonPath);
+      } catch (error) {
+        const city_geojson = await osmGeoJson.get(city_osm_id);
+        const city_geojson_string = JSON.stringify(city_geojson, null, 2);
+        await fs.writeFile(geojsonPath, city_geojson_string, 'utf-8');
+      }
+    }
+  }
+}
+
 (async() => {
   try {
     await fs.stat(basedir+level_2_object_filename);
+    console.log('Country index data already exists.');
   } catch (error) {
     await getAllCountryData();
   }
 
   const countryName = 'Japan';
+
   const allCountry = require(basedir_en+level_2_object_filename);
   const country_osm_id = allCountry[countryName];
 
   const countryGeojsonPath = basedir+country_osm_id+'/'+level_2_geojson_filename;
   try {
     await fs.stat(countryGeojsonPath);
+    console.log(countryName+' state index data already exists.');
   } catch (error) {
     const country_geojson = await osmGeoJson.get(country_osm_id);
     const country_geojson_string = JSON.stringify(country_geojson, null, 2);
@@ -266,29 +298,9 @@ const getAllCityData = async (country_osm_id, level) => {
   }
 
   //await getAllStateData(countryName, country_osm_id);
-  await getAllCityData(country_osm_id);
+  //await getAllCityData(country_osm_id);
 
-  // geojsonを収集する
-  /*
-  const allState = require(basedir+country_osm_id+'/'+level_4_object_filename);
-  for (const state_osm_id in allState) {
-    const state_geojson = await osmGeoJson.get(state_osm_id);
-    const state_geojson_string = JSON.stringify(state_geojson, null, 2);
-    console.log(state_geojson);
-    const geojsonPath = basedir+country_osm_id+'/'+state_osm_id+'/'+level_4_geojson_filename;
-    await fs.writeFile(geojsonPath, state_geojson_string, 'utf-8');
-  }
-  const allState = require(basedir+country_osm_id+'/'+level_4_object_filename);
-  for (const state_osm_id in allState) {
-    const allCities = require(basedir+country_osm_id+'/'+state_osm_id+'/'+level_7_object_filename);
-    for (const city_osm_id in allCities) {
-      const city_geojson = await osmGeoJson.get(city_osm_id);
-      const city_geojson_string = JSON.stringify(city_geojson, null, 2);
-      console.log(city_geojson);
-      const geojsonPath = basedir+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'.geojson';
-      await fs.writeFile(geojsonPath, city_geojson_string, 'utf-8');
-    }
-  }
-  */
+  // GeoJSONを収集する
+  await getAllStateAndCityGeoJSON(country_osm_id);
 
 })();
