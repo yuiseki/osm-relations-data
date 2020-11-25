@@ -85,7 +85,7 @@
     }
     let geoJSONPath = './data/osm/382313/'+state_id+'/index.geojson';
     if(city_id){
-      geoJSONPath = './data/osm/382313/'+state_id+'/'+city_id+'.geojson'
+      geoJSONPath = './data/osm/382313/'+state_id+'/'+city_id+'/index.geojson'
     }
     var geoJSONRes = await fetch(geoJSONPath);
     var geoJSON = await geoJSONRes.json();

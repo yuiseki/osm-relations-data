@@ -6,22 +6,28 @@ const osmtogeojson = require('osmtogeojson');
 const basedir = './data/osm/';
 const basedir_en = './data/osm_en/';
 const basedir_ja = './data/osm_ja/';
+
 const level_2_names_filename = 'level_2_names.json';
 const level_2_object_filename = 'level_2_object.json';
 const level_2_geojson_filename = 'index.geojson';
+
 const level_4_names_filename = 'level_4_names.json';
 const level_4_object_filename = 'level_4_object.json';
 const level_4_geojson_filename = 'index.geojson';
+
 const level_7_names_filename = 'level_7_names.json';
 const level_7_object_filename = 'level_7_object.json';
+const level_7_geojson_filename = 'index.geojson';
+
+const station_names_filename = 'station_names.json';
+const station_object_filename = 'station_object.json';
 
 const sleep = msec => new Promise(resolve => setTimeout(resolve, msec));
 
-const fetchOSMRelations = (data, prefix = null) => {
+const fetchOverpass = (data, prefix = null, suffix = null) => {
   return new Promise(async (resolve, reject) => {
     console.log('overpass api query: ');
     console.log(data);
-    console.log('');
     const params = {
       data: data
     };
@@ -29,7 +35,7 @@ const fetchOSMRelations = (data, prefix = null) => {
     const res = await fetch('https://overpass-api.de/api/interpreter?'+query);
     const json = await res.json();
     const results = json.elements.filter((e) => {return e.hasOwnProperty('tags')});
-    console.log(results.length);
+    console.log('overpass api results: '+results.length);
     const OSMRelations = {};
     const OSMRelationsEn = {};
     const OSMRelationsJa = {};
@@ -42,7 +48,10 @@ const fetchOSMRelations = (data, prefix = null) => {
         fullnameEn = results[idx]['tags']['name'];
       }
       if(prefix && prefix.en){
-        fullnameEn = prefix.en + ' ' + fullnameEn;
+        fullnameEn = prefix.en + fullnameEn;
+      }
+      if(suffix && suffix.en){
+        fullnameEn = fullnameEn + suffix.en;
       }
       OSMRelationsEn[fullnameEn] = results[idx].id;
       if(results[idx]['tags'].hasOwnProperty('name:ja')){
@@ -51,7 +60,10 @@ const fetchOSMRelations = (data, prefix = null) => {
         fullnameJa = results[idx]['tags']['name'];
       }
       if(prefix && prefix.ja){
-        fullnameJa = prefix.ja + ' ' + fullnameJa;
+        fullnameJa = prefix.ja + fullnameJa;
+      }
+      if(suffix && suffix.ja){
+        fullnameJa = fullnameJa + suffix.ja;
       }
       OSMRelationsJa[fullnameJa] = results[idx].id;
       OSMRelations[results[idx].id] = {
@@ -69,9 +81,8 @@ const getAllCountryData = async () => {
     [out:json][timeout:30000];
     relation["admin_level"="2"]["type"="boundary"]["boundary"="administrative"]["name"];
     out tags;
-    out skel qt;
   `;
-  const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOSMRelations(overpass_query_level_2);
+  const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOverpass(overpass_query_level_2);
   // write out key as relation id
   const OSMRelationsString = JSON.stringify(OSMRelations, null, 2);
   await fs.writeFile(basedir+level_2_object_filename, OSMRelationsString, 'utf-8');
@@ -93,13 +104,11 @@ const getAllStateData = async (country_name_en, country_osm_id) => {
     area["name:en"="${country_name_en}"];
     relation(area)["admin_level"="4"]["type"="boundary"]["boundary"="administrative"]["name"];
     out tags;
-    out skel qt;
   `;
-  const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOSMRelations(overpass_query_level_4);
+  const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOverpass(overpass_query_level_4);
 
   // write out key as relation id
   const OSMRelationsString = JSON.stringify(OSMRelations, null, 2);
-  const OSMRelationsDir = basedir+country_osm_id+'/';
   try {
     await fs.stat(OSMRelationsDir);
   } catch (error) {
@@ -144,8 +153,8 @@ const getAllCityData = async (country_osm_id, level) => {
     const state_name_en = allState[key].en;
     const state_name_ja = allState[key].ja;
     const prefix = {
-      en: state_name_en,
-      ja: state_name_ja
+      en: state_name_en+' ',
+      ja: state_name_ja+' '
     };
 
     let OSMRelations_ = {};
@@ -161,7 +170,7 @@ const getAllCityData = async (country_osm_id, level) => {
         );
         out tags;
       `;
-      const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOSMRelations(overpass_query_level_7, prefix);
+      const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOverpass(overpass_query_level_7, prefix);
       OSMRelations_ = Object.assign(OSMRelations_, OSMRelations);
       OSMRelationsEn_ = Object.assign(OSMRelationsEn_, OSMRelationsEn);
       OSMRelationJa_ = Object.assign(OSMRelationsJa_, OSMRelationsJa);
@@ -177,7 +186,7 @@ const getAllCityData = async (country_osm_id, level) => {
         );
         out tags;
       `;
-      const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOSMRelations(overpass_query_level_8, prefix);
+      const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOverpass(overpass_query_level_8, prefix);
       OSMRelations_ = Object.assign(OSMRelations_, OSMRelations);
       OSMRelationsEn_ = Object.assign(OSMRelationsEn_, OSMRelationsEn);
       OSMRelationsJa_ = Object.assign(OSMRelationsJa_, OSMRelationsJa);
@@ -271,9 +280,16 @@ const getAllStateAndCityGeoJSON = async (country_osm_id) => {
   for (const state_osm_id in allState) {
     const allCities = require(basedir+country_osm_id+'/'+state_osm_id+'/'+level_7_object_filename);
     for (const city_osm_id in allCities) {
-      const geojsonPath = basedir+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'.geojson';
+      const cityDir = basedir+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'/';
+      const geoJSONPath = cityDir+level_7_geojson_filename;
       try {
-        await fs.stat(geojsonPath);
+        await fs.stat(cityDir);
+      } catch (error) {
+        await fs.mkdir(cityDir);
+      }
+      try {
+        await fs.stat(geoJSONPath);
+        console.log('city geojson already exists, skip.');
       } catch (error) {
         let city_geojson = {};
         try {
@@ -284,17 +300,48 @@ const getAllStateAndCityGeoJSON = async (country_osm_id) => {
           city_geojson = osmtogeojson(city_osm_json);
         } finally {
           const city_geojson_string = JSON.stringify(city_geojson, null, 2);
-          await fs.writeFile(geojsonPath, city_geojson_string, 'utf-8');
+          await fs.writeFile(geoJSONPath, city_geojson_string, 'utf-8');
         }
       }
     }
   }
 }
 
+const getAllStation = async (country_osm_id, state_osm_id, city_osm_id) => {
+  const overpass_query_station = `
+    [out:json][timeout:30000];
+    relation(${city_osm_id});
+    map_to_area;
+    (
+      nwr(area)[railway=station];
+    );
+    out tags;
+  `;
+  const stateObject = require(basedir+country_osm_id+'/'+level_4_object_filename);
+  const cityObject = require(basedir+country_osm_id+'/'+level_7_object_filename);
+  const prefix = {
+    en: cityObject[city_osm_id].en+' ',
+    ja: cityObject[city_osm_id].ja+' ',
+  };
+  const suffix = {
+    en: ' Station',
+    ja: '駅'
+  };
+  const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOverpass(overpass_query_station, prefix, suffix);
+  const OSMRelationsDir = basedir+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'/';
+  try {
+    await fs.stat(OSMRelationsDir);
+  } catch (error) {
+    await fs.mkdir(OSMRelationsDir);
+  }
+  const OSMRelationsString = JSON.stringify(OSMRelations, null, 2);
+  await fs.writeFile(OSMRelationsDir+station_object_filename, OSMRelationsString, 'utf-8');
+}
+
 (async() => {
   try {
     await fs.stat(basedir+level_2_object_filename);
-    console.log('Country index data already exists.');
+    console.log('Country index data already exists, skip.');
   } catch (error) {
     await getAllCountryData();
   }
@@ -304,20 +351,30 @@ const getAllStateAndCityGeoJSON = async (country_osm_id) => {
   const allCountry = require(basedir_en+level_2_object_filename);
   const country_osm_id = allCountry[countryName];
 
-  const countryGeojsonPath = basedir+country_osm_id+'/'+level_2_geojson_filename;
+  const countryGeoJSONPath = basedir+country_osm_id+'/'+level_2_geojson_filename;
   try {
-    await fs.stat(countryGeojsonPath);
-    console.log(countryName+' country GeoJSON already exists.');
+    await fs.stat(countryGeoJSONPath);
+    console.log(countryName+' country GeoJSON already exists, skip.');
   } catch (error) {
-    const country_geojson = await osmGeoJson.get(country_osm_id);
-    const country_geojson_string = JSON.stringify(country_geojson, null, 2);
-    await fs.writeFile(countryGeojsonPath, country_geojson_string, 'utf-8');
+    const country_GeoJSON = await osmGeoJson.get(country_osm_id);
+    const country_GeoJSON_string = JSON.stringify(country_GeoJSON, null, 2);
+    await fs.writeFile(countryGeoJSONPath, country_GeoJSON_string, 'utf-8');
   }
 
-  //await getAllStateData(countryName, country_osm_id);
+  const countryDir = basedir+country_osm_id+'/';
+  try {
+    await fs.stat(countryDir+level_4_object_filename);
+    console.log(countryName+' country state index data already exists, skip.');
+  } catch (error) {
+    await getAllStateData(countryName, country_osm_id);
+  }
+
   //await getAllCityData(country_osm_id);
 
   // GeoJSONを収集する
   await getAllStateAndCityGeoJSON(country_osm_id);
+
+  // 駅情報を収集する
+  //await getAllStation(country_osm_id, 1543125, 1758888);
 
 })();
