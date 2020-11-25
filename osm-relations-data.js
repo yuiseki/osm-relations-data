@@ -1,6 +1,7 @@
 const fetch = require('node-fetch');
 const fs = require('fs').promises;
 const osmGeoJson = require('osm-geojson');
+const osmtogeojson = require('osmtogeojson');
 
 const basedir = './data/osm/';
 const basedir_en = './data/osm_en/';
@@ -253,9 +254,17 @@ const getAllStateAndCityGeoJSON = async (country_osm_id) => {
     try {
       await fs.stat(geojsonPath);
     } catch (error) {
-      const state_geojson = await osmGeoJson.get(state_osm_id);
-      const state_geojson_string = JSON.stringify(state_geojson, null, 2);
-      await fs.writeFile(geojsonPath, state_geojson_string, 'utf-8');
+      let state_geojson = {};
+      try {
+        state_geojson = await osmGeoJson.get(state_osm_id);
+      } catch(error) {
+        const state_osm_res = await fetch('https://www.openstreetmap.org/api/0.6/relation/'+state_osm_id+'/full.json');
+        const state_osm_json = await state_osm_res.json();
+        state_geojson = osmtogeojson(state_osm_json);
+      } finally {
+        const state_geojson_string = JSON.stringify(state_geojson, null, 2);
+        await fs.writeFile(geojsonPath, state_geojson_string, 'utf-8');
+      }
     }
   }
   // get city GeoJSON
@@ -266,9 +275,17 @@ const getAllStateAndCityGeoJSON = async (country_osm_id) => {
       try {
         await fs.stat(geojsonPath);
       } catch (error) {
-        const city_geojson = await osmGeoJson.get(city_osm_id);
-        const city_geojson_string = JSON.stringify(city_geojson, null, 2);
-        await fs.writeFile(geojsonPath, city_geojson_string, 'utf-8');
+        let city_geojson = {};
+        try {
+          city_geojson = await osmGeoJson.get(city_osm_id);
+        } catch(error) {
+          const city_osm_res = await fetch('https://www.openstreetmap.org/api/0.6/relation/'+city_osm_id+'/full.json');
+          const city_osm_json = await city_osm_res.json();
+          city_geojson = osmtogeojson(city_osm_json);
+        } finally {
+          const city_geojson_string = JSON.stringify(city_geojson, null, 2);
+          await fs.writeFile(geojsonPath, city_geojson_string, 'utf-8');
+        }
       }
     }
   }
@@ -290,7 +307,7 @@ const getAllStateAndCityGeoJSON = async (country_osm_id) => {
   const countryGeojsonPath = basedir+country_osm_id+'/'+level_2_geojson_filename;
   try {
     await fs.stat(countryGeojsonPath);
-    console.log(countryName+' state index data already exists.');
+    console.log(countryName+' country GeoJSON already exists.');
   } catch (error) {
     const country_geojson = await osmGeoJson.get(country_osm_id);
     const country_geojson_string = JSON.stringify(country_geojson, null, 2);
