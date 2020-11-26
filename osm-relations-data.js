@@ -307,35 +307,99 @@ const getAllStateAndCityGeoJSON = async (country_osm_id) => {
   }
 }
 
-const getAllStation = async (country_osm_id, state_osm_id, city_osm_id) => {
-  const overpass_query_station = `
-    [out:json][timeout:30000];
-    relation(${city_osm_id});
-    map_to_area;
-    (
-      nwr(area)[railway=station];
-    );
-    out tags;
-  `;
-  const stateObject = require(basedir+country_osm_id+'/'+level_4_object_filename);
-  const cityObject = require(basedir+country_osm_id+'/'+level_7_object_filename);
-  const prefix = {
-    en: cityObject[city_osm_id].en+' ',
-    ja: cityObject[city_osm_id].ja+' ',
-  };
-  const suffix = {
-    en: ' Station',
-    ja: '駅'
-  };
-  const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOverpass(overpass_query_station, prefix, suffix);
-  const OSMRelationsDir = basedir+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'/';
-  try {
-    await fs.stat(OSMRelationsDir);
-  } catch (error) {
-    await fs.mkdir(OSMRelationsDir);
+const getAllStationData = async (country_osm_id) => {
+  const allStates = require(basedir+country_osm_id+'/'+level_4_object_filename);
+  let station_obj = {};
+  let station_names_en = [];
+  let station_obj_en = {};
+  let station_names_ja = [];
+  let station_obj_ja = {};
+  for (const state_osm_id in allStates) {
+    const allCities = require(basedir+country_osm_id+'/'+state_osm_id+'/'+level_7_object_filename);
+    for (const city_osm_id in allCities) {
+      const OSMRelationsPath = basedir+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'/'+station_object_filename;
+      try {
+        await fs.stat(OSMRelationsPath);
+        console.log('Station data already exists, skip: '+city_osm_id);
+      } catch (error) {
+        const overpass_query_station = `
+          [out:json][timeout:30000];
+          relation(${city_osm_id});
+          map_to_area;
+          (
+            nwr(area)[railway=station];
+          );
+          out tags;
+        `;
+        const prefix = {
+          en: allCities[city_osm_id].en+' ',
+          ja: allCities[city_osm_id].ja+' ',
+        };
+        const suffix = {
+          en: ' Station',
+          ja: '駅'
+        };
+        const { OSMRelations, OSMRelationsEn, OSMRelationsJa } = await fetchOverpass(overpass_query_station, prefix, suffix);
+        const OSMRelationsDir = basedir+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'/';
+        try {
+          await fs.stat(OSMRelationsDir);
+        } catch (error) {
+          await fs.mkdir(OSMRelationsDir);
+        }
+        // write out key as relation id
+        station_obj = Object.assign(station_obj, OSMRelations);
+        const OSMRelationsString = JSON.stringify(OSMRelations, null, 2);
+        await fs.writeFile(OSMRelationsDir+station_object_filename, OSMRelationsString, 'utf-8');
+
+        // write out key as name:en
+        const OSMRelationsEnString = JSON.stringify(OSMRelationsEn, null, 2);
+        station_obj_en = Object.assign(station_obj_en, OSMRelationsEn);
+        const OSMRelationsEnNamesString = JSON.stringify(Object.keys(OSMRelationsEn), null, 2);
+        station_names_en = station_names_en.concat(Object.keys(OSMRelationsEn));
+        const OSMRelationsEnDir = basedir_en+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'/';
+        try {
+          await fs.stat(OSMRelationsEnDir);
+        } catch (error) {
+          await fs.mkdir(OSMRelationsEnDir);
+        }
+        await fs.writeFile(OSMRelationsEnDir+station_object_filename, OSMRelationsEnString, 'utf-8');
+        await fs.writeFile(OSMRelationsEnDir+station_names_filename, OSMRelationsEnNamesString, 'utf-8');
+
+        // write out key as name:ja
+        const OSMRelationsJaString = JSON.stringify(OSMRelationsJa, null, 2);
+        station_obj_ja = Object.assign(station_obj_ja, OSMRelationsJa);
+        const OSMRelationsJaNamesString = JSON.stringify(Object.keys(OSMRelationsJa), null, 2);
+        station_names_ja = station_names_en.concat(Object.keys(OSMRelationsJa));
+        const OSMRelationsJaDir = basedir_ja+country_osm_id+'/'+state_osm_id+'/'+city_osm_id+'/';
+        try {
+          await fs.stat(OSMRelationsJaDir);
+        } catch (error) {
+          await fs.mkdir(OSMRelationsJaDir);
+        }
+        await fs.writeFile(OSMRelationsJaDir+station_object_filename, OSMRelationsJaString, 'utf-8');
+        await fs.writeFile(OSMRelationsJaDir+station_names_filename, OSMRelationsJaNamesString, 'utf-8');
+      }
+    }
   }
-  const OSMRelationsString = JSON.stringify(OSMRelations, null, 2);
-  await fs.writeFile(OSMRelationsDir+station_object_filename, OSMRelationsString, 'utf-8');
+  // 国レベルの駅 オブジェクト
+  const station_obj_string = JSON.stringify(station_obj, null, 2);
+  await fs.writeFile(basedir+country_osm_id+'/'+station_object_filename, station_obj_string, 'utf-8');
+
+  // 国レベルの駅 英語オブジェクト
+  const station_obj_en_string = JSON.stringify(station_obj_en, null, 2);
+  await fs.writeFile(basedir_en+country_osm_id+'/'+station_object_filename, station_obj_en_string, 'utf-8');
+
+  // 国レベルの駅 日本語オブジェクト
+  const station_obj_ja_string = JSON.stringify(station_obj_ja, null, 2);
+  await fs.writeFile(basedir_ja+country_osm_id+'/'+station_object_filename, station_obj_ja_string, 'utf-8');
+
+  // 国レベルの駅 英語配列
+  const station_names_en_string = JSON.stringify(station_names_en, null, 2);
+  await fs.writeFile(basedir_en+country_osm_id+'/'+station_names_filename, station_names_en_string, 'utf-8');
+
+  // 国レベルの駅 日本語配列
+  const station_names_ja_string = JSON.stringify(station_names_ja, null, 2);
+  await fs.writeFile(basedir_ja+country_osm_id+'/'+station_names_filename, station_names_ja_string, 'utf-8');
 }
 
 (async() => {
@@ -372,9 +436,9 @@ const getAllStation = async (country_osm_id, state_osm_id, city_osm_id) => {
   //await getAllCityData(country_osm_id);
 
   // GeoJSONを収集する
-  await getAllStateAndCityGeoJSON(country_osm_id);
+  //await getAllStateAndCityGeoJSON(country_osm_id);
 
   // 駅情報を収集する
-  //await getAllStation(country_osm_id, 1543125, 1758888);
+  await getAllStationData(country_osm_id);
 
 })();

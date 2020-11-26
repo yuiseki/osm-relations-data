@@ -1,0 +1,630 @@
+{
+  "172522965": {
+    "en": "Kanagawa Prefecture Yokohama Shin-Koyasu Station",
+    "ja": "神奈川県 横浜市 新子安駅"
+  },
+  "263267206": {
+    "en": "Kanagawa Prefecture Yokohama Ofuna Station",
+    "ja": "神奈川県 横浜市 大船駅"
+  },
+  "263271899": {
+    "en": "Kanagawa Prefecture Yokohama Koyasu Station",
+    "ja": "神奈川県 横浜市 子安駅"
+  },
+  "263274493": {
+    "en": "Kanagawa Prefecture Yokohama Kanagawa-shimmachi Station",
+    "ja": "神奈川県 横浜市 神奈川新町駅"
+  },
+  "263274999": {
+    "en": "Kanagawa Prefecture Yokohama Yokohama Station",
+    "ja": "神奈川県 横浜市 横浜 (京浜急行電鉄)駅"
+  },
+  "263275159": {
+    "en": "Kanagawa Prefecture Yokohama Kanagawa Station",
+    "ja": "神奈川県 横浜市 神奈川駅"
+  },
+  "263298361": {
+    "en": "Kanagawa Prefecture Yokohama Mutsuura Station",
+    "ja": "神奈川県 横浜市 六浦駅"
+  },
+  "266084129": {
+    "en": "Kanagawa Prefecture Yokohama Aobadai Station",
+    "ja": "神奈川県 横浜市 青葉台駅"
+  },
+  "266084537": {
+    "en": "Kanagawa Prefecture Yokohama Eda Station",
+    "ja": "神奈川県 横浜市 江田駅"
+  },
+  "280474787": {
+    "en": "Kanagawa Prefecture Yokohama Kamoi Station",
+    "ja": "神奈川県 横浜市 鴨居駅"
+  },
+  "280474931": {
+    "en": "Kanagawa Prefecture Yokohama Nakayama Station",
+    "ja": "神奈川県 横浜市 中山駅"
+  },
+  "280474943": {
+    "en": "Kanagawa Prefecture Yokohama Oguchi Station",
+    "ja": "神奈川県 横浜市 大口駅"
+  },
+  "280475163": {
+    "en": "Kanagawa Prefecture Yokohama Tokaichiba Station",
+    "ja": "神奈川県 横浜市 十日市場駅"
+  },
+  "280475974": {
+    "en": "Kanagawa Prefecture Yokohama Kozukue Station",
+    "ja": "神奈川県 横浜市 小机駅"
+  },
+  "280476284": {
+    "en": "Kanagawa Prefecture Yokohama Higashi-Kanagawa Station",
+    "ja": "神奈川県 横浜市 東神奈川駅"
+  },
+  "280728684": {
+    "en": "Kanagawa Prefecture Yokohama Uminokoen-Shibaguchi Station",
+    "ja": "神奈川県 横浜市 海の公園柴口駅"
+  },
+  "280728809": {
+    "en": "Kanagawa Prefecture Yokohama Hakkeijima Station",
+    "ja": "神奈川県 横浜市 八景島駅"
+  },
+  "280728896": {
+    "en": "Kanagawa Prefecture Yokohama Uminokoen-Minamiguchi Station",
+    "ja": "神奈川県 横浜市 海の公園南口駅"
+  },
+  "280728933": {
+    "en": "Kanagawa Prefecture Yokohama 幸浦 Station",
+    "ja": "神奈川県 横浜市 幸浦駅"
+  },
+  "280728953": {
+    "en": "Kanagawa Prefecture Yokohama Fukuura Station",
+    "ja": "神奈川県 横浜市 福浦駅"
+  },
+  "280728980": {
+    "en": "Kanagawa Prefecture Yokohama Sangyoshinko Center Station",
+    "ja": "神奈川県 横浜市 産業振興センター駅"
+  },
+  "307882453": {
+    "en": "Kanagawa Prefecture Yokohama Onda Station",
+    "ja": "神奈川県 横浜市 恩田駅"
+  },
+  "307882539": {
+    "en": "Kanagawa Prefecture Yokohama Kodomonokuni Station",
+    "ja": "神奈川県 横浜市 こどもの国駅"
+  },
+  "355845276": {
+    "en": "Kanagawa Prefecture Yokohama Kaminagaya Station",
+    "ja": "神奈川県 横浜市 上永谷駅"
+  },
+  "694234836": {
+    "en": "Kanagawa Prefecture Yokohama Okurayama Station",
+    "ja": "神奈川県 横浜市 大倉山駅"
+  },
+  "823268950": {
+    "en": "Kanagawa Prefecture Yokohama Yumegaoka Station",
+    "ja": "神奈川県 横浜市 ゆめが丘駅"
+  },
+  "823269102": {
+    "en": "Kanagawa Prefecture Yokohama Yayoidai Station",
+    "ja": "神奈川県 横浜市 弥生台駅"
+  },
+  "823269235": {
+    "en": "Kanagawa Prefecture Yokohama Minami-Makigahara Station",
+    "ja": "神奈川県 横浜市 南万騎が原駅"
+  },
+  "823269267": {
+    "en": "Kanagawa Prefecture Yokohama Ryokuen-toshi Station",
+    "ja": "神奈川県 横浜市 緑園都市駅"
+  },
+  "823269414": {
+    "en": "Kanagawa Prefecture Yokohama Izumi-Chuo Station",
+    "ja": "神奈川県 横浜市 いずみ中央駅"
+  },
+  "823269446": {
+    "en": "Kanagawa Prefecture Yokohama Izumino Station",
+    "ja": "神奈川県 横浜市 いずみ野駅"
+  },
+  "823271603": {
+    "en": "Kanagawa Prefecture Yokohama Tsurugamine Station",
+    "ja": "神奈川県 横浜市 鶴ケ峰駅"
+  },
+  "823272153": {
+    "en": "Kanagawa Prefecture Yokohama Mitsukyo Station",
+    "ja": "神奈川県 横浜市 三ツ境駅"
+  },
+  "823272267": {
+    "en": "Kanagawa Prefecture Yokohama Wadamachi Station",
+    "ja": "神奈川県 横浜市 和田町駅"
+  },
+  "823272622": {
+    "en": "Kanagawa Prefecture Yokohama Nishiya Station",
+    "ja": "神奈川県 横浜市 西谷駅"
+  },
+  "823272743": {
+    "en": "Kanagawa Prefecture Yokohama Nishi-Yokohama Station",
+    "ja": "神奈川県 横浜市 西横浜駅"
+  },
+  "823272815": {
+    "en": "Kanagawa Prefecture Yokohama Tennocho Station",
+    "ja": "神奈川県 横浜市 天王町駅"
+  },
+  "823272975": {
+    "en": "Kanagawa Prefecture Yokohama Futamatagawa Station",
+    "ja": "神奈川県 横浜市 二俣川駅"
+  },
+  "823273031": {
+    "en": "Kanagawa Prefecture Yokohama Hoshikawa Station",
+    "ja": "神奈川県 横浜市 星川駅"
+  },
+  "823273057": {
+    "en": "Kanagawa Prefecture Yokohama Seya Station",
+    "ja": "神奈川県 横浜市 瀬谷駅"
+  },
+  "823273226": {
+    "en": "Kanagawa Prefecture Yokohama Kami-Hoshikawa Station",
+    "ja": "神奈川県 横浜市 上星川駅"
+  },
+  "823273354": {
+    "en": "Kanagawa Prefecture Yokohama Hiranuma-bashi Station",
+    "ja": "神奈川県 横浜市 平沼橋駅"
+  },
+  "1017449063": {
+    "en": "Kanagawa Prefecture Yokohama Myorenji Station",
+    "ja": "神奈川県 横浜市 妙蓮寺駅"
+  },
+  "1218588914": {
+    "en": "Kanagawa Prefecture Yokohama Tammachi Station",
+    "ja": "神奈川県 横浜市 反町駅"
+  },
+  "1656240306": {
+    "en": "Kanagawa Prefecture Yokohama Higashi-Totsuka Station",
+    "ja": "神奈川県 横浜市 東戸塚駅"
+  },
+  "1705352003": {
+    "en": "Kanagawa Prefecture Yokohama Kibogaoka Station",
+    "ja": "神奈川県 横浜市 希望ヶ丘駅"
+  },
+  "2468944535": {
+    "en": "Kanagawa Prefecture Yokohama Center Kita Station",
+    "ja": "神奈川県 横浜市 センター北駅"
+  },
+  "2550872398": {
+    "en": "Kanagawa Prefecture Yokohama Kanazawa-bunko Station",
+    "ja": "神奈川県 横浜市 金沢文庫駅"
+  },
+  "2550872399": {
+    "en": "Kanagawa Prefecture Yokohama Kanazawa-Hakkei Station",
+    "ja": "神奈川県 横浜市 金沢八景駅"
+  },
+  "2550872475": {
+    "en": "Kanagawa Prefecture Yokohama Namamugi Station",
+    "ja": "神奈川県 横浜市 生麦駅"
+  },
+  "2550872524": {
+    "en": "Kanagawa Prefecture Yokohama Keikyu Shinkoyasu Station",
+    "ja": "神奈川県 横浜市 京急新子安駅"
+  },
+  "2738954706": {
+    "en": "Kanagawa Prefecture Yokohama Sakuragicho Station",
+    "ja": "神奈川県 横浜市 桜木町駅"
+  },
+  "3205664660": {
+    "en": "Kanagawa Prefecture Yokohama Tsurumi Station",
+    "ja": "神奈川県 横浜市 鶴見駅"
+  },
+  "3213632950": {
+    "en": "Kanagawa Prefecture Yokohama Kikuna Station",
+    "ja": "神奈川県 横浜市 菊名駅"
+  },
+  "3357596416": {
+    "en": "Kanagawa Prefecture Yokohama Nagatsuta Station",
+    "ja": "神奈川県 横浜市 長津田駅"
+  },
+  "3585794198": {
+    "en": "Kanagawa Prefecture Yokohama Shin-Yokohama Station",
+    "ja": "神奈川県 横浜市 新横浜駅"
+  },
+  "3708276983": {
+    "en": "Kanagawa Prefecture Yokohama Hodogaya Station",
+    "ja": "神奈川県 横浜市 保土ヶ谷駅"
+  },
+  "3741112665": {
+    "en": "Kanagawa Prefecture Yokohama Namiki-Chuo Station",
+    "ja": "神奈川県 横浜市 並木中央駅"
+  },
+  "3741112666": {
+    "en": "Kanagawa Prefecture Yokohama Namiki-Kita Station",
+    "ja": "神奈川県 横浜市 並木北駅"
+  },
+  "3741112672": {
+    "en": "Kanagawa Prefecture Yokohama Shidai-Igakubu Station",
+    "ja": "神奈川県 横浜市 市大医学部駅"
+  },
+  "3741112678": {
+    "en": "Kanagawa Prefecture Yokohama Shin-Sugita Station",
+    "ja": "神奈川県 横浜市 新杉田駅"
+  },
+  "3741112687": {
+    "en": "Kanagawa Prefecture Yokohama Nojimakoen Station",
+    "ja": "神奈川県 横浜市 野島公園駅"
+  },
+  "3741112689": {
+    "en": "Kanagawa Prefecture Yokohama Kanazawa-Hakkei Station",
+    "ja": "神奈川県 横浜市 金沢八景駅"
+  },
+  "3995909013": {
+    "en": "Kanagawa Prefecture Yokohama Yamate Station",
+    "ja": "神奈川県 横浜市 山手駅"
+  },
+  "3995909014": {
+    "en": "Kanagawa Prefecture Yokohama Shin-Sugita Station",
+    "ja": "神奈川県 横浜市 新杉田駅"
+  },
+  "3995909015": {
+    "en": "Kanagawa Prefecture Yokohama Hongodai Station",
+    "ja": "神奈川県 横浜市 本郷台駅"
+  },
+  "3995909016": {
+    "en": "Kanagawa Prefecture Yokohama JR Negishi Station",
+    "ja": "神奈川県 横浜市 根岸駅"
+  },
+  "3995909017": {
+    "en": "Kanagawa Prefecture Yokohama Yokohama Station",
+    "ja": "神奈川県 横浜市 横浜 (東日本旅客鉄道)駅"
+  },
+  "3995909018": {
+    "en": "Kanagawa Prefecture Yokohama Yokodai Station",
+    "ja": "神奈川県 横浜市 洋光台駅"
+  },
+  "3995909019": {
+    "en": "Kanagawa Prefecture Yokohama Konandai Station",
+    "ja": "神奈川県 横浜市 港南台駅"
+  },
+  "3995909020": {
+    "en": "Kanagawa Prefecture Yokohama Isogo Station",
+    "ja": "神奈川県 横浜市 磯子駅"
+  },
+  "4011643455": {
+    "en": "Kanagawa Prefecture Yokohama Totsuka Station",
+    "ja": "神奈川県 横浜市 戸塚駅"
+  },
+  "5227138561": {
+    "en": "Kanagawa Prefecture Yokohama Center Kita Station",
+    "ja": "神奈川県 横浜市 センター北駅"
+  },
+  "5227138562": {
+    "en": "Kanagawa Prefecture Yokohama Center Minami Station",
+    "ja": "神奈川県 横浜市 センター南駅"
+  },
+  "5454949004": {
+    "en": "Kanagawa Prefecture Yokohama Konan-chuo Station",
+    "ja": "神奈川県 横浜市 港南中央駅"
+  },
+  "5591788441": {
+    "en": "Kanagawa Prefecture Yokohama Kamiooka Station",
+    "ja": "神奈川県 横浜市 上大岡駅"
+  },
+  "5591788444": {
+    "en": "Kanagawa Prefecture Yokohama Odoriba Station",
+    "ja": "神奈川県 横浜市 踊場駅"
+  },
+  "5591788445": {
+    "en": "Kanagawa Prefecture Yokohama Maioka Station",
+    "ja": "神奈川県 横浜市 舞岡駅"
+  },
+  "5591788446": {
+    "en": "Kanagawa Prefecture Yokohama Shimonagaya Station",
+    "ja": "神奈川県 横浜市 下永谷駅"
+  },
+  "6054866431": {
+    "en": "Kanagawa Prefecture Yokohama Torihama Station",
+    "ja": "神奈川県 横浜市 鳥浜駅"
+  },
+  "6054869524": {
+    "en": "Kanagawa Prefecture Yokohama Nambu-Shijo Station",
+    "ja": "神奈川県 横浜市 南部市場駅"
+  },
+  "6131416650": {
+    "en": "Kanagawa Prefecture Yokohama Hiyoshi Station",
+    "ja": "神奈川県 横浜市 日吉駅"
+  },
+  "6254629280": {
+    "en": "Kanagawa Prefecture Yokohama Tsunashima Station",
+    "ja": "神奈川県 横浜市 綱島駅"
+  },
+  "6254638463": {
+    "en": "Kanagawa Prefecture Yokohama Kikuna Station",
+    "ja": "神奈川県 横浜市 菊名駅"
+  },
+  "6254641022": {
+    "en": "Kanagawa Prefecture Yokohama Hakuraku Station",
+    "ja": "神奈川県 横浜市 白楽駅"
+  },
+  "6254645691": {
+    "en": "Kanagawa Prefecture Yokohama Higashi-hakuraku Station",
+    "ja": "神奈川県 横浜市 東白楽駅"
+  },
+  "6449745750": {
+    "en": "Kanagawa Prefecture Yokohama Yako Station",
+    "ja": "神奈川県 横浜市 矢向駅"
+  },
+  "6679881387": {
+    "en": "Kanagawa Prefecture Yokohama Hazawa Yokohama-Kokudai Station",
+    "ja": "神奈川県 横浜市 羽沢横浜国大駅"
+  },
+  "6802293266": {
+    "en": "Kanagawa Prefecture Yokohama Ichigao Station",
+    "ja": "神奈川県 横浜市 市が尾駅"
+  },
+  "6802306080": {
+    "en": "Kanagawa Prefecture Yokohama Tama-plaza Station",
+    "ja": "神奈川県 横浜市 たまプラーザ駅"
+  },
+  "6802316527": {
+    "en": "Kanagawa Prefecture Yokohama Azamino Station",
+    "ja": "神奈川県 横浜市 あざみ野駅"
+  },
+  "7047979337": {
+    "en": "Kanagawa Prefecture Yokohama Ishikawacho Station",
+    "ja": "神奈川県 横浜市 石川町駅"
+  },
+  "7048013177": {
+    "en": "Kanagawa Prefecture Yokohama Kannai Station",
+    "ja": "神奈川県 横浜市 関内駅"
+  },
+  "7059517201": {
+    "en": "Kanagawa Prefecture Yokohama へリサイクル ローリングサイクル Station",
+    "ja": "神奈川県 横浜市 へリサイクル ローリングサイクル駅"
+  },
+  "7096836747": {
+    "en": "Kanagawa Prefecture Yokohama Fujigaoka Station",
+    "ja": "神奈川県 横浜市 藤が丘駅"
+  },
+  "7096971520": {
+    "en": "Kanagawa Prefecture Yokohama Tana Station",
+    "ja": "神奈川県 横浜市 田奈駅"
+  },
+  "7601088838": {
+    "en": "Kanagawa Prefecture Yokohama Nakamachidai Station",
+    "ja": "神奈川県 横浜市 仲町台駅"
+  },
+  "7601120732": {
+    "en": "Kanagawa Prefecture Yokohama Tateba Station",
+    "ja": "神奈川県 横浜市 立場駅"
+  },
+  "7601124723": {
+    "en": "Kanagawa Prefecture Yokohama Shimoiida Station",
+    "ja": "神奈川県 横浜市 下飯田駅"
+  },
+  "7749849503": {
+    "en": "Kanagawa Prefecture Yokohama Azamino Station",
+    "ja": "神奈川県 横浜市 あざみ野駅"
+  },
+  "7749865377": {
+    "en": "Kanagawa Prefecture Yokohama Totsuka Station",
+    "ja": "神奈川県 横浜市 戸塚駅"
+  },
+  "7749865378": {
+    "en": "Kanagawa Prefecture Yokohama Nakada Station",
+    "ja": "神奈川県 横浜市 中田駅"
+  },
+  "7749869512": {
+    "en": "Kanagawa Prefecture Yokohama Nakagawa Station",
+    "ja": "神奈川県 横浜市 中川駅"
+  },
+  "7750187059": {
+    "en": "Kanagawa Prefecture Yokohama Nippa Station",
+    "ja": "神奈川県 横浜市 新羽駅"
+  },
+  "7750187061": {
+    "en": "Kanagawa Prefecture Yokohama Center Minami Station",
+    "ja": "神奈川県 横浜市 センター南駅"
+  },
+  "7750247043": {
+    "en": "Kanagawa Prefecture Yokohama Maita Station",
+    "ja": "神奈川県 横浜市 蒔田駅"
+  },
+  "7750247044": {
+    "en": "Kanagawa Prefecture Yokohama Gumyoji Station",
+    "ja": "神奈川県 横浜市 弘明寺駅"
+  },
+  "7750247045": {
+    "en": "Kanagawa Prefecture Yokohama Shin-yokohama Station",
+    "ja": "神奈川県 横浜市 新横浜駅"
+  },
+  "7750247047": {
+    "en": "Kanagawa Prefecture Yokohama Kita-shin-yokohama Station",
+    "ja": "神奈川県 横浜市 北新横浜駅"
+  },
+  "7750338822": {
+    "en": "Kanagawa Prefecture Yokohama Takashimacho Station",
+    "ja": "神奈川県 横浜市 高島町駅"
+  },
+  "7750338823": {
+    "en": "Kanagawa Prefecture Yokohama Sakuragicho Station",
+    "ja": "神奈川県 横浜市 桜木町駅"
+  },
+  "7750338824": {
+    "en": "Kanagawa Prefecture Yokohama Kannai Station",
+    "ja": "神奈川県 横浜市 関内駅"
+  },
+  "7750338825": {
+    "en": "Kanagawa Prefecture Yokohama Isezaki-chojamachi Station",
+    "ja": "神奈川県 横浜市 伊勢佐木長者町駅"
+  },
+  "7750338826": {
+    "en": "Kanagawa Prefecture Yokohama Bandobashi Station",
+    "ja": "神奈川県 横浜市 阪東橋駅"
+  },
+  "7750342739": {
+    "en": "Kanagawa Prefecture Yokohama Kishine-koen Station",
+    "ja": "神奈川県 横浜市 岸根公園駅"
+  },
+  "7750342740": {
+    "en": "Kanagawa Prefecture Yokohama Mitsuzawa-kamicho Station",
+    "ja": "神奈川県 横浜市 三ツ沢上町駅"
+  },
+  "7750342741": {
+    "en": "Kanagawa Prefecture Yokohama Katakuracho Station",
+    "ja": "神奈川県 横浜市 片倉町駅"
+  },
+  "7750342742": {
+    "en": "Kanagawa Prefecture Yokohama Mitsuzawa-shimocho Station",
+    "ja": "神奈川県 横浜市 三ツ沢下町駅"
+  },
+  "7750342743": {
+    "en": "Kanagawa Prefecture Yokohama Yokohama Station",
+    "ja": "神奈川県 横浜市 横浜 (横浜市交通局)駅"
+  },
+  "7750348391": {
+    "en": "Kanagawa Prefecture Yokohama Yoshinocho Station",
+    "ja": "神奈川県 横浜市 吉野町駅"
+  },
+  "7771245984": {
+    "en": "Kanagawa Prefecture Yokohama Nakayama Station",
+    "ja": "神奈川県 横浜市 中山駅"
+  },
+  "7772733582": {
+    "en": "Kanagawa Prefecture Yokohama Kawawacho Station",
+    "ja": "神奈川県 横浜市 川和町駅"
+  },
+  "7772737929": {
+    "en": "Kanagawa Prefecture Yokohama Tsuzuki-fureainooka Station",
+    "ja": "神奈川県 横浜市 都筑ふれあいの丘駅"
+  },
+  "7772745205": {
+    "en": "Kanagawa Prefecture Yokohama Hiyoshi Station",
+    "ja": "神奈川県 横浜市 日吉駅"
+  },
+  "7772745206": {
+    "en": "Kanagawa Prefecture Yokohama Hiyoshi-honcho Station",
+    "ja": "神奈川県 横浜市 日吉本町駅"
+  },
+  "7772745207": {
+    "en": "Kanagawa Prefecture Yokohama Takata Station",
+    "ja": "神奈川県 横浜市 高田駅"
+  },
+  "7772745208": {
+    "en": "Kanagawa Prefecture Yokohama Higashi-yamata Station",
+    "ja": "神奈川県 横浜市 東山田駅"
+  },
+  "7772745209": {
+    "en": "Kanagawa Prefecture Yokohama Kita-yamata Station",
+    "ja": "神奈川県 横浜市 北山田駅"
+  },
+  "7804259443": {
+    "en": "Kanagawa Prefecture Yokohama Yokohama Station",
+    "ja": "神奈川県 横浜市 横浜 (相模鉄道)駅"
+  },
+  "7834937707": {
+    "en": "Kanagawa Prefecture Yokohama Kagetsu-Sojiji Station",
+    "ja": "神奈川県 横浜市 花月総持寺駅"
+  },
+  "7834937709": {
+    "en": "Kanagawa Prefecture Yokohama Keikyu Tsurumi Station",
+    "ja": "神奈川県 横浜市 京急鶴見駅"
+  },
+  "7834937710": {
+    "en": "Kanagawa Prefecture Yokohama Tsurumi-ichiba Station",
+    "ja": "神奈川県 横浜市 鶴見市場駅"
+  },
+  "7856115775": {
+    "en": "Kanagawa Prefecture Yokohama Motomachi-chukagai Station",
+    "ja": "神奈川県 横浜市 元町・中華街駅"
+  },
+  "7856115776": {
+    "en": "Kanagawa Prefecture Yokohama Nihon-odori Station",
+    "ja": "神奈川県 横浜市 日本大通り駅"
+  },
+  "7856115777": {
+    "en": "Kanagawa Prefecture Yokohama Bashamichi Station",
+    "ja": "神奈川県 横浜市 馬車道駅"
+  },
+  "7856115778": {
+    "en": "Kanagawa Prefecture Yokohama Minatomirai Station",
+    "ja": "神奈川県 横浜市 みなとみらい駅"
+  },
+  "7856115779": {
+    "en": "Kanagawa Prefecture Yokohama Shin-Takashima Station",
+    "ja": "神奈川県 横浜市 新高島駅"
+  },
+  "7856860987": {
+    "en": "Kanagawa Prefecture Yokohama Keikyu Tomioka Station",
+    "ja": "神奈川県 横浜市 京急富岡駅"
+  },
+  "7856860988": {
+    "en": "Kanagawa Prefecture Yokohama Sugita Station",
+    "ja": "神奈川県 横浜市 杉田駅"
+  },
+  "7856860990": {
+    "en": "Kanagawa Prefecture Yokohama Byobugaura Station",
+    "ja": "神奈川県 横浜市 屏風浦駅"
+  },
+  "7856860992": {
+    "en": "Kanagawa Prefecture Yokohama Kamiooka Station",
+    "ja": "神奈川県 横浜市 上大岡駅"
+  },
+  "7856860996": {
+    "en": "Kanagawa Prefecture Yokohama Gumyoji Station",
+    "ja": "神奈川県 横浜市 弘明寺駅"
+  },
+  "7856860997": {
+    "en": "Kanagawa Prefecture Yokohama Idogaya Station",
+    "ja": "神奈川県 横浜市 井土ヶ谷駅"
+  },
+  "7856860998": {
+    "en": "Kanagawa Prefecture Yokohama Minamiota Station",
+    "ja": "神奈川県 横浜市 南太田駅"
+  },
+  "7856861001": {
+    "en": "Kanagawa Prefecture Yokohama Koganecho Station",
+    "ja": "神奈川県 横浜市 黄金町駅"
+  },
+  "7856861002": {
+    "en": "Kanagawa Prefecture Yokohama Hinodecho Station",
+    "ja": "神奈川県 横浜市 日ノ出町駅"
+  },
+  "7856861003": {
+    "en": "Kanagawa Prefecture Yokohama Tobe Station",
+    "ja": "神奈川県 横浜市 戸部駅"
+  },
+  "7856861004": {
+    "en": "Kanagawa Prefecture Yokohama Keikyu Higash-ikanagawa Station",
+    "ja": "神奈川県 横浜市 京急東神奈川駅"
+  },
+  "7857902092": {
+    "en": "Kanagawa Prefecture Yokohama Nokendai Station",
+    "ja": "神奈川県 横浜市 能見台駅"
+  },
+  "7967959831": {
+    "en": "Kanagawa Prefecture Yokohama Yokohama Station",
+    "ja": "神奈川県 横浜市 横浜駅"
+  },
+  "8026383420": {
+    "en": "Kanagawa Prefecture Yokohama Asano Station",
+    "ja": "神奈川県 横浜市 浅野駅"
+  },
+  "8026383421": {
+    "en": "Kanagawa Prefecture Yokohama Anzen Station",
+    "ja": "神奈川県 横浜市 安善駅"
+  },
+  "8026421430": {
+    "en": "Kanagawa Prefecture Yokohama Umi-Shibaura Station",
+    "ja": "神奈川県 横浜市 海芝浦駅"
+  },
+  "8026421469": {
+    "en": "Kanagawa Prefecture Yokohama Tsurumiono Station",
+    "ja": "神奈川県 横浜市 鶴見小野駅"
+  },
+  "8026429248": {
+    "en": "Kanagawa Prefecture Yokohama Shin-Shibaura Station",
+    "ja": "神奈川県 横浜市 新芝浦駅"
+  },
+  "8026433198": {
+    "en": "Kanagawa Prefecture Yokohama Bentembashi Station",
+    "ja": "神奈川県 横浜市 弁天橋駅"
+  },
+  "8026435189": {
+    "en": "Kanagawa Prefecture Yokohama Kokudo Station",
+    "ja": "神奈川県 横浜市 国道駅"
+  }
+}

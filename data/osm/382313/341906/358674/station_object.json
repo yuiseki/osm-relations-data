@@ -1,0 +1,950 @@
+{
+  "267446732": {
+    "en": "Osaka Prefecture Osaka Imamiya Station",
+    "ja": "大阪府 大阪市 今宮駅"
+  },
+  "267447385": {
+    "en": "Osaka Prefecture Osaka JR Namba Station",
+    "ja": "大阪府 大阪市 JR難波駅"
+  },
+  "267460437": {
+    "en": "Osaka Prefecture Osaka Higashi-Yodogawa Station",
+    "ja": "大阪府 大阪市 東淀川駅"
+  },
+  "267461794": {
+    "en": "Osaka Prefecture Osaka Sakurajima Station",
+    "ja": "大阪府 大阪市 桜島駅"
+  },
+  "267461811": {
+    "en": "Osaka Prefecture Osaka Universal City Station",
+    "ja": "大阪府 大阪市 ユニバーサルシティ駅"
+  },
+  "280487841": {
+    "en": "Osaka Prefecture Osaka Namba Station",
+    "ja": "大阪府 大阪市 なんば駅"
+  },
+  "280492098": {
+    "en": "Osaka Prefecture Osaka Sawanochō Station",
+    "ja": "大阪府 大阪市 沢ノ町駅"
+  },
+  "280492341": {
+    "en": "Osaka Prefecture Osaka Tsumori Station",
+    "ja": "大阪府 大阪市 津守駅"
+  },
+  "280492544": {
+    "en": "Osaka Prefecture Osaka Kizugawa Station",
+    "ja": "大阪府 大阪市 木津川駅"
+  },
+  "280492793": {
+    "en": "Osaka Prefecture Osaka Ashiharacho Station",
+    "ja": "大阪府 大阪市 芦原町駅"
+  },
+  "280493642": {
+    "en": "Osaka Prefecture Osaka Sumiyoshihigashi Station",
+    "ja": "大阪府 大阪市 住吉東駅"
+  },
+  "335836140": {
+    "en": "Osaka Prefecture Osaka Ōsaka Uehommachi Station",
+    "ja": "大阪府 大阪市 大阪上本町駅"
+  },
+  "346120930": {
+    "en": "Osaka Prefecture Osaka Mikuni Station",
+    "ja": "大阪府 大阪市 三国駅"
+  },
+  "346120988": {
+    "en": "Osaka Prefecture Osaka Nakatsu Station",
+    "ja": "大阪府 大阪市 中津駅"
+  },
+  "346486546": {
+    "en": "Osaka Prefecture Osaka Kanzakigawa Station",
+    "ja": "大阪府 大阪市 神崎川駅"
+  },
+  "346488947": {
+    "en": "Osaka Prefecture Osaka Chibune Station",
+    "ja": "大阪府 大阪市 千船駅"
+  },
+  "346493326": {
+    "en": "Osaka Prefecture Osaka Ferry Terminal Station",
+    "ja": "大阪府 大阪市 フェリーターミナル駅"
+  },
+  "346493339": {
+    "en": "Osaka Prefecture Osaka Nanko-higashi Station",
+    "ja": "大阪府 大阪市 南港東駅"
+  },
+  "346493752": {
+    "en": "Osaka Prefecture Osaka Nanko-guchi Station",
+    "ja": "大阪府 大阪市 南港口駅"
+  },
+  "346493769": {
+    "en": "Osaka Prefecture Osaka Nakafuto Station",
+    "ja": "大阪府 大阪市 中ふ頭駅"
+  },
+  "346493834": {
+    "en": "Osaka Prefecture Osaka Hirabayashi Station",
+    "ja": "大阪府 大阪市 平林駅"
+  },
+  "346494201": {
+    "en": "Osaka Prefecture Osaka Port Town-nishi Station",
+    "ja": "大阪府 大阪市 ポートタウン西駅"
+  },
+  "346685291": {
+    "en": "Osaka Prefecture Osaka Osaka Station",
+    "ja": "大阪府 大阪市 大阪駅"
+  },
+  "346685316": {
+    "en": "Osaka Prefecture Osaka Morinomiya Station",
+    "ja": "大阪府 大阪市 森ノ宮駅"
+  },
+  "346685329": {
+    "en": "Osaka Prefecture Osaka Tamatsukuri Station",
+    "ja": "大阪府 大阪市 玉造駅"
+  },
+  "346685381": {
+    "en": "Osaka Prefecture Osaka Ōsakajōkōen Station",
+    "ja": "大阪府 大阪市 大阪城公園駅"
+  },
+  "346685402": {
+    "en": "Osaka Prefecture Osaka Fukushima Station",
+    "ja": "大阪府 大阪市 福島駅"
+  },
+  "347198109": {
+    "en": "Osaka Prefecture Osaka Dekijima Station",
+    "ja": "大阪府 大阪市 出来島駅"
+  },
+  "347198124": {
+    "en": "Osaka Prefecture Osaka Fuku Station",
+    "ja": "大阪府 大阪市 福駅"
+  },
+  "347198154": {
+    "en": "Osaka Prefecture Osaka Nishikujō Station",
+    "ja": "大阪府 大阪市 西九条駅"
+  },
+  "347198160": {
+    "en": "Osaka Prefecture Osaka Chidoribashi Station",
+    "ja": "大阪府 大阪市 千鳥橋駅"
+  },
+  "347198162": {
+    "en": "Osaka Prefecture Osaka Dempō Station",
+    "ja": "大阪府 大阪市 伝法駅"
+  },
+  "413336883": {
+    "en": "Osaka Prefecture Osaka Osaka Abenobashi Station",
+    "ja": "大阪府 大阪市 大阪阿部野橋駅"
+  },
+  "534123201": {
+    "en": "Osaka Prefecture Osaka Shin-Osaka Station",
+    "ja": "大阪府 大阪市 新大阪駅"
+  },
+  "536380901": {
+    "en": "Osaka Prefecture Osaka Hirano Station",
+    "ja": "大阪府 大阪市 平野駅"
+  },
+  "536381080": {
+    "en": "Osaka Prefecture Osaka Fuminosato Station",
+    "ja": "大阪府 大阪市 文の里駅"
+  },
+  "536382450": {
+    "en": "Osaka Prefecture Osaka Noe-Uchindai Station",
+    "ja": "大阪府 大阪市 野江内代駅"
+  },
+  "536382688": {
+    "en": "Osaka Prefecture Osaka Sekime-Takadono Station",
+    "ja": "大阪府 大阪市 関目高殿駅"
+  },
+  "536382857": {
+    "en": "Osaka Prefecture Osaka Sembayashi-Omiya Station",
+    "ja": "大阪府 大阪市 千林大宮駅"
+  },
+  "538724140": {
+    "en": "Osaka Prefecture Osaka Shigino Station",
+    "ja": "大阪府 大阪市 鴫野駅"
+  },
+  "538724186": {
+    "en": "Osaka Prefecture Osaka Sekime-Seiiku Station",
+    "ja": "大阪府 大阪市 関目成育駅"
+  },
+  "538724212": {
+    "en": "Osaka Prefecture Osaka Shimmori-Furuichi Station",
+    "ja": "大阪府 大阪市 新森古市駅"
+  },
+  "538724214": {
+    "en": "Osaka Prefecture Osaka Shimizu Station",
+    "ja": "大阪府 大阪市 清水駅"
+  },
+  "538724639": {
+    "en": "Osaka Prefecture Osaka Daido-Toyosato Station",
+    "ja": "大阪府 大阪市 だいどう豊里駅"
+  },
+  "538724645": {
+    "en": "Osaka Prefecture Osaka Zuiko 4-chome Station",
+    "ja": "大阪府 大阪市 瑞光四丁目駅"
+  },
+  "538724663": {
+    "en": "Osaka Prefecture Osaka Itakano Station",
+    "ja": "大阪府 大阪市 井高野駅"
+  },
+  "942638193": {
+    "en": "Osaka Prefecture Osaka Shin-Kami Station",
+    "ja": "大阪府 大阪市 新加美駅"
+  },
+  "968591168": {
+    "en": "Osaka Prefecture Osaka Awaji Station",
+    "ja": "大阪府 大阪市 淡路駅"
+  },
+  "2648985509": {
+    "en": "Osaka Prefecture Osaka Sōzenji Station",
+    "ja": "大阪府 大阪市 崇禅寺駅"
+  },
+  "3544516031": {
+    "en": "Osaka Prefecture Osaka Osaka Umeda Station",
+    "ja": "大阪府 大阪市 大阪梅田駅"
+  },
+  "3626952971": {
+    "en": "Osaka Prefecture Osaka Shin-Osaka Station",
+    "ja": "大阪府 大阪市 新大阪駅"
+  },
+  "3631703491": {
+    "en": "Osaka Prefecture Osaka Tsuruhashi Station",
+    "ja": "大阪府 大阪市 鶴橋駅"
+  },
+  "3632173760": {
+    "en": "Osaka Prefecture Osaka Imagawa Station",
+    "ja": "大阪府 大阪市 今川駅"
+  },
+  "3632173761": {
+    "en": "Osaka Prefecture Osaka Kita-Tanabe Station",
+    "ja": "大阪府 大阪市 北田辺駅"
+  },
+  "3632173763": {
+    "en": "Osaka Prefecture Osaka Koboreguchi Station",
+    "ja": "大阪府 大阪市 河堀口駅"
+  },
+  "3632173764": {
+    "en": "Osaka Prefecture Osaka Yata Station",
+    "ja": "大阪府 大阪市 矢田駅"
+  },
+  "3632173765": {
+    "en": "Osaka Prefecture Osaka Harinakano Station",
+    "ja": "大阪府 大阪市 針中野駅"
+  },
+  "3632179681": {
+    "en": "Osaka Prefecture Osaka Tennoji Station",
+    "ja": "大阪府 大阪市 天王寺駅"
+  },
+  "3632635135": {
+    "en": "Osaka Prefecture Osaka Yodogawa Station",
+    "ja": "大阪府 大阪市 淀川駅"
+  },
+  "3632635136": {
+    "en": "Osaka Prefecture Osaka Noda Station",
+    "ja": "大阪府 大阪市 野田駅"
+  },
+  "3632936957": {
+    "en": "Osaka Prefecture Osaka Osaka-Umeda Station",
+    "ja": "大阪府 大阪市 大阪梅田駅"
+  },
+  "3633021860": {
+    "en": "Osaka Prefecture Osaka Ajikawaguchi Station",
+    "ja": "大阪府 大阪市 安治川口駅"
+  },
+  "3909772561": {
+    "en": "Osaka Prefecture Osaka Fukushima Station",
+    "ja": "大阪府 大阪市 福島駅"
+  },
+  "3980014970": {
+    "en": "Osaka Prefecture Osaka Kyobashi Station",
+    "ja": "大阪府 大阪市 京橋駅"
+  },
+  "3980099245": {
+    "en": "Osaka Prefecture Osaka Temmabashi Station",
+    "ja": "大阪府 大阪市 天満橋駅"
+  },
+  "3980162819": {
+    "en": "Osaka Prefecture Osaka Sembayashi Station",
+    "ja": "大阪府 大阪市 千林駅"
+  },
+  "3980162820": {
+    "en": "Osaka Prefecture Osaka Noe Station",
+    "ja": "大阪府 大阪市 野江駅"
+  },
+  "3981403700": {
+    "en": "Osaka Prefecture Osaka Kyobashi Station",
+    "ja": "大阪府 大阪市 京橋駅"
+  },
+  "3981910288": {
+    "en": "Osaka Prefecture Osaka Imaimiyaebisu Station",
+    "ja": "大阪府 大阪市 今宮戎駅"
+  },
+  "3981910289": {
+    "en": "Osaka Prefecture Osaka Tengachaya Station",
+    "ja": "大阪府 大阪市 天下茶屋駅"
+  },
+  "3981910290": {
+    "en": "Osaka Prefecture Osaka Shin-Imaimiya Station",
+    "ja": "大阪府 大阪市 新今宮駅"
+  },
+  "3981910291": {
+    "en": "Osaka Prefecture Osaka Haginochaya Station",
+    "ja": "大阪府 大阪市 萩ノ茶屋駅"
+  },
+  "3981948685": {
+    "en": "Osaka Prefecture Osaka Tezukayama Station",
+    "ja": "大阪府 大阪市 帝塚山駅"
+  },
+  "3981964288": {
+    "en": "Osaka Prefecture Osaka Sumiyoshitaisha Station",
+    "ja": "大阪府 大阪市 住吉大社駅"
+  },
+  "3981964289": {
+    "en": "Osaka Prefecture Osaka Kohama Station",
+    "ja": "大阪府 大阪市 粉浜駅"
+  },
+  "3982043635": {
+    "en": "Osaka Prefecture Osaka Kishinosato-tamade Station",
+    "ja": "大阪府 大阪市 岸里玉出駅"
+  },
+  "4042560906": {
+    "en": "Osaka Prefecture Osaka Himejima Station",
+    "ja": "大阪府 大阪市 姫島駅"
+  },
+  "4055759880": {
+    "en": "Osaka Prefecture Osaka Abikomae Station",
+    "ja": "大阪府 大阪市 我孫子前駅"
+  },
+  "4080356573": {
+    "en": "Osaka Prefecture Osaka Aikawa Station",
+    "ja": "大阪府 大阪市 相川駅"
+  },
+  "4080358029": {
+    "en": "Osaka Prefecture Osaka Kami-Shinjō Station",
+    "ja": "大阪府 大阪市 上新庄駅"
+  },
+  "4380716601": {
+    "en": "Osaka Prefecture Osaka Minamikata Station",
+    "ja": "大阪府 大阪市 南方駅"
+  },
+  "4427192486": {
+    "en": "Osaka Prefecture Osaka Jūsō Station",
+    "ja": "大阪府 大阪市 十三駅"
+  },
+  "4451004010": {
+    "en": "Osaka Prefecture Osaka Hanaten Station",
+    "ja": "大阪府 大阪市 放出駅"
+  },
+  "4451435277": {
+    "en": "Osaka Prefecture Osaka Kunijima Station",
+    "ja": "大阪府 大阪市 柴島駅"
+  },
+  "4457234092": {
+    "en": "Osaka Prefecture Osaka Sugimotocho Station",
+    "ja": "大阪府 大阪市 杉本町駅"
+  },
+  "4457242908": {
+    "en": "Osaka Prefecture Osaka Abikocho Station",
+    "ja": "大阪府 大阪市 我孫子町駅"
+  },
+  "4457242909": {
+    "en": "Osaka Prefecture Osaka Nagai Station",
+    "ja": "大阪府 大阪市 長居駅"
+  },
+  "4457242910": {
+    "en": "Osaka Prefecture Osaka Tsurugaoka Station",
+    "ja": "大阪府 大阪市 鶴ヶ丘駅"
+  },
+  "4894820468": {
+    "en": "Osaka Prefecture Osaka Watanabebashi Station",
+    "ja": "大阪府 大阪市 渡辺橋駅"
+  },
+  "4894820469": {
+    "en": "Osaka Prefecture Osaka Nakanoshima Station",
+    "ja": "大阪府 大阪市 中之島駅"
+  },
+  "4894820471": {
+    "en": "Osaka Prefecture Osaka Oebashi Station",
+    "ja": "大阪府 大阪市 大江橋駅"
+  },
+  "4894820472": {
+    "en": "Osaka Prefecture Osaka Naniwabashi Station",
+    "ja": "大阪府 大阪市 なにわ橋駅"
+  },
+  "4894826988": {
+    "en": "Osaka Prefecture Osaka Yodoyabashi Station",
+    "ja": "大阪府 大阪市 淀屋橋駅"
+  },
+  "4894826989": {
+    "en": "Osaka Prefecture Osaka Kitahama Station",
+    "ja": "大阪府 大阪市 北浜駅"
+  },
+  "4917640386": {
+    "en": "Osaka Prefecture Osaka Sekime Station",
+    "ja": "大阪府 大阪市 関目駅"
+  },
+  "5409244007": {
+    "en": "Osaka Prefecture Osaka Taisho Station",
+    "ja": "大阪府 大阪市 大正駅"
+  },
+  "5409280096": {
+    "en": "Osaka Prefecture Osaka Nagahoribashi Station",
+    "ja": "大阪府 大阪市 長堀橋駅"
+  },
+  "5410196445": {
+    "en": "Osaka Prefecture Osaka Nagahara Station",
+    "ja": "大阪府 大阪市 長原駅"
+  },
+  "5411365640": {
+    "en": "Osaka Prefecture Osaka Deto Station",
+    "ja": "大阪府 大阪市 出戸駅"
+  },
+  "5411367005": {
+    "en": "Osaka Prefecture Osaka Kire-Uriwari Station",
+    "ja": "大阪府 大阪市 喜連瓜破駅"
+  },
+  "5411367508": {
+    "en": "Osaka Prefecture Osaka Komagawa-Nakano Station",
+    "ja": "大阪府 大阪市 駒川中野駅"
+  },
+  "5411370292": {
+    "en": "Osaka Prefecture Osaka Tanabe Station",
+    "ja": "大阪府 大阪市 田辺駅"
+  },
+  "5411371340": {
+    "en": "Osaka Prefecture Osaka Abeno Station",
+    "ja": "大阪府 大阪市 阿倍野駅"
+  },
+  "5411372543": {
+    "en": "Osaka Prefecture Osaka Tennoji Station",
+    "ja": "大阪府 大阪市 天王寺駅"
+  },
+  "5411372548": {
+    "en": "Osaka Prefecture Osaka Tanimachi 6-chome Station",
+    "ja": "大阪府 大阪市 谷町六丁目駅"
+  },
+  "5411373018": {
+    "en": "Osaka Prefecture Osaka Shitannoji-mae Yuhigaoka Station",
+    "ja": "大阪府 大阪市 四天王寺前夕陽ヶ丘駅"
+  },
+  "5411375629": {
+    "en": "Osaka Prefecture Osaka Tanimachi 4-chome Station",
+    "ja": "大阪府 大阪市 谷町四丁目駅"
+  },
+  "5411378108": {
+    "en": "Osaka Prefecture Osaka Temmabashi Station",
+    "ja": "大阪府 大阪市 天満橋駅"
+  },
+  "5411378288": {
+    "en": "Osaka Prefecture Osaka Higashi-Umeda Station",
+    "ja": "大阪府 大阪市 東梅田駅"
+  },
+  "5411378294": {
+    "en": "Osaka Prefecture Osaka Nakazakicho Station",
+    "ja": "大阪府 大阪市 中崎町駅"
+  },
+  "5411379189": {
+    "en": "Osaka Prefecture Osaka Miyakojima Station",
+    "ja": "大阪府 大阪市 都島駅"
+  },
+  "5647131995": {
+    "en": "Osaka Prefecture Osaka Ōsakakō Station",
+    "ja": "大阪府 大阪市 大阪港駅"
+  },
+  "5732164219": {
+    "en": "Osaka Prefecture Osaka Yodoyabashi Station",
+    "ja": "大阪府 大阪市 淀屋橋駅"
+  },
+  "5798710552": {
+    "en": "Osaka Prefecture Osaka Temma Station",
+    "ja": "大阪府 大阪市 天満駅"
+  },
+  "6172803483": {
+    "en": "Osaka Prefecture Osaka Shiomibashi Station",
+    "ja": "大阪府 大阪市 汐見橋駅"
+  },
+  "6173655626": {
+    "en": "Osaka Prefecture Osaka Nishi-Tengachaya Station",
+    "ja": "大阪府 大阪市 西天下茶屋駅"
+  },
+  "6189804252": {
+    "en": "Osaka Prefecture Osaka JR-Awaji Station",
+    "ja": "大阪府 大阪市 JR淡路駅"
+  },
+  "6199755873": {
+    "en": "Osaka Prefecture Osaka Asashiobashi Station",
+    "ja": "大阪府 大阪市 朝潮橋駅"
+  },
+  "6348837493": {
+    "en": "Osaka Prefecture Osaka Shimo-Shinjō Station",
+    "ja": "大阪府 大阪市 下新庄駅"
+  },
+  "6433424087": {
+    "en": "Osaka Prefecture Osaka Kashima Station",
+    "ja": "大阪府 大阪市 加島駅"
+  },
+  "6484572890": {
+    "en": "Osaka Prefecture Osaka Suminoekoen Station",
+    "ja": "大阪府 大阪市 住之江公園駅"
+  },
+  "6489055167": {
+    "en": "Osaka Prefecture Osaka Namba Station",
+    "ja": "大阪府 大阪市 なんば駅"
+  },
+  "6621493575": {
+    "en": "Osaka Prefecture Osaka Cosmo Square Station",
+    "ja": "大阪府 大阪市 コスモスクエア駅"
+  },
+  "6631008279": {
+    "en": "Osaka Prefecture Osaka Ōsaka Namba Station",
+    "ja": "大阪府 大阪市 大阪難波駅"
+  },
+  "6641323161": {
+    "en": "Osaka Prefecture Osaka Shin Osaka Station",
+    "ja": "大阪府 大阪市 新大阪駅"
+  },
+  "6818457280": {
+    "en": "Osaka Prefecture Osaka Noda Station",
+    "ja": "大阪府 大阪市 野田駅"
+  },
+  "6820905980": {
+    "en": "Osaka Prefecture Osaka Sakuranomiya Station",
+    "ja": "大阪府 大阪市 桜ノ宮駅"
+  },
+  "6821242325": {
+    "en": "Osaka Prefecture Osaka Kyobashi Station",
+    "ja": "大阪府 大阪市 京橋駅"
+  },
+  "6821281150": {
+    "en": "Osaka Prefecture Osaka Momodani Station",
+    "ja": "大阪府 大阪市 桃谷駅"
+  },
+  "6821302418": {
+    "en": "Osaka Prefecture Osaka Ashiharabashi Station",
+    "ja": "大阪府 大阪市 芦原橋駅"
+  },
+  "6821340887": {
+    "en": "Osaka Prefecture Osaka Teradacho Station",
+    "ja": "大阪府 大阪市 寺田町駅"
+  },
+  "6821358154": {
+    "en": "Osaka Prefecture Osaka Bentencho Station",
+    "ja": "大阪府 大阪市 弁天町駅"
+  },
+  "6821360148": {
+    "en": "Osaka Prefecture Osaka Taisho Station",
+    "ja": "大阪府 大阪市 大正駅"
+  },
+  "7045760391": {
+    "en": "Osaka Prefecture Osaka 百済貨物ターミナル Station",
+    "ja": "大阪府 大阪市 百済貨物ターミナル駅"
+  },
+  "7338704572": {
+    "en": "Osaka Prefecture Osaka Nishikujō Station",
+    "ja": "大阪府 大阪市 西九条駅"
+  },
+  "7756610828": {
+    "en": "Osaka Prefecture Osaka Bentencho Station",
+    "ja": "大阪府 大阪市 弁天町駅"
+  },
+  "7756610830": {
+    "en": "Osaka Prefecture Osaka Kujō Station",
+    "ja": "大阪府 大阪市 九条駅"
+  },
+  "7793776914": {
+    "en": "Osaka Prefecture Osaka Kyobashi Station",
+    "ja": "大阪府 大阪市 京橋駅"
+  },
+  "7793776915": {
+    "en": "Osaka Prefecture Osaka Matsuyamachi Station",
+    "ja": "大阪府 大阪市 松屋町駅"
+  },
+  "7793776916": {
+    "en": "Osaka Prefecture Osaka Nishiohashi Station",
+    "ja": "大阪府 大阪市 西大橋駅"
+  },
+  "7793776917": {
+    "en": "Osaka Prefecture Osaka Osaka Business Park Station",
+    "ja": "大阪府 大阪市 大阪ビジネスパーク駅"
+  },
+  "7793776918": {
+    "en": "Osaka Prefecture Osaka Yokozutsumi Station",
+    "ja": "大阪府 大阪市 横堤駅"
+  },
+  "7793776919": {
+    "en": "Osaka Prefecture Osaka Imafuku-Tsurumi Station",
+    "ja": "大阪府 大阪市 今福鶴見駅"
+  },
+  "7793776920": {
+    "en": "Osaka Prefecture Osaka Gamo 4-chome Station",
+    "ja": "大阪府 大阪市 蒲生四丁目駅"
+  },
+  "7793776922": {
+    "en": "Osaka Prefecture Osaka Tamatsukuri Station",
+    "ja": "大阪府 大阪市 玉造駅"
+  },
+  "7793776923": {
+    "en": "Osaka Prefecture Osaka Dome-mae Chiyozaki Kyocera Dome-OSAKA Station",
+    "ja": "大阪府 大阪市 ドーム前千代崎（京セラドーム大阪）駅"
+  },
+  "7793776924": {
+    "en": "Osaka Prefecture Osaka Tsurumi-ryokuchi Station",
+    "ja": "大阪府 大阪市 鶴見緑地駅"
+  },
+  "7793776925": {
+    "en": "Osaka Prefecture Osaka Morinomiya Station",
+    "ja": "大阪府 大阪市 森ノ宮駅"
+  },
+  "7793776926": {
+    "en": "Osaka Prefecture Osaka Nishinagahori Station",
+    "ja": "大阪府 大阪市 西長堀駅"
+  },
+  "7793776927": {
+    "en": "Osaka Prefecture Osaka Shinsaibashi Station",
+    "ja": "大阪府 大阪市 心斎橋駅"
+  },
+  "7793776928": {
+    "en": "Osaka Prefecture Osaka Tanimachi 6-chome Station",
+    "ja": "大阪府 大阪市 谷町六丁目駅"
+  },
+  "7794874664": {
+    "en": "Osaka Prefecture Osaka Hanazonocho Station",
+    "ja": "大阪府 大阪市 花園町駅"
+  },
+  "7811929018": {
+    "en": "Osaka Prefecture Osaka Abiko Station",
+    "ja": "大阪府 大阪市 あびこ駅"
+  },
+  "7811929019": {
+    "en": "Osaka Prefecture Osaka Nagai Station",
+    "ja": "大阪府 大阪市 長居駅"
+  },
+  "7811929020": {
+    "en": "Osaka Prefecture Osaka Nishi-Tanabe Station",
+    "ja": "大阪府 大阪市 西田辺駅"
+  },
+  "7811929021": {
+    "en": "Osaka Prefecture Osaka Showacho Station",
+    "ja": "大阪府 大阪市 昭和町駅"
+  },
+  "7811929022": {
+    "en": "Osaka Prefecture Osaka Daikokucho Station",
+    "ja": "大阪府 大阪市 大国町駅"
+  },
+  "7811929024": {
+    "en": "Osaka Prefecture Osaka Namba Station",
+    "ja": "大阪府 大阪市 なんば駅"
+  },
+  "7811929025": {
+    "en": "Osaka Prefecture Osaka Umeda Station",
+    "ja": "大阪府 大阪市 梅田駅"
+  },
+  "7811929026": {
+    "en": "Osaka Prefecture Osaka Nakatsu Station",
+    "ja": "大阪府 大阪市 中津駅"
+  },
+  "7811945109": {
+    "en": "Osaka Prefecture Osaka Higashi-Mikuni Station",
+    "ja": "大阪府 大阪市 東三国駅"
+  },
+  "7811945111": {
+    "en": "Osaka Prefecture Osaka Nishinakajima-Minamigata Station",
+    "ja": "大阪府 大阪市 西中島南方駅"
+  },
+  "7811945112": {
+    "en": "Osaka Prefecture Osaka Shinsaibashi Station",
+    "ja": "大阪府 大阪市 心斎橋駅"
+  },
+  "7811945113": {
+    "en": "Osaka Prefecture Osaka Dobutsuen-mae Station",
+    "ja": "大阪府 大阪市 動物園前駅"
+  },
+  "7811945114": {
+    "en": "Osaka Prefecture Osaka Tennoji Station",
+    "ja": "大阪府 大阪市 天王寺駅"
+  },
+  "7811945115": {
+    "en": "Osaka Prefecture Osaka Hommachi Station",
+    "ja": "大阪府 大阪市 本町駅"
+  },
+  "7829228210": {
+    "en": "Osaka Prefecture Osaka Kujō Station",
+    "ja": "大阪府 大阪市 九条駅"
+  },
+  "7829401261": {
+    "en": "Osaka Prefecture Osaka Bishōen Station",
+    "ja": "大阪府 大阪市 美章園駅"
+  },
+  "7829401273": {
+    "en": "Osaka Prefecture Osaka Minami-morimachi;Minami-Morimachi Station",
+    "ja": "大阪府 大阪市 南森町駅"
+  },
+  "7829401274": {
+    "en": "Osaka Prefecture Osaka Minami-Morimachi Station",
+    "ja": "大阪府 大阪市 南森町駅"
+  },
+  "7829401278": {
+    "en": "Osaka Prefecture Osaka Dome-Mae Station",
+    "ja": "大阪府 大阪市 ドーム前駅"
+  },
+  "7829466031": {
+    "en": "Osaka Prefecture Osaka Minami-Tanabe Station",
+    "ja": "大阪府 大阪市 南田辺駅"
+  },
+  "7890069677": {
+    "en": "Osaka Prefecture Osaka Imazato Station",
+    "ja": "大阪府 大阪市 今里駅"
+  },
+  "7890071987": {
+    "en": "Osaka Prefecture Osaka Ōsaka Uehommachi Station",
+    "ja": "大阪府 大阪市 大阪上本町駅"
+  },
+  "7893338340": {
+    "en": "Osaka Prefecture Osaka Nishi-Umeda Station",
+    "ja": "大阪府 大阪市 西梅田駅"
+  },
+  "7893338345": {
+    "en": "Osaka Prefecture Osaka Higobashi Station",
+    "ja": "大阪府 大阪市 肥後橋駅"
+  },
+  "7893338346": {
+    "en": "Osaka Prefecture Osaka Hommachi Station",
+    "ja": "大阪府 大阪市 本町駅"
+  },
+  "7893338377": {
+    "en": "Osaka Prefecture Osaka Yotsubashi Station",
+    "ja": "大阪府 大阪市 四ツ橋駅"
+  },
+  "7893381696": {
+    "en": "Osaka Prefecture Osaka Kintetsu-Nippombashi Station",
+    "ja": "大阪府 大阪市 近鉄日本橋駅"
+  },
+  "7937883038": {
+    "en": "Osaka Prefecture Osaka Tenjinbashisuji 6-chome Station",
+    "ja": "大阪府 大阪市 天神橋筋六丁目駅"
+  },
+  "7937883039": {
+    "en": "Osaka Prefecture Osaka Ogimachi Station",
+    "ja": "大阪府 大阪市 扇町駅"
+  },
+  "7937883040": {
+    "en": "Osaka Prefecture Osaka Kitahama Station",
+    "ja": "大阪府 大阪市 北浜駅"
+  },
+  "7937883041": {
+    "en": "Osaka Prefecture Osaka Sakaisuji-Hommachi Station",
+    "ja": "大阪府 大阪市 堺筋本町駅"
+  },
+  "7937883042": {
+    "en": "Osaka Prefecture Osaka Nippombashi Station",
+    "ja": "大阪府 大阪市 日本橋駅"
+  },
+  "7937883043": {
+    "en": "Osaka Prefecture Osaka Ebisucho Station",
+    "ja": "大阪府 大阪市 恵美須町駅"
+  },
+  "7937883044": {
+    "en": "Osaka Prefecture Osaka Dobutsuen-mae Station",
+    "ja": "大阪府 大阪市 動物園前駅"
+  },
+  "7937883045": {
+    "en": "Osaka Prefecture Osaka Tengachaya Station",
+    "ja": "大阪府 大阪市 天下茶屋駅"
+  },
+  "7940128480": {
+    "en": "Osaka Prefecture Osaka Nippombashi Station",
+    "ja": "大阪府 大阪市 日本橋駅"
+  },
+  "7940128481": {
+    "en": "Osaka Prefecture Osaka Kita-Tatsumi Station",
+    "ja": "大阪府 大阪市 北巽駅"
+  },
+  "7940128482": {
+    "en": "Osaka Prefecture Osaka Shoji Station",
+    "ja": "大阪府 大阪市 小路駅"
+  },
+  "7940128483": {
+    "en": "Osaka Prefecture Osaka Shin-Fukae Station",
+    "ja": "大阪府 大阪市 新深江駅"
+  },
+  "7940128484": {
+    "en": "Osaka Prefecture Osaka Imazato Station",
+    "ja": "大阪府 大阪市 今里駅"
+  },
+  "7940147785": {
+    "en": "Osaka Prefecture Osaka Tsuruhashi Station",
+    "ja": "大阪府 大阪市 鶴橋駅"
+  },
+  "7940147786": {
+    "en": "Osaka Prefecture Osaka Tanimachi 9-chome Station",
+    "ja": "大阪府 大阪市 谷町九丁目駅"
+  },
+  "7940147787": {
+    "en": "Osaka Prefecture Osaka Tanimachi 9-chome Station",
+    "ja": "大阪府 大阪市 谷町九丁目駅"
+  },
+  "7940147788": {
+    "en": "Osaka Prefecture Osaka Sakuragawa Station",
+    "ja": "大阪府 大阪市 桜川駅"
+  },
+  "7940147789": {
+    "en": "Osaka Prefecture Osaka Nishi-Nagahori Station",
+    "ja": "大阪府 大阪市 西長堀駅"
+  },
+  "7940147790": {
+    "en": "Osaka Prefecture Osaka Awaza Station",
+    "ja": "大阪府 大阪市 阿波座駅"
+  },
+  "7940147791": {
+    "en": "Osaka Prefecture Osaka Tamagawa Station",
+    "ja": "大阪府 大阪市 玉川駅"
+  },
+  "7940147792": {
+    "en": "Osaka Prefecture Osaka Nodahanshin Station",
+    "ja": "大阪府 大阪市 野田阪神駅"
+  },
+  "7940147793": {
+    "en": "Osaka Prefecture Osaka Minami-Tatsumi Station",
+    "ja": "大阪府 大阪市 南巽駅"
+  },
+  "7944081066": {
+    "en": "Osaka Prefecture Osaka Awaza Station",
+    "ja": "大阪府 大阪市 阿波座駅"
+  },
+  "7944081067": {
+    "en": "Osaka Prefecture Osaka Hommachi Station",
+    "ja": "大阪府 大阪市 本町駅"
+  },
+  "7944081068": {
+    "en": "Osaka Prefecture Osaka Sakaisuji-Hommachi Station",
+    "ja": "大阪府 大阪市 堺筋本町駅"
+  },
+  "7944081069": {
+    "en": "Osaka Prefecture Osaka Morinomiya Station",
+    "ja": "大阪府 大阪市 森ノ宮駅"
+  },
+  "7944081070": {
+    "en": "Osaka Prefecture Osaka Midoribashi Station",
+    "ja": "大阪府 大阪市 緑橋駅"
+  },
+  "7944081071": {
+    "en": "Osaka Prefecture Osaka Fukaebashi Station",
+    "ja": "大阪府 大阪市 深江橋駅"
+  },
+  "7944187509": {
+    "en": "Osaka Prefecture Osaka Kami Station",
+    "ja": "大阪府 大阪市 加美駅"
+  },
+  "7944187510": {
+    "en": "Osaka Prefecture Osaka Tenjinbashisuji 6-chome Station",
+    "ja": "大阪府 大阪市 天神橋筋六丁目駅"
+  },
+  "7944201015": {
+    "en": "Osaka Prefecture Osaka Osakajokitazume Station",
+    "ja": "大阪府 大阪市 大阪城北詰駅"
+  },
+  "7944201016": {
+    "en": "Osaka Prefecture Osaka Kitashinchi Station",
+    "ja": "大阪府 大阪市 北新地駅"
+  },
+  "7944201017": {
+    "en": "Osaka Prefecture Osaka Ebie Station",
+    "ja": "大阪府 大阪市 海老江駅"
+  },
+  "7944201018": {
+    "en": "Osaka Prefecture Osaka Hirano Station",
+    "ja": "大阪府 大阪市 平野駅"
+  },
+  "7944916470": {
+    "en": "Osaka Prefecture Osaka Morishoji Station",
+    "ja": "大阪府 大阪市 森小路駅"
+  },
+  "7994429129": {
+    "en": "Osaka Prefecture Osaka Midoribashi Station",
+    "ja": "大阪府 大阪市 緑橋駅"
+  },
+  "7994429130": {
+    "en": "Osaka Prefecture Osaka Gamo 4-chome Station",
+    "ja": "大阪府 大阪市 蒲生四丁目駅"
+  },
+  "8003035402": {
+    "en": "Osaka Prefecture Osaka Shin-Imaimiya Station",
+    "ja": "大阪府 大阪市 新今宮駅"
+  },
+  "8003035403": {
+    "en": "Osaka Prefecture Osaka Shin-Imaimiya Station",
+    "ja": "大阪府 大阪市 新今宮駅"
+  },
+  "8005451522": {
+    "en": "Osaka Prefecture Osaka Tamade Station",
+    "ja": "大阪府 大阪市 玉出駅"
+  },
+  "8005451523": {
+    "en": "Osaka Prefecture Osaka Kishinosato Station",
+    "ja": "大阪府 大阪市 岸里駅"
+  },
+  "8005451528": {
+    "en": "Osaka Prefecture Osaka Kitakagaya Station",
+    "ja": "大阪府 大阪市 北加賀屋駅"
+  },
+  "8012561701": {
+    "en": "Osaka Prefecture Osaka Suminoekoen Station",
+    "ja": "大阪府 大阪市 住之江公園駅"
+  },
+  "8012746920": {
+    "en": "Osaka Prefecture Osaka Imazato Station",
+    "ja": "大阪府 大阪市 今里駅"
+  },
+  "8016370868": {
+    "en": "Osaka Prefecture Osaka Trade Center-mae Station",
+    "ja": "大阪府 大阪市 トレードセンター前駅"
+  },
+  "8016370869": {
+    "en": "Osaka Prefecture Osaka Port Town-higashi Station",
+    "ja": "大阪府 大阪市 ポートタウン東駅"
+  },
+  "8018060090": {
+    "en": "Osaka Prefecture Osaka Tsukamoto Station",
+    "ja": "大阪府 大阪市 塚本駅"
+  },
+  "8064892577": {
+    "en": "Osaka Prefecture Osaka Mitejima Station",
+    "ja": "大阪府 大阪市 御幣島駅"
+  },
+  "8067752373": {
+    "en": "Osaka Prefecture Osaka Shigino Station",
+    "ja": "大阪府 大阪市 鴫野駅"
+  },
+  "8068690418": {
+    "en": "Osaka Prefecture Osaka Shin Fukushima Station",
+    "ja": "大阪府 大阪市 新福島駅"
+  },
+  "8068690419": {
+    "en": "Osaka Prefecture Osaka Ōsakatemmangū Station",
+    "ja": "大阪府 大阪市 大阪天満宮駅"
+  },
+  "8069833025": {
+    "en": "Osaka Prefecture Osaka Tōbushijō-Mae Station",
+    "ja": "大阪府 大阪市 東部市場前駅"
+  },
+  "8070983833": {
+    "en": "Osaka Prefecture Osaka JR-Noe Station",
+    "ja": "大阪府 大阪市 JR野江駅"
+  },
+  "8070983835": {
+    "en": "Osaka Prefecture Osaka Shirokitakōendōri Station",
+    "ja": "大阪府 大阪市 城北公園通駅"
+  },
+  "8158068955": {
+    "en": "Osaka Prefecture Osaka Kishinosato-tamade Station",
+    "ja": "大阪府 大阪市 岸里玉出駅"
+  },
+  "8158068992": {
+    "en": "Osaka Prefecture Osaka Suminoe Station",
+    "ja": "大阪府 大阪市 住ノ江駅"
+  },
+  "8163284507": {
+    "en": "Osaka Prefecture Osaka Kishinosato-tamade Station",
+    "ja": "大阪府 大阪市 岸里玉出駅"
+  },
+  "8163374070": {
+    "en": "Osaka Prefecture Osaka Sakuragawa Station",
+    "ja": "大阪府 大阪市 桜川駅"
+  }
+}

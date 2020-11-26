@@ -1,0 +1,502 @@
+{
+  "267600872": {
+    "en": "Hyogo Prefecture Kobe Sanyo Suma Station",
+    "ja": "兵庫県 神戸市 山陽須磨駅"
+  },
+  "359798283": {
+    "en": "Hyogo Prefecture Kobe Shin-Kobe Station",
+    "ja": "兵庫県 神戸市 新神戸駅"
+  },
+  "359803569": {
+    "en": "Hyogo Prefecture Kobe Rokko Sanjo Station",
+    "ja": "兵庫県 神戸市 六甲山上駅"
+  },
+  "359803637": {
+    "en": "Hyogo Prefecture Kobe Rokko Cable Shita Station",
+    "ja": "兵庫県 神戸市 六甲ケーブル下駅"
+  },
+  "443057009": {
+    "en": "Hyogo Prefecture Kobe Naka Koen Station",
+    "ja": "兵庫県 神戸市 中公園駅"
+  },
+  "517815393": {
+    "en": "Hyogo Prefecture Kobe Tanigami Station",
+    "ja": "兵庫県 神戸市 谷上駅"
+  },
+  "517820275": {
+    "en": "Hyogo Prefecture Kobe Arima Onsen Station",
+    "ja": "兵庫県 神戸市 有馬温泉駅"
+  },
+  "519693912": {
+    "en": "Hyogo Prefecture Kobe Myohoji Station",
+    "ja": "兵庫県 神戸市 妙法寺駅"
+  },
+  "823218395": {
+    "en": "Hyogo Prefecture Kobe Shinkaichi Station",
+    "ja": "兵庫県 神戸市 新開地駅"
+  },
+  "823224727": {
+    "en": "Hyogo Prefecture Kobe Oshibedani Station",
+    "ja": "兵庫県 神戸市 押部谷駅"
+  },
+  "823226628": {
+    "en": "Hyogo Prefecture Kobe Suzurandai Nishi-guchi Station",
+    "ja": "兵庫県 神戸市 鈴蘭台西口駅"
+  },
+  "823230461": {
+    "en": "Hyogo Prefecture Kobe Sakae Station",
+    "ja": "兵庫県 神戸市 栄駅"
+  },
+  "823233342": {
+    "en": "Hyogo Prefecture Kobe Kobata Station",
+    "ja": "兵庫県 神戸市 木幡駅"
+  },
+  "823235438": {
+    "en": "Hyogo Prefecture Kobe Nishi Suzurandai Station",
+    "ja": "兵庫県 神戸市 西鈴蘭台駅"
+  },
+  "823235637": {
+    "en": "Hyogo Prefecture Kobe Kizu Station",
+    "ja": "兵庫県 神戸市 木津駅"
+  },
+  "1424100626": {
+    "en": "Hyogo Prefecture Kobe Minatojima Station",
+    "ja": "兵庫県 神戸市 みなとじま駅"
+  },
+  "3629375864": {
+    "en": "Hyogo Prefecture Kobe Rokkō Station",
+    "ja": "兵庫県 神戸市 六甲駅"
+  },
+  "3629375867": {
+    "en": "Hyogo Prefecture Kobe Ojikoen Station",
+    "ja": "兵庫県 神戸市 王子公園駅"
+  },
+  "3629375868": {
+    "en": "Hyogo Prefecture Kobe Kobe Sannomiya Station",
+    "ja": "兵庫県 神戸市 神戸三宮駅"
+  },
+  "3721652685": {
+    "en": "Hyogo Prefecture Kobe Myōdani Station",
+    "ja": "兵庫県 神戸市 名谷駅"
+  },
+  "3721936227": {
+    "en": "Hyogo Prefecture Kobe Seishin Chuo Station",
+    "ja": "兵庫県 神戸市 西神中央駅"
+  },
+  "3854376787": {
+    "en": "Hyogo Prefecture Kobe Shimin Hiroba Station",
+    "ja": "兵庫県 神戸市 市民広場駅"
+  },
+  "3854376789": {
+    "en": "Hyogo Prefecture Kobe Minami Koen Station",
+    "ja": "兵庫県 神戸市 南公園駅"
+  },
+  "3854376847": {
+    "en": "Hyogo Prefecture Kobe Port Terminal Station",
+    "ja": "兵庫県 神戸市 ポートターミナル駅"
+  },
+  "3854376854": {
+    "en": "Hyogo Prefecture Kobe Boeki Center Station",
+    "ja": "兵庫県 神戸市 貿易センター駅"
+  },
+  "3901148445": {
+    "en": "Hyogo Prefecture Kobe Maiko Station",
+    "ja": "兵庫県 神戸市 舞子駅"
+  },
+  "3902067722": {
+    "en": "Hyogo Prefecture Kobe Hyōgo Station",
+    "ja": "兵庫県 神戸市 兵庫駅"
+  },
+  "3902067724": {
+    "en": "Hyogo Prefecture Kobe Shioya Station",
+    "ja": "兵庫県 神戸市 塩屋駅"
+  },
+  "3902067726": {
+    "en": "Hyogo Prefecture Kobe Shin-Nagata Station",
+    "ja": "兵庫県 神戸市 新長田駅"
+  },
+  "3902067727": {
+    "en": "Hyogo Prefecture Kobe Kobe Station",
+    "ja": "兵庫県 神戸市 神戸駅"
+  },
+  "3902067728": {
+    "en": "Hyogo Prefecture Kobe Nishi-Maiko Station",
+    "ja": "兵庫県 神戸市 西舞子駅"
+  },
+  "3902067729": {
+    "en": "Hyogo Prefecture Kobe Suma Station",
+    "ja": "兵庫県 神戸市 須磨駅"
+  },
+  "3902067730": {
+    "en": "Hyogo Prefecture Kobe Sumakaihinkōen Station",
+    "ja": "兵庫県 神戸市 須磨海浜公園駅"
+  },
+  "3902067731": {
+    "en": "Hyogo Prefecture Kobe Takatori Station",
+    "ja": "兵庫県 神戸市 鷹取駅"
+  },
+  "3903196857": {
+    "en": "Hyogo Prefecture Kobe Ikawadani Station",
+    "ja": "兵庫県 神戸市 伊川谷駅"
+  },
+  "3903196858": {
+    "en": "Hyogo Prefecture Kobe Gakuentoshi Station",
+    "ja": "兵庫県 神戸市 学園都市駅"
+  },
+  "3903196859": {
+    "en": "Hyogo Prefecture Kobe Sogo Undo Koen Station",
+    "ja": "兵庫県 神戸市 総合運動公園駅"
+  },
+  "3903196860": {
+    "en": "Hyogo Prefecture Kobe Seishin-Minami Station",
+    "ja": "兵庫県 神戸市 西神南駅"
+  },
+  "3905050879": {
+    "en": "Hyogo Prefecture Kobe Sumiyoshi Station",
+    "ja": "兵庫県 神戸市 住吉駅"
+  },
+  "3905050880": {
+    "en": "Hyogo Prefecture Kobe Rokkōmichi Station",
+    "ja": "兵庫県 神戸市 六甲道駅"
+  },
+  "3905340857": {
+    "en": "Hyogo Prefecture Kobe Settsu-Motoyama Station",
+    "ja": "兵庫県 神戸市 摂津本山駅"
+  },
+  "3905340858": {
+    "en": "Hyogo Prefecture Kobe Kōnan-Yamate Station",
+    "ja": "兵庫県 神戸市 甲南山手駅"
+  },
+  "3968865678": {
+    "en": "Hyogo Prefecture Kobe Dōjō Minamiguchi Station",
+    "ja": "兵庫県 神戸市 道場南口駅"
+  },
+  "3978693964": {
+    "en": "Hyogo Prefecture Kobe Arimaguchi Station",
+    "ja": "兵庫県 神戸市 有馬口駅"
+  },
+  "3978694003": {
+    "en": "Hyogo Prefecture Kobe Okaba Station",
+    "ja": "兵庫県 神戸市 岡場駅"
+  },
+  "3978694163": {
+    "en": "Hyogo Prefecture Kobe Taoji Station",
+    "ja": "兵庫県 神戸市 田尾寺駅"
+  },
+  "3999683420": {
+    "en": "Hyogo Prefecture Kobe Motomachi Station",
+    "ja": "兵庫県 神戸市 元町駅"
+  },
+  "3999683421": {
+    "en": "Hyogo Prefecture Kobe Nada Station",
+    "ja": "兵庫県 神戸市 灘駅"
+  },
+  "3999683422": {
+    "en": "Hyogo Prefecture Kobe Sannomiya Station",
+    "ja": "兵庫県 神戸市 三ノ宮駅"
+  },
+  "4004558724": {
+    "en": "Hyogo Prefecture Kobe Suzurandai Station",
+    "ja": "兵庫県 神戸市 鈴蘭台駅"
+  },
+  "4044961638": {
+    "en": "Hyogo Prefecture Kobe Hanakuma Station",
+    "ja": "兵庫県 神戸市 花隈駅"
+  },
+  "4044961643": {
+    "en": "Hyogo Prefecture Kobe Higashi-Tarumi Station",
+    "ja": "兵庫県 神戸市 東垂水駅"
+  },
+  "4044961647": {
+    "en": "Hyogo Prefecture Kobe Kasumigaoka Station",
+    "ja": "兵庫県 神戸市 霞ヶ丘駅"
+  },
+  "4044961649": {
+    "en": "Hyogo Prefecture Kobe Kōsoku Kōbe Station",
+    "ja": "兵庫県 神戸市 高速神戸駅"
+  },
+  "4044961650": {
+    "en": "Hyogo Prefecture Kobe Maiko-kōen Station",
+    "ja": "兵庫県 神戸市 舞子公園駅"
+  },
+  "4044961660": {
+    "en": "Hyogo Prefecture Kobe Sanyo Shioya Station",
+    "ja": "兵庫県 神戸市 山陽塩屋駅"
+  },
+  "4044961662": {
+    "en": "Hyogo Prefecture Kobe Sanyo Tarumi Station",
+    "ja": "兵庫県 神戸市 山陽垂水駅"
+  },
+  "4044961669": {
+    "en": "Hyogo Prefecture Kobe Sumaura-kōen Station",
+    "ja": "兵庫県 神戸市 須磨浦公園駅"
+  },
+  "4044961671": {
+    "en": "Hyogo Prefecture Kobe Takinochaya Station",
+    "ja": "兵庫県 神戸市 滝の茶屋駅"
+  },
+  "4044964906": {
+    "en": "Hyogo Prefecture Kobe Iryo Center Station",
+    "ja": "兵庫県 神戸市 医療センター駅"
+  },
+  "4044964907": {
+    "en": "Hyogo Prefecture Kobe K Computer Mae Station",
+    "ja": "兵庫県 神戸市 京コンピュータ前駅"
+  },
+  "4044964908": {
+    "en": "Hyogo Prefecture Kobe Kita Futo Station",
+    "ja": "兵庫県 神戸市 北埠頭駅"
+  },
+  "4044964909": {
+    "en": "Hyogo Prefecture Kobe Kobe Airport Station",
+    "ja": "兵庫県 神戸市 神戸空港駅"
+  },
+  "4044964910": {
+    "en": "Hyogo Prefecture Kobe Kobe Sannomiya Station",
+    "ja": "兵庫県 神戸市 神戸三宮駅"
+  },
+  "4044964913": {
+    "en": "Hyogo Prefecture Kobe Naka Futo Station",
+    "ja": "兵庫県 神戸市 中埠頭駅"
+  },
+  "4044964915": {
+    "en": "Hyogo Prefecture Kobe Sannomiya Station",
+    "ja": "兵庫県 神戸市 三宮駅"
+  },
+  "4044964917": {
+    "en": "Hyogo Prefecture Kobe Sannomiya Station",
+    "ja": "兵庫県 神戸市 三宮駅"
+  },
+  "4044964918": {
+    "en": "Hyogo Prefecture Kobe Sannomiya-Hanadokeimae Station",
+    "ja": "兵庫県 神戸市 三宮・花時計前駅"
+  },
+  "4079537209": {
+    "en": "Hyogo Prefecture Kobe Maya Station",
+    "ja": "兵庫県 神戸市 摩耶駅"
+  },
+  "4424276494": {
+    "en": "Hyogo Prefecture Kobe Oishi Station",
+    "ja": "兵庫県 神戸市 大石駅"
+  },
+  "4803550962": {
+    "en": "Hyogo Prefecture Kobe Okamoto Station",
+    "ja": "兵庫県 神戸市 岡本駅"
+  },
+  "5053068926": {
+    "en": "Hyogo Prefecture Kobe Nagata Station",
+    "ja": "兵庫県 神戸市 長田駅"
+  },
+  "5053069122": {
+    "en": "Hyogo Prefecture Kobe Maruyama Station",
+    "ja": "兵庫県 神戸市 丸山駅"
+  },
+  "5214160713": {
+    "en": "Hyogo Prefecture Kobe Sumiyoshi Station",
+    "ja": "兵庫県 神戸市 住吉駅"
+  },
+  "5214161150": {
+    "en": "Hyogo Prefecture Kobe Uozaki Station",
+    "ja": "兵庫県 神戸市 魚崎駅"
+  },
+  "5214161165": {
+    "en": "Hyogo Prefecture Kobe Minami Uozaki Station",
+    "ja": "兵庫県 神戸市 南魚崎駅"
+  },
+  "5214161167": {
+    "en": "Hyogo Prefecture Kobe Island Kitaguchi Station",
+    "ja": "兵庫県 神戸市 アイランド北口駅"
+  },
+  "5214161169": {
+    "en": "Hyogo Prefecture Kobe Marine Park Station",
+    "ja": "兵庫県 神戸市 マリンパーク駅"
+  },
+  "5214161172": {
+    "en": "Hyogo Prefecture Kobe Island Center Station",
+    "ja": "兵庫県 神戸市 アイランドセンター駅"
+  },
+  "5214360254": {
+    "en": "Hyogo Prefecture Kobe Shin-Kobe Station",
+    "ja": "兵庫県 神戸市 新神戸駅"
+  },
+  "5214409621": {
+    "en": "Hyogo Prefecture Kobe Tanigami Station",
+    "ja": "兵庫県 神戸市 谷上駅"
+  },
+  "5539979417": {
+    "en": "Hyogo Prefecture Kobe Itayado Station",
+    "ja": "兵庫県 神戸市 板宿駅"
+  },
+  "5539982233": {
+    "en": "Hyogo Prefecture Kobe Tsukimiyama Station",
+    "ja": "兵庫県 神戸市 月見山駅"
+  },
+  "5539982292": {
+    "en": "Hyogo Prefecture Kobe Higashi-Suma Station",
+    "ja": "兵庫県 神戸市 東須磨駅"
+  },
+  "5803699061": {
+    "en": "Hyogo Prefecture Kobe Aina Station",
+    "ja": "兵庫県 神戸市 藍那駅"
+  },
+  "6295276714": {
+    "en": "Hyogo Prefecture Kobe Sumadera Station",
+    "ja": "兵庫県 神戸市 須磨寺駅"
+  },
+  "6417343668": {
+    "en": "Hyogo Prefecture Kobe Hoshi Station",
+    "ja": "兵庫県 神戸市 星駅"
+  },
+  "6417343692": {
+    "en": "Hyogo Prefecture Kobe Niji Station",
+    "ja": "兵庫県 神戸市 虹駅"
+  },
+  "7097087795": {
+    "en": "Hyogo Prefecture Kobe Nishidai Station",
+    "ja": "兵庫県 神戸市 西代駅"
+  },
+  "7097095556": {
+    "en": "Hyogo Prefecture Kobe Mikage Station",
+    "ja": "兵庫県 神戸市 御影駅"
+  },
+  "7732405759": {
+    "en": "Hyogo Prefecture Kobe Kenchomae Station",
+    "ja": "兵庫県 神戸市 県庁前駅"
+  },
+  "7733269975": {
+    "en": "Hyogo Prefecture Kobe Itayado Station",
+    "ja": "兵庫県 神戸市 板宿駅"
+  },
+  "7733269976": {
+    "en": "Hyogo Prefecture Kobe Shin-Nagata Station",
+    "ja": "兵庫県 神戸市 新長田駅"
+  },
+  "7733269977": {
+    "en": "Hyogo Prefecture Kobe Nagata Station",
+    "ja": "兵庫県 神戸市 長田駅"
+  },
+  "7733269978": {
+    "en": "Hyogo Prefecture Kobe Kamisawa Station",
+    "ja": "兵庫県 神戸市 上沢駅"
+  },
+  "7733269979": {
+    "en": "Hyogo Prefecture Kobe Minatogawa Kōen Station",
+    "ja": "兵庫県 神戸市 湊川公園駅"
+  },
+  "7733269980": {
+    "en": "Hyogo Prefecture Kobe Okurayama Station",
+    "ja": "兵庫県 神戸市 大倉山駅"
+  },
+  "7746743056": {
+    "en": "Hyogo Prefecture Kobe Chūōichibamae Station",
+    "ja": "兵庫県 神戸市 中央市場前駅"
+  },
+  "7746743057": {
+    "en": "Hyogo Prefecture Kobe Wadamisaki Station",
+    "ja": "兵庫県 神戸市 和田岬駅"
+  },
+  "7746771914": {
+    "en": "Hyogo Prefecture Kobe Kyukyoryuchi-Daimarumae Station",
+    "ja": "兵庫県 神戸市 旧居留地・大丸前駅"
+  },
+  "7746781968": {
+    "en": "Hyogo Prefecture Kobe Misakikōen Station",
+    "ja": "兵庫県 神戸市 御崎公園駅"
+  },
+  "7746781969": {
+    "en": "Hyogo Prefecture Kobe Karumo Station",
+    "ja": "兵庫県 神戸市 苅藻駅"
+  },
+  "7746781970": {
+    "en": "Hyogo Prefecture Kobe Komagabayashi Station",
+    "ja": "兵庫県 神戸市 駒ヶ林駅"
+  },
+  "7746781971": {
+    "en": "Hyogo Prefecture Kobe Shin-Nagata Station",
+    "ja": "兵庫県 神戸市 新長田駅"
+  },
+  "7746786804": {
+    "en": "Hyogo Prefecture Kobe Minato Motomachi Station",
+    "ja": "兵庫県 神戸市 みなと元町駅"
+  },
+  "7746786805": {
+    "en": "Hyogo Prefecture Kobe Harborland Station",
+    "ja": "兵庫県 神戸市 ハーバーランド駅"
+  },
+  "7761683478": {
+    "en": "Hyogo Prefecture Kobe Kōsoku Nagata Station",
+    "ja": "兵庫県 神戸市 高速長田駅"
+  },
+  "7761778534": {
+    "en": "Hyogo Prefecture Kobe Daikai Station",
+    "ja": "兵庫県 神戸市 大開駅"
+  },
+  "7761874386": {
+    "en": "Hyogo Prefecture Kobe Nishi Motomachi Station",
+    "ja": "兵庫県 神戸市 西元町駅"
+  },
+  "7829228208": {
+    "en": "Hyogo Prefecture Kobe Niji Station",
+    "ja": "兵庫県 神戸市 虹駅"
+  },
+  "7829228209": {
+    "en": "Hyogo Prefecture Kobe Maya Cable Station",
+    "ja": "兵庫県 神戸市 摩耶ケーブル駅"
+  },
+  "7829401272": {
+    "en": "Hyogo Prefecture Kobe Wadamisaki Station",
+    "ja": "兵庫県 神戸市 和田岬駅"
+  },
+  "7829401275": {
+    "en": "Hyogo Prefecture Kobe Motomachi Station",
+    "ja": "兵庫県 神戸市 元町駅"
+  },
+  "7933036752": {
+    "en": "Hyogo Prefecture Kobe Mikage Station",
+    "ja": "兵庫県 神戸市 御影駅"
+  },
+  "7933036758": {
+    "en": "Hyogo Prefecture Kobe Uozaki Station",
+    "ja": "兵庫県 神戸市 魚崎駅"
+  },
+  "7933036760": {
+    "en": "Hyogo Prefecture Kobe Nishinada Station",
+    "ja": "兵庫県 神戸市 西灘駅"
+  },
+  "7933036762": {
+    "en": "Hyogo Prefecture Kobe Sumiyoshi Station",
+    "ja": "兵庫県 神戸市 住吉駅"
+  },
+  "7933036765": {
+    "en": "Hyogo Prefecture Kobe Iwaya Station",
+    "ja": "兵庫県 神戸市 岩屋駅"
+  },
+  "7934319304": {
+    "en": "Hyogo Prefecture Kobe Ishiyagawa Station",
+    "ja": "兵庫県 神戸市 石屋川駅"
+  },
+  "7934319307": {
+    "en": "Hyogo Prefecture Kobe Shinzaike Station",
+    "ja": "兵庫県 神戸市 新在家駅"
+  },
+  "7934319326": {
+    "en": "Hyogo Prefecture Kobe Kasuganomichi Station",
+    "ja": "兵庫県 神戸市 春日野道駅"
+  },
+  "7935762918": {
+    "en": "Hyogo Prefecture Kobe Ogi Station",
+    "ja": "兵庫県 神戸市 青木駅"
+  },
+  "7935762922": {
+    "en": "Hyogo Prefecture Kobe Fukae Station",
+    "ja": "兵庫県 神戸市 深江駅"
+  },
+  "8018075195": {
+    "en": "Hyogo Prefecture Kobe Dōjō Station",
+    "ja": "兵庫県 神戸市 道場駅"
+  },
+  "8090848459": {
+    "en": "Hyogo Prefecture Kobe Tarumi Station",
+    "ja": "兵庫県 神戸市 垂水駅"
+  }
+}
