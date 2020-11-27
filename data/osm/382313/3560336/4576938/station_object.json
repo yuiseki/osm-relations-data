@@ -1,0 +1,674 @@
+{
+  "265835724": {
+    "en": "Aichi Prefecture Nagoya Hatta Station",
+    "ja": "愛知県 名古屋市 八田駅"
+  },
+  "265835730": {
+    "en": "Aichi Prefecture Nagoya Haruta Station",
+    "ja": "愛知県 名古屋市 春田駅"
+  },
+  "3596305041": {
+    "en": "Aichi Prefecture Nagoya Nagoya Minato Station",
+    "ja": "愛知県 名古屋市 名古屋港駅"
+  },
+  "3999572936": {
+    "en": "Aichi Prefecture Nagoya Atsuta Station",
+    "ja": "愛知県 名古屋市 熱田駅"
+  },
+  "3999572943": {
+    "en": "Aichi Prefecture Nagoya Kasadera Station",
+    "ja": "愛知県 名古屋市 笠寺駅"
+  },
+  "3999572954": {
+    "en": "Aichi Prefecture Nagoya Minami-Ōdaka Station",
+    "ja": "愛知県 名古屋市 南大高駅"
+  },
+  "3999573159": {
+    "en": "Aichi Prefecture Nagoya Otōbashi Station",
+    "ja": "愛知県 名古屋市 尾頭橋駅"
+  },
+  "3999573163": {
+    "en": "Aichi Prefecture Nagoya Ōdaka Station",
+    "ja": "愛知県 名古屋市 大高駅"
+  },
+  "4052060934": {
+    "en": "Aichi Prefecture Nagoya Kintetsu-Nagoya Station",
+    "ja": "愛知県 名古屋市 近鉄名古屋駅"
+  },
+  "4590077122": {
+    "en": "Aichi Prefecture Nagoya Kami-Otai Station",
+    "ja": "愛知県 名古屋市 上小田井駅"
+  },
+  "4618980795": {
+    "en": "Aichi Prefecture Nagoya Naka-Otai Station",
+    "ja": "愛知県 名古屋市 中小田井駅"
+  },
+  "4837920885": {
+    "en": "Aichi Prefecture Nagoya 汐見町 Station",
+    "ja": "愛知県 名古屋市 汐見町駅"
+  },
+  "4919810141": {
+    "en": "Aichi Prefecture Nagoya Nagoya Station",
+    "ja": "愛知県 名古屋市 名古屋駅"
+  },
+  "4919941786": {
+    "en": "Aichi Prefecture Nagoya Jingū-mae Station",
+    "ja": "愛知県 名古屋市 神宮前駅"
+  },
+  "5214024833": {
+    "en": "Aichi Prefecture Nagoya Kanayama Station",
+    "ja": "愛知県 名古屋市 金山駅"
+  },
+  "5214024834": {
+    "en": "Aichi Prefecture Nagoya Kanayama Station",
+    "ja": "愛知県 名古屋市 金山駅"
+  },
+  "5214024837": {
+    "en": "Aichi Prefecture Nagoya Heian-dōri Station",
+    "ja": "愛知県 名古屋市 平安通駅"
+  },
+  "5214024838": {
+    "en": "Aichi Prefecture Nagoya Heian-dōri Station",
+    "ja": "愛知県 名古屋市 平安通駅"
+  },
+  "5214024839": {
+    "en": "Aichi Prefecture Nagoya Kami-Iida Station",
+    "ja": "愛知県 名古屋市 上飯田駅"
+  },
+  "5408336353": {
+    "en": "Aichi Prefecture Nagoya Fujigaoka Station",
+    "ja": "愛知県 名古屋市 藤が丘駅"
+  },
+  "5408459628": {
+    "en": "Aichi Prefecture Nagoya Ōsu Kannon Station",
+    "ja": "愛知県 名古屋市 大須観音駅"
+  },
+  "5408459629": {
+    "en": "Aichi Prefecture Nagoya Kamimaezu Station",
+    "ja": "愛知県 名古屋市 上前津駅"
+  },
+  "5408489619": {
+    "en": "Aichi Prefecture Nagoya Irinaka Station",
+    "ja": "愛知県 名古屋市 いりなか駅"
+  },
+  "5408489620": {
+    "en": "Aichi Prefecture Nagoya Yagoto Station",
+    "ja": "愛知県 名古屋市 八事駅"
+  },
+  "5408492354": {
+    "en": "Aichi Prefecture Nagoya Arahata Station",
+    "ja": "愛知県 名古屋市 荒畑駅"
+  },
+  "5408492355": {
+    "en": "Aichi Prefecture Nagoya Gokiso Station",
+    "ja": "愛知県 名古屋市 御器所駅"
+  },
+  "5408492356": {
+    "en": "Aichi Prefecture Nagoya Kawana Station",
+    "ja": "愛知県 名古屋市 川名駅"
+  },
+  "5408531521": {
+    "en": "Aichi Prefecture Nagoya Shiogama-guchi Station",
+    "ja": "愛知県 名古屋市 塩釜口駅"
+  },
+  "5408531522": {
+    "en": "Aichi Prefecture Nagoya Ueda Station",
+    "ja": "愛知県 名古屋市 植田駅"
+  },
+  "5408531523": {
+    "en": "Aichi Prefecture Nagoya Hara Station",
+    "ja": "愛知県 名古屋市 原駅"
+  },
+  "5408548566": {
+    "en": "Aichi Prefecture Nagoya Hibari Station",
+    "ja": "愛知県 名古屋市 平針駅"
+  },
+  "5408576829": {
+    "en": "Aichi Prefecture Nagoya Shōnai Ryokuchi Kōen Station",
+    "ja": "愛知県 名古屋市 庄内緑地公園駅"
+  },
+  "5408576830": {
+    "en": "Aichi Prefecture Nagoya Shōnai-dōri Station",
+    "ja": "愛知県 名古屋市 庄内通駅"
+  },
+  "5408576831": {
+    "en": "Aichi Prefecture Nagoya Jōshin Station",
+    "ja": "愛知県 名古屋市 浄心駅"
+  },
+  "5408576832": {
+    "en": "Aichi Prefecture Nagoya Sengen-chō Station",
+    "ja": "愛知県 名古屋市 浅間町駅"
+  },
+  "5408576833": {
+    "en": "Aichi Prefecture Nagoya Marunouchi Station",
+    "ja": "愛知県 名古屋市 丸の内駅"
+  },
+  "5408576834": {
+    "en": "Aichi Prefecture Nagoya Fushimi Station",
+    "ja": "愛知県 名古屋市 伏見駅"
+  },
+  "5408576835": {
+    "en": "Aichi Prefecture Nagoya Tsurumai Station",
+    "ja": "愛知県 名古屋市 鶴舞駅"
+  },
+  "5410198967": {
+    "en": "Aichi Prefecture Nagoya Higashi Betsuin Station",
+    "ja": "愛知県 名古屋市 東別院駅"
+  },
+  "5411692799": {
+    "en": "Aichi Prefecture Nagoya Yabachō Station",
+    "ja": "愛知県 名古屋市 矢場町駅"
+  },
+  "5411694358": {
+    "en": "Aichi Prefecture Nagoya Sakae Station",
+    "ja": "愛知県 名古屋市 栄駅"
+  },
+  "5411719477": {
+    "en": "Aichi Prefecture Nagoya Shiga-hondōri Station",
+    "ja": "愛知県 名古屋市 志賀本通駅"
+  },
+  "5413537900": {
+    "en": "Aichi Prefecture Nagoya Kurokawa Station",
+    "ja": "愛知県 名古屋市 黒川駅"
+  },
+  "5413540802": {
+    "en": "Aichi Prefecture Nagoya Meijō Kōen Station",
+    "ja": "愛知県 名古屋市 名城公園駅"
+  },
+  "5413541154": {
+    "en": "Aichi Prefecture Nagoya Shiyakusho Station",
+    "ja": "愛知県 名古屋市 市役所駅"
+  },
+  "6058294576": {
+    "en": "Aichi Prefecture Nagoya Shin-Moriyama Station",
+    "ja": "愛知県 名古屋市 新守山駅"
+  },
+  "6067799728": {
+    "en": "Aichi Prefecture Nagoya Ozone Station",
+    "ja": "愛知県 名古屋市 大曽根駅"
+  },
+  "6067903204": {
+    "en": "Aichi Prefecture Nagoya Chikusa Station",
+    "ja": "愛知県 名古屋市 千種駅"
+  },
+  "6067942945": {
+    "en": "Aichi Prefecture Nagoya Kanayama Station",
+    "ja": "愛知県 名古屋市 金山駅"
+  },
+  "6067942950": {
+    "en": "Aichi Prefecture Nagoya Tsurumai Station",
+    "ja": "愛知県 名古屋市 鶴舞駅"
+  },
+  "6511871063": {
+    "en": "Aichi Prefecture Nagoya Fujigaoka Station",
+    "ja": "愛知県 名古屋市 藤が丘駅"
+  },
+  "6630192285": {
+    "en": "Aichi Prefecture Nagoya Meitetsu Nagoya Station",
+    "ja": "愛知県 名古屋市 名鉄名古屋駅"
+  },
+  "6630192288": {
+    "en": "Aichi Prefecture Nagoya Sakō Station",
+    "ja": "愛知県 名古屋市 栄生駅"
+  },
+  "6633357027": {
+    "en": "Aichi Prefecture Nagoya Ajima Station",
+    "ja": "愛知県 名古屋市 味鋺駅"
+  },
+  "6634278600": {
+    "en": "Aichi Prefecture Nagoya Kogane Station",
+    "ja": "愛知県 名古屋市 黄金駅"
+  },
+  "6634278609": {
+    "en": "Aichi Prefecture Nagoya Kasumori Station",
+    "ja": "愛知県 名古屋市 烏森駅"
+  },
+  "6634278610": {
+    "en": "Aichi Prefecture Nagoya Kintetsu Hatta Station",
+    "ja": "愛知県 名古屋市 近鉄八田駅"
+  },
+  "6634278611": {
+    "en": "Aichi Prefecture Nagoya Fushiya Station",
+    "ja": "愛知県 名古屋市 伏屋駅"
+  },
+  "6634278629": {
+    "en": "Aichi Prefecture Nagoya Toda Station",
+    "ja": "愛知県 名古屋市 戸田駅"
+  },
+  "6689865382": {
+    "en": "Aichi Prefecture Nagoya Nagoya Station",
+    "ja": "愛知県 名古屋市 名古屋駅"
+  },
+  "6689887631": {
+    "en": "Aichi Prefecture Nagoya Nagoya-keibajō-mae Station",
+    "ja": "愛知県 名古屋市 名古屋競馬場前駅"
+  },
+  "6689887632": {
+    "en": "Aichi Prefecture Nagoya Arakogawa-koen Station",
+    "ja": "愛知県 名古屋市 荒子川公園駅"
+  },
+  "6689894779": {
+    "en": "Aichi Prefecture Nagoya Arako Station",
+    "ja": "愛知県 名古屋市 荒子駅"
+  },
+  "6689894780": {
+    "en": "Aichi Prefecture Nagoya Minami-Arako Station",
+    "ja": "愛知県 名古屋市 南荒子駅"
+  },
+  "6689894781": {
+    "en": "Aichi Prefecture Nagoya Nakajima Station",
+    "ja": "愛知県 名古屋市 中島駅"
+  },
+  "6689897343": {
+    "en": "Aichi Prefecture Nagoya Sashima-raibu Station",
+    "ja": "愛知県 名古屋市 ささしまライブ駅"
+  },
+  "6689897345": {
+    "en": "Aichi Prefecture Nagoya Omoto Station",
+    "ja": "愛知県 名古屋市 小本駅"
+  },
+  "6691244467": {
+    "en": "Aichi Prefecture Nagoya Kinjō-futō Station",
+    "ja": "愛知県 名古屋市 金城ふ頭駅"
+  },
+  "6691244471": {
+    "en": "Aichi Prefecture Nagoya Nose Station",
+    "ja": "愛知県 名古屋市 野跡駅"
+  },
+  "6691263586": {
+    "en": "Aichi Prefecture Nagoya Inaei Station",
+    "ja": "愛知県 名古屋市 稲永駅"
+  },
+  "6780097801": {
+    "en": "Aichi Prefecture Nagoya Jiyugaoka Station",
+    "ja": "愛知県 名古屋市 自由ヶ丘駅"
+  },
+  "7097097373": {
+    "en": "Aichi Prefecture Nagoya Hisaya-ōdōri Station",
+    "ja": "愛知県 名古屋市 久屋大通駅"
+  },
+  "7267425761": {
+    "en": "Aichi Prefecture Nagoya Hongō Station",
+    "ja": "愛知県 名古屋市 本郷駅"
+  },
+  "7306153254": {
+    "en": "Aichi Prefecture Nagoya Kamiyashiro Station",
+    "ja": "愛知県 名古屋市 上社駅"
+  },
+  "7744467054": {
+    "en": "Aichi Prefecture Nagoya Mizuho Kuyakusho Station",
+    "ja": "愛知県 名古屋市 瑞穂区役所駅"
+  },
+  "7783663372": {
+    "en": "Aichi Prefecture Nagoya Tokushige Station",
+    "ja": "愛知県 名古屋市 徳重駅"
+  },
+  "7783663373": {
+    "en": "Aichi Prefecture Nagoya Kamisawa Station",
+    "ja": "愛知県 名古屋市 神沢駅"
+  },
+  "7783663374": {
+    "en": "Aichi Prefecture Nagoya Aioiyama Station",
+    "ja": "愛知県 名古屋市 相生山駅"
+  },
+  "7783663375": {
+    "en": "Aichi Prefecture Nagoya Naruko Kita Station",
+    "ja": "愛知県 名古屋市 鳴子北駅"
+  },
+  "7783663376": {
+    "en": "Aichi Prefecture Nagoya Nonami Station",
+    "ja": "愛知県 名古屋市 野並駅"
+  },
+  "7783663377": {
+    "en": "Aichi Prefecture Nagoya Tsurusato Station",
+    "ja": "愛知県 名古屋市 鶴里駅"
+  },
+  "7783663378": {
+    "en": "Aichi Prefecture Nagoya Sakura-hommachi Station",
+    "ja": "愛知県 名古屋市 桜本町駅"
+  },
+  "7783663379": {
+    "en": "Aichi Prefecture Nagoya Aratama-bashi Station",
+    "ja": "愛知県 名古屋市 新瑞橋駅"
+  },
+  "7783663380": {
+    "en": "Aichi Prefecture Nagoya Mizuho Undōjō Nishi Station",
+    "ja": "愛知県 名古屋市 瑞穂運動場西駅"
+  },
+  "7783663381": {
+    "en": "Aichi Prefecture Nagoya Sakurayama Station",
+    "ja": "愛知県 名古屋市 桜山駅"
+  },
+  "7783663382": {
+    "en": "Aichi Prefecture Nagoya Fukiage Station",
+    "ja": "愛知県 名古屋市 吹上駅"
+  },
+  "7783663383": {
+    "en": "Aichi Prefecture Nagoya Imaike Station",
+    "ja": "愛知県 名古屋市 今池駅"
+  },
+  "7783663384": {
+    "en": "Aichi Prefecture Nagoya Kurumamichi Station",
+    "ja": "愛知県 名古屋市 車道駅"
+  },
+  "7783665985": {
+    "en": "Aichi Prefecture Nagoya Takaoka Station",
+    "ja": "愛知県 名古屋市 高岳駅"
+  },
+  "7783665986": {
+    "en": "Aichi Prefecture Nagoya Marunouchi Station",
+    "ja": "愛知県 名古屋市 丸の内駅"
+  },
+  "7783665987": {
+    "en": "Aichi Prefecture Nagoya Kokusai Center (International Center) Station",
+    "ja": "愛知県 名古屋市 国際センター駅"
+  },
+  "7783665988": {
+    "en": "Aichi Prefecture Nagoya Nagoya Station",
+    "ja": "愛知県 名古屋市 名古屋駅"
+  },
+  "7783665989": {
+    "en": "Aichi Prefecture Nagoya Nakamura Kuyakusho Station",
+    "ja": "愛知県 名古屋市 中村区役所駅"
+  },
+  "7783766939": {
+    "en": "Aichi Prefecture Nagoya Nishi Takakura Station",
+    "ja": "愛知県 名古屋市 西高蔵駅"
+  },
+  "7783766940": {
+    "en": "Aichi Prefecture Nagoya Jingū-Nishi Station",
+    "ja": "愛知県 名古屋市 神宮西駅"
+  },
+  "7783766941": {
+    "en": "Aichi Prefecture Nagoya Temma-chō Station",
+    "ja": "愛知県 名古屋市 伝馬町駅"
+  },
+  "7783766942": {
+    "en": "Aichi Prefecture Nagoya Horita Station",
+    "ja": "愛知県 名古屋市 堀田駅"
+  },
+  "7783766943": {
+    "en": "Aichi Prefecture Nagoya Myōon-dōri Station",
+    "ja": "愛知県 名古屋市 妙音通駅"
+  },
+  "7783766944": {
+    "en": "Aichi Prefecture Nagoya Aratama-bashi Station",
+    "ja": "愛知県 名古屋市 新瑞橋駅"
+  },
+  "7783766945": {
+    "en": "Aichi Prefecture Nagoya Mizuho Undojo Higashi Station",
+    "ja": "愛知県 名古屋市 瑞穂運動場東駅"
+  },
+  "7783766946": {
+    "en": "Aichi Prefecture Nagoya Sogo Rihabiri Center Station",
+    "ja": "愛知県 名古屋市 総合リハビリセンター駅"
+  },
+  "7783766947": {
+    "en": "Aichi Prefecture Nagoya Yagoto Station",
+    "ja": "愛知県 名古屋市 八事駅"
+  },
+  "7783766948": {
+    "en": "Aichi Prefecture Nagoya Yagoto Nisseki Station",
+    "ja": "愛知県 名古屋市 八事日赤駅"
+  },
+  "7783766949": {
+    "en": "Aichi Prefecture Nagoya Nagoya Daigaku Station",
+    "ja": "愛知県 名古屋市 名古屋大学駅"
+  },
+  "7783766950": {
+    "en": "Aichi Prefecture Nagoya Motoyama Station",
+    "ja": "愛知県 名古屋市 本山駅"
+  },
+  "7783766951": {
+    "en": "Aichi Prefecture Nagoya Chayagasaka Station",
+    "ja": "愛知県 名古屋市 茶屋ヶ坂駅"
+  },
+  "7783766952": {
+    "en": "Aichi Prefecture Nagoya Sunadabashi Station",
+    "ja": "愛知県 名古屋市 砂田橋駅"
+  },
+  "7783766953": {
+    "en": "Aichi Prefecture Nagoya Nagoya Dome-mae Yada Station",
+    "ja": "愛知県 名古屋市 ナゴヤドーム前矢田駅"
+  },
+  "7783766954": {
+    "en": "Aichi Prefecture Nagoya Ōzone Station",
+    "ja": "愛知県 名古屋市 大曽根駅"
+  },
+  "7784256782": {
+    "en": "Aichi Prefecture Nagoya Issha Station",
+    "ja": "愛知県 名古屋市 一社駅"
+  },
+  "7784256783": {
+    "en": "Aichi Prefecture Nagoya Motoyama Station",
+    "ja": "愛知県 名古屋市 本山駅"
+  },
+  "7784256784": {
+    "en": "Aichi Prefecture Nagoya Kakuōzan Station",
+    "ja": "愛知県 名古屋市 覚王山駅"
+  },
+  "7784263285": {
+    "en": "Aichi Prefecture Nagoya Ikeshita Station",
+    "ja": "愛知県 名古屋市 池下駅"
+  },
+  "7784263286": {
+    "en": "Aichi Prefecture Nagoya Imaike Station",
+    "ja": "愛知県 名古屋市 今池駅"
+  },
+  "7784263287": {
+    "en": "Aichi Prefecture Nagoya Shinsakae-machi Station",
+    "ja": "愛知県 名古屋市 新栄町駅"
+  },
+  "7784263288": {
+    "en": "Aichi Prefecture Nagoya Sakae Station",
+    "ja": "愛知県 名古屋市 栄駅"
+  },
+  "7784263289": {
+    "en": "Aichi Prefecture Nagoya Nagoya Station",
+    "ja": "愛知県 名古屋市 名古屋駅"
+  },
+  "7784263290": {
+    "en": "Aichi Prefecture Nagoya Kamejima Station",
+    "ja": "愛知県 名古屋市 亀島駅"
+  },
+  "7784263291": {
+    "en": "Aichi Prefecture Nagoya Honjin Station",
+    "ja": "愛知県 名古屋市 本陣駅"
+  },
+  "7784263292": {
+    "en": "Aichi Prefecture Nagoya Nakamura Nisseki Station",
+    "ja": "愛知県 名古屋市 中村日赤駅"
+  },
+  "7784263293": {
+    "en": "Aichi Prefecture Nagoya Nakamura Kōen Station",
+    "ja": "愛知県 名古屋市 中村公園駅"
+  },
+  "7784263294": {
+    "en": "Aichi Prefecture Nagoya Iwatsuka Station",
+    "ja": "愛知県 名古屋市 岩塚駅"
+  },
+  "7784263295": {
+    "en": "Aichi Prefecture Nagoya Hatta Station",
+    "ja": "愛知県 名古屋市 八田駅"
+  },
+  "7784263296": {
+    "en": "Aichi Prefecture Nagoya Takabata Station",
+    "ja": "愛知県 名古屋市 高畑駅"
+  },
+  "7784263297": {
+    "en": "Aichi Prefecture Nagoya Chikusa Station",
+    "ja": "愛知県 名古屋市 千種駅"
+  },
+  "7784408484": {
+    "en": "Aichi Prefecture Nagoya Nagoyakō Station",
+    "ja": "愛知県 名古屋市 名古屋港駅"
+  },
+  "7784456485": {
+    "en": "Aichi Prefecture Nagoya Tsukiji-guchi Station",
+    "ja": "愛知県 名古屋市 築地口駅"
+  },
+  "7784456486": {
+    "en": "Aichi Prefecture Nagoya Minato Kuyakusho Station",
+    "ja": "愛知県 名古屋市 港区役所駅"
+  },
+  "7784456487": {
+    "en": "Aichi Prefecture Nagoya Tōkai-dōri Station",
+    "ja": "愛知県 名古屋市 東海通駅"
+  },
+  "7784456488": {
+    "en": "Aichi Prefecture Nagoya Rokuban-chō Station",
+    "ja": "愛知県 名古屋市 六番町駅"
+  },
+  "7784456489": {
+    "en": "Aichi Prefecture Nagoya Hibino Station",
+    "ja": "愛知県 名古屋市 日比野駅"
+  },
+  "7825312971": {
+    "en": "Aichi Prefecture Nagoya Sannō Station",
+    "ja": "愛知県 名古屋市 山王駅"
+  },
+  "7825312973": {
+    "en": "Aichi Prefecture Nagoya Horita Station",
+    "ja": "愛知県 名古屋市 堀田駅"
+  },
+  "7826015593": {
+    "en": "Aichi Prefecture Nagoya Higashi-Biwajima Station",
+    "ja": "愛知県 名古屋市 東枇杷島駅"
+  },
+  "7826015595": {
+    "en": "Aichi Prefecture Nagoya Narumi Station",
+    "ja": "愛知県 名古屋市 鳴海駅"
+  },
+  "7828849653": {
+    "en": "Aichi Prefecture Nagoya Chūkyō-keibajō-mae Station",
+    "ja": "愛知県 名古屋市 中京競馬場前駅"
+  },
+  "7828849654": {
+    "en": "Aichi Prefecture Nagoya Arimatsu Station",
+    "ja": "愛知県 名古屋市 有松駅"
+  },
+  "7828849656": {
+    "en": "Aichi Prefecture Nagoya Hyōtan-yama Station",
+    "ja": "愛知県 名古屋市 瓢箪山駅"
+  },
+  "7829098357": {
+    "en": "Aichi Prefecture Nagoya Moto-Hoshizaki Station",
+    "ja": "愛知県 名古屋市 本星崎駅"
+  },
+  "7829098365": {
+    "en": "Aichi Prefecture Nagoya Moto-Kasadera Station",
+    "ja": "愛知県 名古屋市 本笠寺駅"
+  },
+  "7829100839": {
+    "en": "Aichi Prefecture Nagoya Yobitsugi Station",
+    "ja": "愛知県 名古屋市 呼続駅"
+  },
+  "7833953738": {
+    "en": "Aichi Prefecture Nagoya Toyoda Honmachi Station",
+    "ja": "愛知県 名古屋市 豊田本町駅"
+  },
+  "7833953740": {
+    "en": "Aichi Prefecture Nagoya Daidocho Station",
+    "ja": "愛知県 名古屋市 大同町駅"
+  },
+  "7834017702": {
+    "en": "Aichi Prefecture Nagoya Dotoku Station",
+    "ja": "愛知県 名古屋市 道徳駅"
+  },
+  "7834051655": {
+    "en": "Aichi Prefecture Nagoya Kitayama Station",
+    "ja": "愛知県 名古屋市 喜多山駅"
+  },
+  "7835147284": {
+    "en": "Aichi Prefecture Nagoya Yada Station",
+    "ja": "愛知県 名古屋市 矢田駅"
+  },
+  "7836237536": {
+    "en": "Aichi Prefecture Nagoya Moriyama-Jieitai-Mae Station",
+    "ja": "愛知県 名古屋市 守山自衛隊前駅"
+  },
+  "7836237537": {
+    "en": "Aichi Prefecture Nagoya Higashiōte Station",
+    "ja": "愛知県 名古屋市 東大手駅"
+  },
+  "7836237538": {
+    "en": "Aichi Prefecture Nagoya Ōmori-Kinjōgakuin-mae Station",
+    "ja": "愛知県 名古屋市 大森・金城学院前駅"
+  },
+  "7836240238": {
+    "en": "Aichi Prefecture Nagoya Obata Station",
+    "ja": "愛知県 名古屋市 小幡駅"
+  },
+  "7840123125": {
+    "en": "Aichi Prefecture Nagoya Morishita Station",
+    "ja": "愛知県 名古屋市 森下駅"
+  },
+  "7885215746": {
+    "en": "Aichi Prefecture Nagoya Higashi Nagoyakō Station",
+    "ja": "愛知県 名古屋市 東名古屋港駅"
+  },
+  "7968817556": {
+    "en": "Aichi Prefecture Nagoya Kanayama Station",
+    "ja": "愛知県 名古屋市 金山駅"
+  },
+  "7970588962": {
+    "en": "Aichi Prefecture Nagoya Sakaemachi Station",
+    "ja": "愛知県 名古屋市 栄町駅"
+  },
+  "7970589197": {
+    "en": "Aichi Prefecture Nagoya Shimizu Station",
+    "ja": "愛知県 名古屋市 清水駅"
+  },
+  "7972119773": {
+    "en": "Aichi Prefecture Nagoya Ōzone Station",
+    "ja": "愛知県 名古屋市 大曽根駅"
+  },
+  "7972119776": {
+    "en": "Aichi Prefecture Nagoya Amagasaka Station",
+    "ja": "愛知県 名古屋市 尼ケ坂駅"
+  },
+  "7981295815": {
+    "en": "Aichi Prefecture Nagoya Higashiyama Kōen (Higashiyama Park) Station",
+    "ja": "愛知県 名古屋市 東山公園駅"
+  },
+  "7981295816": {
+    "en": "Aichi Prefecture Nagoya Hoshigaoka Station",
+    "ja": "愛知県 名古屋市 星ヶ丘駅"
+  },
+  "7984763509": {
+    "en": "Aichi Prefecture Nagoya Hira Station",
+    "ja": "愛知県 名古屋市 比良駅"
+  },
+  "7984763510": {
+    "en": "Aichi Prefecture Nagoya Otai Station",
+    "ja": "愛知県 名古屋市 小田井駅"
+  },
+  "7992136571": {
+    "en": "Aichi Prefecture Nagoya Komeno Station",
+    "ja": "愛知県 名古屋市 米野駅"
+  },
+  "7994202411": {
+    "en": "Aichi Prefecture Nagoya Kami-Otai Station",
+    "ja": "愛知県 名古屋市 上小田井駅"
+  },
+  "7994289287": {
+    "en": "Aichi Prefecture Nagoya Kanayama Station",
+    "ja": "愛知県 名古屋市 金山駅"
+  },
+  "8024476627": {
+    "en": "Aichi Prefecture Nagoya Shibata Station",
+    "ja": "愛知県 名古屋市 柴田駅"
+  },
+  "8092166353": {
+    "en": "Aichi Prefecture Nagoya Sakyōyama Station",
+    "ja": "愛知県 名古屋市 左京山駅"
+  },
+  "8092328367": {
+    "en": "Aichi Prefecture Nagoya Ōe Station",
+    "ja": "愛知県 名古屋市 大江駅"
+  },
+  "8109714211": {
+    "en": "Aichi Prefecture Nagoya Sakura Station",
+    "ja": "愛知県 名古屋市 桜駅"
+  }
+}
