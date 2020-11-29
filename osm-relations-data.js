@@ -26,6 +26,9 @@ const sleep = msec => new Promise(resolve => setTimeout(resolve, msec));
 
 const fetchOverpass = (data, prefix = null, suffix = null) => {
   return new Promise(async (resolve, reject) => {
+    console.log('');
+    console.log('----- -----');
+    console.log('');
     console.log('overpass api query: ');
     console.log(data);
     const params = {
