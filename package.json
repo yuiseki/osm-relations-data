@@ -11,6 +11,6 @@
   "dependencies": {
     "node-fetch": "^2.6.1",
     "osm-geojson": "^0.8.4",
-    "osmtogeojson": "^3.0.0-beta.4"
+    "osmtogeojson": "^3.0.0-beta.5"
   }
 }
